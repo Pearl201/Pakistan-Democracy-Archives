@@ -1,0 +1,383 @@
+form{
+margin:0px;
+padding:0px;
+}
+
+input, select {
+	font-size: 100%;
+}
+
+body{
+margin:0px;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 12px;
+}
+#wrapper{
+width:998px;
+margin:0px auto;
+}
+#header{
+margin-bottom:0px; margin-left:0px; margin-right:0px; margin-top:0px;
+PADDING-RIGHT: 0px;PADDING-LEFT: 0px; PADDING-TOP:0px; PADDING-BOTTOM:0px;
+height:116px;
+}
+#headerLinks{
+font-family:Arial, Helvetica, sans-serif;
+font-size:11px;
+color:#FFFFFF;
+}
+#headerLinks a{
+font-size:11px;
+color:#FFFFFF;
+text-decoration:none;
+}
+#headerLinks a:hover{
+font-size:11px;
+color:#FFFFFF;
+text-decoration:none;
+}
+#navMenu{
+width:998px;
+height:24px;
+margin-bottom:0px; margin-left:0px; margin-right:0px; margin-top:0px;
+PADDING-RIGHT: 0px;PADDING-LEFT: 0px; PADDING-TOP:0px; PADDING-BOTTOM:0px;
+background-image:url('../../../../20130508074832/http://www.pabalochistan.gov.pk/images/menu_back.jpg');
+background-repeat:repeat-x;
+}
+#mainContainer{
+margin-bottom:0px; margin-left:0px; margin-right:0px; margin-top:0px;
+PADDING-RIGHT: 0px;PADDING-LEFT: 0px; PADDING-TOP:0px; PADDING-BOTTOM:0px;
+width:998px;
+height:auto;
+background-color:#F6F3F1;
+}
+#leftPane{
+margin-bottom:0px; margin-left:0px; margin-right:0px; margin-top:0px;
+PADDING-RIGHT: 0px;PADDING-LEFT: 0px; PADDING-TOP:0px; PADDING-BOTTOM:0px;
+width:167px;
+height:400px;
+background-color:#FDFCFB;
+float:left;
+}
+#subMenu{
+margin-bottom:0px; margin-left:0px; margin-right:0px; margin-top:20px;
+PADDING-RIGHT: 0px;PADDING-LEFT: 0px; PADDING-TOP:0px; PADDING-BOTTOM:0px;
+width:160px;
+background-color:#FDFCFB;
+}
+
+#subMenu ul{
+margin-bottom:0px; margin-left:30px; margin-right:0px; margin-top:10px;
+PADDING-RIGHT: 0px;PADDING-LEFT: 0px; PADDING-TOP:0px; PADDING-BOTTOM:0px;
+}
+#subMenu li{
+margin-bottom:0px; margin-left:0px; margin-right:0px; margin-top:0px;
+PADDING-RIGHT: 0px;PADDING-LEFT: 0px; PADDING-TOP:0px; PADDING-BOTTOM:10px;
+}
+#subMenu ul li a{
+color:#666666;
+text-decoration:none;
+font-size:12px;
+}
+#subMenu ul li a:hover{
+color:#006633;
+font-size:12px;
+text-decoration:none;
+}
+#webHLHeading img{
+margin-bottom:0px; margin-left:9px; margin-right:0px; margin-top:16px;
+}
+#breadcrumbs{
+margin-bottom:0px; margin-left:0px; margin-right:0px; margin-top:30px;
+PADDING-RIGHT: 0px;PADDING-LEFT: 12px; PADDING-TOP:0px; PADDING-BOTTOM:0px;
+width:800px;
+background-color:#F6F3F1;
+float:left;
+font-size: 95%;
+}
+#breadcrumbs a{
+text-decoration: none;
+color: #0066CC;
+}
+#breadcrumbs a:hover{
+text-decoration: underline;
+}
+#prtfrndly{
+margin:0px;
+PADDING-RIGHT: 26px; PADDING-LEFT: 12px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px;
+float: right;
+background-image: url(../../../../20130508074832/http://www.pabalochistan.gov.pk/images/printer_ba.gif);
+background-repeat:no-repeat;
+background-position:right;
+text-align:center;
+height:15px;
+background-color:#F6F3F1;
+}
+#prtfrndly a{
+text-decoration: none;
+color: #0066CC;
+}
+#prtfrndly a:hover{
+text-decoration: underline;
+}
+#content{
+margin-bottom:0px; margin-left:0px; margin-right:0px; margin-top:15px;
+PADDING-RIGHT: 0px;PADDING-LEFT: 12px; PADDING-TOP:0px; PADDING-BOTTOM:0px;
+width:819px;
+float:left;
+background-color:#F6F3F1;
+}
+#content a:link{
+color: #0066CC;
+}
+
+#content a:active{
+color: #E12D1E;
+background-color: #F5F5F5;
+}
+#content a:visited{
+color: #72459E;
+}
+#webHeighlight{
+margin-bottom:0px; margin-left:8px; margin-right:0px; margin-top:5px;
+PADDING-RIGHT: 0px;PADDING-LEFT: 0px; PADDING-TOP:0px; PADDING-BOTTOM:1px;
+height:83px;
+width:981px;
+background-color:#FFFFFF;
+}
+#footerBG{
+margin-bottom:0px; margin-left:0px; margin-right:0px; margin-top:0px;
+PADDING-RIGHT: 0px;PADDING-LEFT: 0px; PADDING-TOP:0px; PADDING-BOTTOM:0px;
+background-image:url(../../../../20130508074832/http://www.pabalochistan.gov.pk/images/ba_main_127.gif);
+background-repeat:no-repeat;
+background-position:bottom;
+background-color:#F6F3F1;
+height:20px;
+width:998px;
+clear:both;
+}
+#footer{
+margin-bottom:0px; margin-left:0px; margin-right:0px; margin-top:0px;
+PADDING-RIGHT: 2px;PADDING-LEFT: 2px; PADDING-TOP:0px; PADDING-BOTTOM:0px;
+width:994px;
+height:20px;
+background-color:#008001;
+clear:both;
+}
+.copyRight{
+font-family:Arial, Helvetica, sans-serif;
+color:#FFFFFF;
+font-size:10px;
+}
+.footerLinks{
+font-family:Arial, Helvetica, sans-serif;
+font-size:11px;
+color:#FFFFFF;
+}
+.footerLinks a{
+font-family:Arial, Helvetica, sans-serif;
+font-size:11px;
+color:#FFFFFF;
+text-decoration:none;
+}
+.txt{
+font-size:10px;
+text-align:justify;
+color:#333333;
+font-family:Verdana, Arial, Helvetica, sans-serif;
+}
+TABLE.tabularData, TABLE.tabularData TD, TD.tabularData{
+border-style: dotted;
+border-color: #ECE3DD;
+border-width: 1px;
+border-collapse: collapse; 
+}
+TR.tabularDataHd{
+background: #cce6cb;
+color: #008001;	
+}
+
+TABLE.bkgd, TABLE.bkgd TD, TD.bkgd{
+border-style: solid;
+border-color: #F9F7F4;
+border-width: 1px;
+border-collapse: collapse; 
+background-color: #EEE6E1;
+}
+
+
+.pageHeading{
+font-family: Georgia, MS Serif, Times New Roman, serif;
+font-size: 13px;
+background-color: #D3CCB0;
+padding: 7px 10px 7px 10px;
+color: #900;
+font-weight:bold;
+}
+H1, H2{
+	font-family: Arial, Helvetica, sans-serif;
+}
+H1{
+	font-size: 12px;
+	color: #666;
+	padding: 9px 5px 0px 10px;
+	margin: 0px;
+	width: auto;
+	text-transform: uppercase;
+}
+H2 {
+color: #008001;
+font-size: 16px;
+}
+H3{
+margin-top: 12px;
+margin-bottom: 5px; 
+font-size: 130%;
+color: #0e4e0e;
+}
+H4{
+font-size: 110%;
+color: #044523;
+}
+p{
+margin-top: 10px;
+margin-bottom: 10px; 	
+}
+
+LI{
+	margin-bottom: 10px;
+}
+
+label, .frmLabel{
+font-weight: bold;
+color: #4F4F4F;
+}
+
+.labelMandatory{
+	color: #E43E30; 
+}
+
+.alert{
+	color: #E43E30;
+	width: 60%;
+	border-width: 1px;
+	border-style: dotted;
+	border-color: #C92214;
+	margin-left: 10px;
+	margin-right: 200px;
+	margin-bottom: 15px;
+	padding-left: 10px;
+	padding-right: 10px;
+	background-repeat: no-repeat;
+	background-position: 3px 6px;
+}
+
+.frmNote{
+	font-size: 90%;
+	color: #666;
+	font-style: italic;
+}
+
+.asmblyTenure{
+color: #666;
+font-size: 100%;
+text-transform: uppercase;
+background-color: #F0EAE6;
+width: 130px;
+}
+
+.byName{
+font-size: 110%;
+font-weight: bold;
+}
+
+.mpaStatus{
+background-color:#F86D6D;
+}
+
+.sidePaneHd{
+	font-size: 110%;
+	background-color: #62bb63;
+	color: White;
+}
+
+.sidePane{
+	color: #555;
+	border-style: solid;
+	border-color: #E1D6CE;
+	border-width: 1px;
+	margin: 5px 5px 5px 10px;
+}
+
+.date{
+	color:#787878;
+}
+
+.mpaProfileTb, .mpaProfileTb TD{
+	border-bottom: dotted;
+	border-bottom-width: 1px;
+	border-color: #E7DBD3;
+}
+
+.mpaProfileTb TABLE TD{
+	border-bottom: none;
+}
+
+
+
+#toTop{
+text-align:right;
+margin-right: 20px;
+}
+
+#toTop a:link, #toTop a:visited{
+text-decoration:none;
+color: #006633;
+}
+
+.languageSwitch{
+font-family:tahoma;
+text-decoration:none;
+font-weight:bold;
+color:#FFFFFF;
+font-size:14px;
+}
+.languageSwitch a{
+text-decoration:none;
+font-family:tahoma;
+text-decoration:none;
+font-weight:bold;
+color:#FFFFFF;
+font-size:14px;
+}
+.languageSwitch a:hover{
+color:#FFFFFF;
+font-size:14px;
+}
+.searchButton{
+font-size:10px;
+color:#FFFFFF;
+border:none;
+background-color:#008001;
+}
+/*
+     FILE ARCHIVED ON 07:48:32 May 08, 2013 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 18:27:59 Jul 14, 2022.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 121.952
+  exclusion.robots: 0.165
+  exclusion.robots.policy: 0.152
+  cdx.remote: 0.104
+  esindex: 0.012
+  LoadShardBlock: 75.637 (3)
+  PetaboxLoader3.datanode: 93.029 (4)
+  CDXLines.iter: 15.346 (3)
+  load_resource: 91.995
+  PetaboxLoader3.resolve: 56.739
+*/
