@@ -31,8 +31,7 @@
 
 </head>
 
-<body>
-
+<body onload="javascript:getData('data.xml');document.getElementById('notif').className='onfocusColor'">
 <div id="wrapper">
 
   <div id="header">
@@ -51,7 +50,7 @@
 
         <td><img src="https://pearl201.github.io/Pakistan-Democracy-Archives/2013/www.pabalochistan.gov.pk/images/ba_sec_03.jpg" width="433" height="42" /></td>
 
-        <td align="right" valign="top" background="/images/ba_main_04.jpg">
+        <td align="right" valign="top" background="https://pearl201.github.io/Pakistan-Democracy-Archives/2013/www.pabalochistan.gov.pk/images/ba_main_04.jpg">
 
 			<table width="100%" height="42" border="0" cellpadding="0" cellspacing="0">
 
@@ -68,17 +67,11 @@
           <tr>
 
             <td width="53%" align="left">
-
-				<form method="post" action="https://pearl201.github.io/Pakistan-Democracy-Archives/2013/www.pabalochistan.gov.pk/index.php/search/searchhandler/en">
-
-		          <table width="100" border="0" cellpadding="0" cellspacing="0">
-
+				<form action="https://pearl201.github.io/Pakistan-Democracy-Archives/2013/www.pabalochistan.gov.pk/index.php/search/searchhandler/en" method="post">		          <table width="100" border="0" cellpadding="0" cellspacing="0">
           <tr>
 
             <td width="120">
-
-			<input name="search_keyword" type="text" class="txt" onBlur="if(this.value=='') {this.value='Search . . .';}" onFocus="if(this.value=='Search . . .') {this.value='';}" value="Search . . ." /></td>
-
+			<input name="search_keyword" type="text" class="txt" onblur="if(this.value=='') {this.value='Search . . .';}" onfocus="if(this.value=='Search . . .') {this.value='';}" value="Search . . ." /></td>
             <td width="21" align="center"><span class="style1">&nbsp;In&nbsp;</span></td>
 
             <td width="120">
@@ -141,7 +134,8 @@
 
 	  </div>
 <div id="breadcrumbs"><a href="https://pearl201.github.io/Pakistan-Democracy-Archives/2013/www.pabalochistan.gov.pk/index.php/home/en">Home</a>  > Glossary</div>
-<div id="prtfrndly"><a href="https://pearl201.github.io/Pakistan-Democracy-Archives/2013/www.pabalochistan.gov.pk/html/1193385909_e.shtml?print_ver" target="_blank">Printer Friendly</a></div>
+<div id="prtfrndly"><a href='javascript:void(0);' onclick="window.open('https://pearl201.github.io/Pakistan-Democracy-Archives/2013/www.pabalochistan.gov.pk/html/1193385909_e.shtml?print_ver', '_blank');">Printer Friendly</a></div>
+
 
 <div id="content">
 
