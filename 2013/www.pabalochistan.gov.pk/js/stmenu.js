@@ -102,24 +102,3 @@ function stgEff(f,i,s,h,st){if(!f.indexOf("stEffect")){if(!st)stEffect(f,h);retu
 
 
 }
-/*
-     FILE ARCHIVED ON 12:16:45 Apr 24, 2013 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 18:27:57 Jul 14, 2014.
-     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
-
-     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
-     SECTION 108(a)(3)).
-*/
-/*
-playback timings (ms):
-  captures_list: 213.931
-  exclusion.robots: 0.079
-  exclusion.robots.policy: 0.072
-  cdx.remote: 0.059
-  esindex: 0.011
-  LoadShardBlock: 186.618 (3)
-  PetaboxLoader3.resolve: 119.36 (3)
-  PetaboxLoader3.datanode: 237.724 (4)
-  CDXLines.iter: 13.111 (3)
-  load_resource: 196.969
-*/

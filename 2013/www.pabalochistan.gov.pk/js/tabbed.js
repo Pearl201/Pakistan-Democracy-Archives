@@ -48,24 +48,3 @@ function changeClass(class_name1,class_name2,class_name3,class_name4){
 }
 
 }
-/*
-     FILE ARCHIVED ON 14:02:21 Apr 24, 2013 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 16:53:23 Jul 14, 2014.
-     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
-
-     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
-     SECTION 108(a)(3)).
-*/
-/*
-playback timings (ms):
-  captures_list: 168.511
-  exclusion.robots: 0.109
-  exclusion.robots.policy: 0.101
-  RedisCDXSource: 1.801
-  esindex: 0.009
-  LoadShardBlock: 149.689 (3)
-  PetaboxLoader3.datanode: 178.795 (4)
-  CDXLines.iter: 14.165 (3)
-  load_resource: 119.72
-  PetaboxLoader3.resolve: 61.968
-*/

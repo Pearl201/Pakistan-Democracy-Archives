@@ -37,7 +37,7 @@ width:998px;
 height:24px;
 margin-bottom:0px; margin-left:0px; margin-right:0px; margin-top:0px;
 PADDING-RIGHT: 0px;PADDING-LEFT: 0px; PADDING-TOP:0px; PADDING-BOTTOM:0px;
-background-image:url('/web/20120218200710im_/http://www.pabalochistan.gov.pk/images/menu_back.jpg');
+background-image:url('http://www.pabalochistan.gov.pk/images/menu_back.jpg');
 background-repeat:repeat-x;
 }
 #mainContainer{
@@ -210,7 +210,7 @@ PADDING-RIGHT: 0px;PADDING-LEFT: 0px; PADDING-TOP:0px; PADDING-BOTTOM:1px;
 height:33px;
 width:998px;
 clear:both;
-background-image:url(/web/20120218200710im_/http://www.pabalochistan.gov.pk/images/ba_main_96.gif);
+background-image:url(http://www.pabalochistan.gov.pk/images/ba_main_96.gif);
 background-position:bottom;
 background-repeat:no-repeat;
 }
@@ -238,7 +238,7 @@ background-color:#FFFFFF;
 #footerBG{
 margin-bottom:0px; margin-left:0px; margin-right:0px; margin-top:0px;
 PADDING-RIGHT: 0px;PADDING-LEFT: 0px; PADDING-TOP:0px; PADDING-BOTTOM:0px;
-background-image:url(/web/20120218200710im_/http://www.pabalochistan.gov.pk/images/ba_main_127.gif);
+background-image:url(http://www.pabalochistan.gov.pk/images/ba_main_127.gif);
 background-repeat:no-repeat;
 background-position:center;
 background-color:#cce6cb;
