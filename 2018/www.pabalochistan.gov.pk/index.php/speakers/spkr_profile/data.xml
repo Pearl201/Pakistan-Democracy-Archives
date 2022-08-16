@@ -1,0 +1,448 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<script type="text/javascript" language="JavaScript1.2" src="https://pearl201.github.io/Pakistan-Democracy-Archives/2018/www.pabalochistan.gov.pk/js/stmenu.js"></script>
+<link rel="stylesheet" type="text/css" href="https://pearl201.github.io/Pakistan-Democracy-Archives/2018/www.pabalochistan.gov.pk/css/styles-en.css">
+<title>Welcome to the Website of Provincial Assembly of Balochistan</title>
+<style type="text/css">
+<!--
+.style1 {color: #FFFFFF}
+-->
+</style>
+</head>
+
+<body onload="javascript:getData('data.xml');document.getElementById('notif').className='onfocusColor'">
+<div id="wrapper">
+  <div id="header">
+    <table width="998" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td><a href="https://pearl201.github.io/Pakistan-Democracy-Archives/2018/www.pabalochistan.gov.pk/index.php/home/en"><img src="https://pearl201.github.io/Pakistan-Democracy-Archives/2018/www.pabalochistan.gov.pk/images/ba_sec_01.jpg" width="433" height="74" border="0" /></a></td>
+        <td><img src="https://pearl201.github.io/Pakistan-Democracy-Archives/2018/www.pabalochistan.gov.pk/images/ba_sec_02.jpg" width="565" height="74" border="0" /></td>
+      </tr>
+      <tr>
+        <td><img src="https://pearl201.github.io/Pakistan-Democracy-Archives/2018/www.pabalochistan.gov.pk/images/ba_sec_03.jpg" width="433" height="42" /></td>
+        <td align="right" valign="top" background="https://pearl201.github.io/Pakistan-Democracy-Archives/2018/www.pabalochistan.gov.pk/images/ba_main_04.jpg">
+			<table width="100%" height="42" border="0" cellpadding="0" cellspacing="0">
+          <tr>
+            <td colspan="2" align="left"><div id="headerLinks"><a href="https://pearl201.github.io/Pakistan-Democracy-Archives/2018/www.pabalochistan.gov.pk/index.php/home/en">Home</a> | <a href="https://pearl201.github.io/Pakistan-Democracy-Archives/2018/www.pabalochistan.gov.pk/index.php/contactus/form/en">Contact Us</a> | <a href="https://pearl201.github.io/Pakistan-Democracy-Archives/2018/www.pabalochistan.gov.pk/index.php/rop/rlist/en">Rules of Procedure</a> | <a href="https://pearl201.github.io/Pakistan-Democracy-Archives/2018/www.pabalochistan.gov.pk/index.php/downloads/dlist/en">Downloads</a> | <a href="https://pearl201.github.io/Pakistan-Democracy-Archives/2018/www.pabalochistan.gov.pk/index.php/faqs/cats/en">FAQs</a> | <a href="https://pearl201.github.io/Pakistan-Democracy-Archives/2018/www.pabalochistan.gov.pk/html/1193385909_e.shtml">Glossary</a> | <a href="https://pearl201.github.io/Pakistan-Democracy-Archives/2018/www.pabalochistan.gov.pk/html/1236577510_e.shtml">Web Mail.</a> | <a href="https://pearl201.github.io/Pakistan-Democracy-Archives/2018/www.pabalochistan.gov.pk/html/1195034585_e.shtml">Useful Links</a> | <a href="https://pearl201.github.io/Pakistan-Democracy-Archives/2018/www.pabalochistan.gov.pk/index.php/sitemap/map/en">Sitemap</a></div></td>
+            </tr>
+          <tr>
+            <td width="53%" align="left">
+				<form action="https://pearl201.github.io/Pakistan-Democracy-Archives/2018/www.pabalochistan.gov.pk/index.php/search/searchhandler/en" method="post">		          <table width="100" border="0" cellpadding="0" cellspacing="0">
+          <tr>
+            <td width="120">
+			<input name="search_keyword" type="text" class="txt" onblur="if(this.value=='') {this.value='Search . . .';}" onfocus="if(this.value=='Search . . .') {this.value='';}" value="Search . . ." /></td>
+            <td width="21" align="center"><span class="style1">&nbsp;In&nbsp;</span></td>
+            <td width="120">
+			<select name="search_request" class="txt">
+              <optgroup label="Sections">
+			  <option value="1">Members' Directory</option>
+  			  <option value="2">Bills</option>
+  			  <option value="3">Acts</option>
+  			  <option value="4">Business</option>
+  			  <option value="5">Media Center</option>
+  			  <option value="6">Rest of Website</option>
+			  </optgroup>
+            </select></td>
+            <td width="37" align="center"><input name="submit" type="submit" class="searchButton" value=" ► " /></td>
+            <td width="167" align="right">&nbsp;</td>
+          </tr>
+        </table>
+	          </form>			</td>
+            <td width="47%" align="right" class="languageSwitch"><a href="https://pearl201.github.io/Pakistan-Democracy-Archives/2018/www.pabalochistan.gov.pk/index.php/speakers/spkr_profile/ur" title="اردو">اردو</a>&nbsp;&nbsp;</td>
+          </tr>
+        </table>
+		</td>
+      </tr>
+    </table>
+  </div>
+	<div id="navMenu"> <script language="JavaScript1.2" src="https://pearl201.github.io/Pakistan-Democracy-Archives/2018/www.pabalochistan.gov.pk/html/main_nav_e.js" type="text/javascript"></script></div>
+	<div id="mainContainer">
+	  <div id="leftPane">
+	  	<div id="subMenu">
+			<h1>Speaker</h1>			<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+<div  id="subMenu">
+<ul>
+<li><a href="https://pearl201.github.io/Pakistan-Democracy-Archives/2018/www.pabalochistan.gov.pk/index.php/speakers/spkr_msg/en" title="Message">Message</a></li>
+<li><a href="https://pearl201.github.io/Pakistan-Democracy-Archives/2018/www.pabalochistan.gov.pk/index.php/speakers/spkr_profile/en" title="Profile">Profile</a></li>
+<li><a href="https://pearl201.github.io/Pakistan-Democracy-Archives/2018/www.pabalochistan.gov.pk/index.php/speakers/spkr_news/en" title="News & Activities">News & Activities</a></li>
+<li><a href="https://pearl201.github.io/Pakistan-Democracy-Archives/2018/www.pabalochistan.gov.pk/index.php/speakers/past_spkrs/en" title="Former Speakers">Former Speakers</a></li>
+<li><a href="https://pearl201.github.io/Pakistan-Democracy-Archives/2018/www.pabalochistan.gov.pk/index.php/speakers/spkr_role/en" title="Role of Speaker">Role of Speaker</a></li>
+</ul>
+</div>
+
+
+		</div>
+	  </div>
+<div id="breadcrumbs"><a href="https://pearl201.github.io/Pakistan-Democracy-Archives/2018/www.pabalochistan.gov.pk/index.php/home/en" title="Home">Home</a> &gt; Members &gt; <a href="https://pearl201.github.io/Pakistan-Democracy-Archives/2018/www.pabalochistan.gov.pk/index.php/speakers/spkr_msg/en" title="Speaker">Speaker</a> &gt; Speaker Profile </div>
+<div id="prtfrndly"><a href='javascript:void(0);' onclick="window.open('https://pearl201.github.io/Pakistan-Democracy-Archives/2018/www.pabalochistan.gov.pk/index.php/speakers/spkr_profile/data.xml/print_ver', '_blank');">Printer Friendly</a></div>
+<div id="content">
+  <h2>Speaker Profile </h2>
+    <table width="100%" border="0">
+  <tr>
+    <td valign="top"><table width="100%" border="0">
+      <tr>
+        <td><table width="100%" border="0">
+          <tr>
+            <td valign="top">
+              <h3>Mr.&nbsp;Muhammad Aslam Bhootani              </h3>
+              <p>PB 45-Lasbela II</p>
+<p class="frmLabel">Took Oath as speaker on 
+<a href="https://pearl201.github.io/Pakistan-Democracy-Archives/2018/www.pabalochistan.gov.pk/index.php/business/stn/en/26/321" title="April 8th 2008">April 8th 2008</a> of the 
+<a href="https://pearl201.github.io/Pakistan-Democracy-Archives/2018/www.pabalochistan.gov.pk/index.php/business/ssn/en/26/74" title="1st Session">1st Session</a> of Assembly</p>
+			
+			</td>
+            <td valign="top">
+			
+			     			<img src="https://pearl201.github.io/Pakistan-Democracy-Archives/2018/www.pabalochistan.gov.pk/uploads/mpapics/8092cd0bff95c48f29d293e5577b5eb4.JPG"/>
+  						
+			
+			</td>
+          </tr>
+        </table></td>
+      </tr>
+      <tr>
+        <td>
+		
+		<table  width="100%" border="0" cellpadding="6" cellspacing="0" class="mpaProfileTb">
+
+  
+   	   
+      <tr>
+    <td class="frmLabel">Academic Qualifications</td>
+    <td>
+			Bachelor of Arts<br>
+		</td>
+  </tr>
+      <tr>
+    <td class="frmLabel">Profession(s)</td>
+    <td>
+			Politician<br>
+		</td>
+  </tr>
+    <tr>
+    <td class="frmLabel">Party Affiliation</td>
+    <td>
+	Like Minded Group	&nbsp;
+	(<a href="https://pearl201.github.io/Pakistan-Democracy-Archives/2018/www.pabalochistan.gov.pk/index.php/members/byparty/en/26/20" title="See other MPAs of this party">See other MPAs of this party</a>)
+	</td>
+  </tr>
+    <tr>
+    <td class="frmLabel">Email</td>
+    <td>aslambhootani@hotmail.com</td>
+  </tr>
+    <tr>
+    <td class="frmLabel">Father's/Husband's Name</td>
+    <td>Sardar Umeed Ali Bhootani</td>
+  </tr>
+    <tr>
+    <td class="frmLabel">Marital Status</td>
+    <td>Married</td>
+  </tr>
+        <tr>
+    <td class="frmLabel">Date of Birth</td>
+    <td>1960-10-02</td>
+  </tr>
+      <tr>
+    <td class="frmLabel">Place of Birth</td>
+    <td>Dureji District Lasbela</td>
+  </tr>
+      <tr>
+    <td class="frmLabel">Tribe</td>
+    <td>Bhootani</td>
+  </tr>
+      <tr>
+    <td class="frmLabel">Permanent Contact</td>
+    <td>Dureji District Lasbela</td>
+  </tr>
+      <tr>
+    <td class="frmLabel">Address in Constituency</td>
+    <td>Dureji District Lasbela</td>
+  </tr>
+      <tr>
+    <td class="frmLabel">Previous Official Positions</td>
+    <td>
+	<table width="100%" border="0">
+  <tr>
+    <td class="frmLabel"><strong>Body</strong></td>
+    <td class="frmLabel"><strong>Post</strong></td>
+    <td class="frmLabel"><strong>Duration</strong></td>
+  </tr>
+    <tr>
+    <td>Provincial Assembly of Balochistan</td>
+    <td>Deputy Speaker</td>
+    <td>2002-2008</td>
+  </tr>
+  </table>
+	</td>
+  </tr>
+          <tr>
+    <td class="frmLabel">Seminars &amp; Conferences Attended</td>
+    <td>
+	<table width="100%" border="0">
+  <tr>
+    <td class="frmLabel"><strong>Event</strong></td>
+    <td class="frmLabel"><strong>Participated As</strong></td>
+    <td class="frmLabel"><strong>Country</strong></td>
+	<td class="frmLabel"><strong>Year</strong></td>
+  </tr>
+    <tr>
+    <td>21st CPA Seminar </td>
+    <td>Delegate</td>
+    <td>Australia</td>
+	<td>2009</td>
+  </tr>
+    <tr>
+    <td>2nd Asia and India Regions' CPA Conference </td>
+    <td>Delegate</td>
+    <td>India</td>
+	<td>2005</td>
+  </tr>
+    <tr>
+    <td>2nd Meeting of CPA Working Party</td>
+    <td>Member</td>
+    <td>Canada</td>
+	<td>2011</td>
+  </tr>
+    <tr>
+    <td>3rd Asia and India Regions' CPA Conference </td>
+    <td>Delegate</td>
+    <td>Pakistan</td>
+	<td>2007</td>
+  </tr>
+    <tr>
+    <td>3rd CPA Asia Regional Conference</td>
+    <td>Delegate</td>
+    <td>Sri Lanka</td>
+	<td>2011</td>
+  </tr>
+    <tr>
+    <td>3rd CPA Working Party meeting</td>
+    <td>Delegate</td>
+    <td>United Kingdom</td>
+	<td>2011</td>
+  </tr>
+    <tr>
+    <td>4th India and Asia Region CPA Conference</td>
+    <td>Delegate</td>
+    <td>India</td>
+	<td>2010</td>
+  </tr>
+    <tr>
+    <td>4th Meeting of CPA Working Party</td>
+    <td>Member</td>
+    <td>Tonga</td>
+	<td>2012</td>
+  </tr>
+    <tr>
+    <td>53rd CPA Conference</td>
+    <td>Delegate</td>
+    <td>India</td>
+	<td>2007</td>
+  </tr>
+    <tr>
+    <td>54th CPA Conference </td>
+    <td>Delegate</td>
+    <td>Malaysia</td>
+	<td>2008</td>
+  </tr>
+    <tr>
+    <td>56th CPA Plenary Conference </td>
+    <td>Delegate</td>
+    <td>Kenya</td>
+	<td>2010</td>
+  </tr>
+    <tr>
+    <td>57th Commonwealth Parliamentary Planery Conference</td>
+    <td>Delegate</td>
+    <td>United Kingdom</td>
+	<td>2011</td>
+  </tr>
+    <tr>
+    <td>57th CPA Conference,</td>
+    <td>Delegate</td>
+    <td>United Kingdom</td>
+	<td>2011</td>
+  </tr>
+    <tr>
+    <td>International Parliamentary Conference on Climate Change</td>
+    <td>Delegate</td>
+    <td>United Kingdom</td>
+	<td>2010</td>
+  </tr>
+    <tr>
+    <td>Parliamentary Study Visit on Parliament and Parliamentary Committee’s Role in Budget Process</td>
+    <td>Head of Delegation</td>
+    <td>Canada</td>
+	<td>2011</td>
+  </tr>
+    <tr>
+    <td>The International Parliamentary Conference on Peacebuilding</td>
+    <td>Delegate</td>
+    <td>United Kingdom</td>
+	<td>2010</td>
+  </tr>
+    <tr>
+    <td>Visit to DAI office at Washington DC USA</td>
+    <td>Delegate</td>
+    <td>United States</td>
+	<td>2009</td>
+  </tr>
+    <tr>
+    <td>Wilton Park Conference</td>
+    <td>Delegate</td>
+    <td>United Kingdom</td>
+	<td>2006</td>
+  </tr>
+  </table>
+	</td>
+  </tr>
+          <tr>
+    <td class="frmLabel">Personal Career &amp; Interests</td>
+    <td>
+	<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<meta content="Word.Document" name="ProgId" />
+<meta content="Microsoft Word 11" name="Generator" />
+<meta content="Microsoft Word 11" name="Originator" />
+<link href="file:///C:\DOCUME~1\PLSP\LOCALS~1\Temp\msohtml1\01\clip_filelist.xml" rel="File-List" /><o:smarttagtype name="Street" namespaceuri="urn:schemas-microsoft-com:office:smarttags"></o:smarttagtype><o:smarttagtype name="address" namespaceuri="urn:schemas-microsoft-com:office:smarttags"></o:smarttagtype><o:smarttagtype name="City" namespaceuri="urn:schemas-microsoft-com:office:smarttags"></o:smarttagtype><o:smarttagtype name="PlaceType" namespaceuri="urn:schemas-microsoft-com:office:smarttags"></o:smarttagtype><o:smarttagtype name="PlaceName" namespaceuri="urn:schemas-microsoft-com:office:smarttags"></o:smarttagtype><o:smarttagtype name="place" namespaceuri="urn:schemas-microsoft-com:office:smarttags"></o:smarttagtype><!--[if gte mso 9]><xml>
+<w:WordDocument>
+<w:View>Normal</w:View>
+<w:Zoom>0</w:Zoom>
+<w:PunctuationKerning />
+<w:ValidateAgainstSchemas />
+<w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+<w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+<w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+<w:Compatibility>
+<w:BreakWrappedTables />
+<w:SnapToGridInCell />
+<w:WrapTextWithPunct />
+<w:UseAsianBreakRules />
+<w:DontGrowAutofit />
+</w:Compatibility>
+<w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+</w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<w:LatentStyles DefLockedState="false" LatentStyleCount="156">
+</w:LatentStyles>
+</xml><![endif]--><!--[if !mso]><object
+classid="clsid:38481807-CA0E-42D2-BF39-B33AF135CC4D" id=ieooui></object>
+<style>
+st1\:*{behavior:url(#ieooui) }
+</style>
+<![endif]--><style type="text/css">
+<!--
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.25in 1.0in 1.25in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+-->
+</style><!--[if gte mso 10]>
+<style>
+/* Style Definitions */
+table.MsoNormalTable
+{mso-style-name:"Table Normal";
+mso-tstyle-rowband-size:0;
+mso-tstyle-colband-size:0;
+mso-style-noshow:yes;
+mso-style-parent:"";
+mso-padding-alt:0in 5.4pt 0in 5.4pt;
+mso-para-margin:0in;
+mso-para-margin-bottom:.0001pt;
+mso-pagination:widow-orphan;
+font-size:10.0pt;
+font-family:"Times New Roman";
+mso-ansi-language:#0400;
+mso-fareast-language:#0400;
+mso-bidi-language:#0400;}
+</style>
+<![endif]-->
+<p style="text-align: justify;" class="MsoNormal">Mr. Muhammad Aslam Bhootani, sworn in as Speaker of Balochistan Assembly on 8th April, 2008, was born in 1960 in Dureji of District Lasbela. </p>
+<p style="text-align: justify;" class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<p style="text-align: justify;" class="MsoNormal">He obtained basic education in his village Dureji Lasbela and <st1:placename w:st="on">Public</st1:placename> <st1:placetype w:st="on">School</st1:placetype>, <st1:city w:st="on"><st1:place w:st="on">Hyderabad</st1:place></st1:city>.</p>
+<p style="text-align: justify;" class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<p style="text-align: justify;" class="MsoNormal">He did his graduation from <st1:place w:st="on"><st1:placename w:st="on">Karachi</st1:placename> <st1:placetype w:st="on">University</st1:placetype></st1:place>.</p>
+<p style="text-align: justify;" class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<p style="text-align: justify;" class="MsoNormal">Mr. Bhootani served in Police, FIA immigration and crime wing and Anti-Narcotics Force for 12 years and remained posted at <st1:city w:st="on">Karachi</st1:city>, <st1:city w:st="on">Peshawar</st1:city>, <st1:city w:st="on">Islamabad</st1:city>, <st1:city w:st="on">Hyderabad</st1:city> and <st1:city w:st="on">Quetta</st1:city>.</p>
+<p style="text-align: justify;" class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<p style="text-align: justify;" class="MsoNormal">He started his political carrier in 2002 and was elected member of the Balochistan Assembly.<span style="">&nbsp; </span>He served as Deputy Speaker of the Balochistan Assembly for five years 2002-2007.</p>
+<p style="text-align: justify;" class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<p style="text-align: justify;" class="MsoNormal">He is younger brother of ex-caretaker Chief Minister of Balochistan Sardar Saleh Muhammad Bhootani.</p>
+<p style="text-align: justify;" class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<p style="text-align: justify;" class="MsoNormal">His Bhootani Family has the distinction of being elected to Balochistan Assembly for the 8th consecutive terms since last 35 years from coastal Belt constituency of Lasbela.</p>
+<p style="text-align: justify;" class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<p style="text-align: justify;" class="MsoNormal">Mr. Bhootani, despite holding the post of Deputy Speaker in the last Assembly, always remained critical of the Government's Policy on Balochistan.</p>
+<p style="text-align: justify;" class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<p style="text-align: justify;" class="MsoNormal">He openly opposed the ongoing military operation in the house and outside the Assembly at that time.</p>
+<p style="text-align: justify;" class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<p style="text-align: justify;" class="MsoNormal">He was the only member from the treasury benches to have condemned the killing of Nawab Akbar Bugti and raised voice against the arrest of Sardar Akhtar Mengal and suspension of Chief Justice Iftikhar Mohammad Choudary.<span style="">&nbsp; </span>He even went to <st1:city w:st="on">Islamabad</st1:city> to meet Justice Iftikhar during his in-house custody days.</p>
+<p style="text-align: justify;" class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<p style="text-align: justify;" class="MsoNormal">In the 2006 Senate Elections, he cast his vote in favour of the candidate of a nationalist party for which he experienced wrath of then regime.</p>
+<p style="text-align: justify;" class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<p style="text-align: justify;" class="MsoNormal">Mr. Bhootani opposed ejection of the poor people from land along the <st1:street w:st="on"><st1:address w:st="on">Coastal   Highway</st1:address></st1:street>.<span style="">&nbsp; </span>He also got passed a resolution against the proposed <st1:place w:st="on"><st1:placename w:st="on">Sonmiani</st1:placename> <st1:placetype w:st="on">Port</st1:placetype></st1:place> and succeeded in stopping the project, as this was being executed on the ancestral lands of local people without their consent.</p>
+<p style="text-align: justify;" class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<p style="text-align: justify;" class="MsoNormal">Rejecting Government pressure, he conducted fateha for Nawab Akbar Khan Bugti in the house after suspending the rules of business.</p>
+<p style="text-align: justify;" class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<p style="text-align: justify;" class="MsoNormal">However, he refused to hold fateha for Raziq Bugti, spokesman for the Balochistan Government, when a resolution was moved in the house by the treasury benches as the late spokesman was perusing policies of &quot;more loyal to the king than the king himself&quot; which were not liked by the people.</p>
+<p style="text-align: justify;" class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<p style="text-align: justify;" class="MsoNormal">Because of Mr. Bhootani's being vocal the then regime tried to dislodge him from the post of Deputy Speaker but that could not be materialized, then different kind of pressures were asserted and in that result the National Accountability Bureau initiated an inquiry against him and he was also implicated in a false bomb explosion case at the house of then Dera Bugti Deputy Commissioner.</p>
+<p style="text-align: justify;" class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<p style="text-align: justify;" class="MsoNormal">He also played an important role in eliminating the PML-Q in the province after the 2002 elections.<span style="">&nbsp; </span>He was the main hurdle in the way of PML-Q's efforts to form Government.</p>
+<p style="text-align: justify;" class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<p style="text-align: justify;" class="MsoNormal">He made like-minded group in the party that elected him as parliamentary leader and he announced support for the Nawab Aslam Raisani, the present Chief Minister.</p>
+<p style="text-align: justify;" class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<p style="text-align: justify;" class="MsoNormal">Mr. Bhootani was instrumental in the formation of a PPP-led coalition Government of Balochistan.<span style="">&nbsp; </span></p>
+<p style="text-align: justify;" class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<p style="text-align: justify;" class="MsoNormal">Mr. Bhootani is a widely traveled man and he visited USA, England, Saudi Arabia, India, Spain, Denmark, Brazil, Switzerland, Argentina, Egypt, Germany France, Singapore, Japan, Thailand, Norway, UAE, Holland, Australia, Italy, Qatar, Malaysia, Dubai, Hong Kong, Bahrain, Kenya and attended many international and regional conferences held under the auspices of Commonwealth Parliamentary Association.</p>	</td>
+  </tr>
+      <tr>
+    <td class="frmLabel">Languages	</td>
+    <td>
+		English,&nbsp;Sindhi,&nbsp;Urdu	</td>
+  </tr>
+      <tr>
+    <td class="frmLabel">Religion</td>
+    <td>Islam</td>
+  </tr>
+  </table>
+		
+		</td>
+      </tr>
+    </table></td>
+	
+    <td width="20%" valign="top">
+		&nbsp;
+	</td>
+  </tr>
+</table>
+</div>		  	
+<div id="footerBG"></div>
+<div id="footer">
+  <table width="994" height="20" border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td width="383" align="left" valign="middle" class="copyRight">&nbsp;&copy;
+        2018Provincial Assembly of Balochistan. All Rights Reserved</td>
+      <td width="611" align="right" valign="middle" class="footerLinks"><a href="https://pearl201.github.io/Pakistan-Democracy-Archives/2018/www.pabalochistan.gov.pk/index.php/termsofuse/terms/en" title="Terms of Use">Terms of Use</a>&nbsp;
+|&nbsp;
+  <a href="https://pearl201.github.io/Pakistan-Democracy-Archives/2018/www.pabalochistan.gov.pk/index.php/privacypolicy/policy/en" title="Privacy Policy">Privacy Policy</a></td>
+    </tr>
+  </table>
+</div>
+</div>
+</body>
+</html>

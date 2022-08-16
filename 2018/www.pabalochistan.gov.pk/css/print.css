@@ -1,0 +1,277 @@
+/* CSS Document */
+body{
+margin:0px;
+font-family: Verdana, Arial, Helvetica, sans-serif;	
+font-size: 12px;
+}
+#wrapper, #content {
+	width: auto; 
+	margin: 0 5%;
+	padding: 0; 
+	border: 0;
+	float: none;
+	color: black; 
+	background: transparent;
+	}
+#headerLinks, #headerLinksMain, #header, #navMenu, #seacrhbox, #search, #subMenu, #breadcrumbs, #prtfrndly , #searchBoxMain, #searchBox, #dissolved_msg{
+display: none;
+}
+.dissolved_msg{
+display:none;
+}
+#footer{
+PADDING-RIGHT: 0px; 
+PADDING-LEFT: 0px; 
+PADDING-TOP: 0px; 
+PADDING-BOTTOM: 0px;
+font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+font-size: 10px;
+color: #ffffff;
+background-color:#929186;
+display: none;
+}
+
+
+
+
+/* Content styles  */
+#pageTitle{
+PADDING-RIGHT: 0px; 
+PADDING-LEFT: 0px; 
+PADDING-TOP: 0px; 
+PADDING-BOTTOM: 0px;
+margin:0px;
+width:847px;
+float:left;
+}
+
+#search{
+padding: 7px 10px 7px 10px;
+text-align:right;
+}
+.search_box{
+background-color:#044523;
+color:#FFFFFF;
+font-size:10px;
+border:solid 1px;
+}
+
+#centerGreenLine{
+height:2px;
+background-color:#044523;
+width:847px;
+}
+
+#subMenu{
+margin:0px;
+width:837px;
+float:left;
+background-color:#EFEAD6;
+padding:5px;
+font-size: 12px;
+text-align: left;
+}
+#subMenu a{
+color: #330;
+text-decoration: none;
+}
+#subMenu a:hover, #subMenu a:active{
+color: #986427;	
+}
+
+
+/* Content */
+#breadcrumbs{
+PADDING-RIGHT: 0px;
+PADDING-LEFT: 0px;
+PADDING-BOTTOM: 0px;
+PADDING-TOP: 0px;
+width: 600px;
+margin: 0px 0px 5px 165px;
+}
+#breadcrumbs a{
+text-decoration: none;
+color: #0066CC;
+}
+#breadcrumbs a:hover{
+text-decoration: underline;
+}
+#content{
+margin-left:5px; 
+margin-top:5px;
+font-size: 12px;
+height:auto;
+width:820px;
+}
+#content a:link{
+color: #0066CC;
+}
+
+#content a:active{
+color: #E12D1E;
+background-color: #F5F5F5;
+}
+#content a:visited{
+color: #72459E;
+}
+
+
+
+.pageHeading{
+font-family: Georgia, MS Serif, Times New Roman, serif;
+font-size: 13px;
+background-color: #D3CCB0;
+padding: 7px 10px 7px 10px;
+color: #900;
+font-weight:bold;
+}
+H1, H2{
+	font-family: Arial, Helvetica, sans-serif;
+}
+H1{
+	font-size: 12px;
+	color: #666;
+	padding: 9px 5px 0px 10px;
+	margin: 0px;
+	width: auto;
+	text-transform: uppercase;
+}
+H2 {
+color: #036;
+font-size: 16px;
+}
+H3{
+margin-top: 12px;
+margin-bottom: 5px; 
+font-size: 130%;
+color: #333;
+}
+H4{
+font-size: 110%;
+color: #044523;
+}
+p{
+margin-top: 10px;
+margin-bottom: 10px;
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:16px;
+}
+
+LI{
+	margin-bottom: 10px;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:16px;
+}
+
+label, .frmLabel{
+font-weight: bold;
+color: #4F4F4F;
+}
+
+.labelMandatory{
+	color: #E43E30; 
+}
+
+.alert{
+	color: #E43E30;
+	width: 60%;
+	border-width: 1px;
+	border-style: dotted;
+	border-color: #C92214;
+	margin-left: 10px;
+	margin-right: 200px;
+	margin-bottom: 15px;
+	padding-left: 10px;
+	padding-right: 10px;
+	background-repeat: no-repeat;
+	background-position: 3px 6px;
+}
+
+.frmNote{
+	font-size: 90%;
+	color: #666;
+	font-style: italic;
+}
+
+.asmblyTenure{
+color: #666;
+font-size: 100%;
+text-transform: uppercase;
+background-color: #F0EAE6;
+width: 130px;
+}
+
+.byName{
+font-size: 110%;
+font-weight: bold;
+}
+
+.mpaStatus{
+background-color:#F86D6D;
+}
+
+.sidePaneHd{
+	font-size: 110%;
+	background-color: #C2A998;	
+	color: White;
+}
+
+.sidePane{
+	color: #555;
+	border-style: solid;
+	border-color: #E1D6CE;
+	border-width: 1px;
+	margin: 5px 5px 5px 10px;
+}
+
+.date{
+	color:#787878;
+}
+
+.mpaProfileTb, .mpaProfileTb TD{
+	border-bottom: dotted;
+	border-bottom-width: 1px;
+	border-color: #E7DBD3;
+}
+
+.mpaProfileTb TABLE TD{
+	border-bottom: none;
+}
+
+
+
+#toTop{
+text-align:right;
+margin-right: 20px;
+}
+
+#toTop a:link, #toTop a:visited{
+text-decoration:none;
+color: #006633;
+}
+
+.languageSwitch{
+font-family:tahoma;
+text-decoration:none;
+font-weight:bold;
+color:#FFFFFF;
+font-size:14px;
+}
+.languageSwitch a{
+text-decoration:none;
+font-family:tahoma;
+text-decoration:none;
+font-weight:bold;
+color:#FFFFFF;
+font-size:14px;
+}
+.languageSwitch a:hover{
+color:#FFFFFF;
+font-size:14px;
+}
+.searchButton{
+font-size:10px;
+color:#FFFFFF;
+border:none;
+background-color:#461918;
+}
