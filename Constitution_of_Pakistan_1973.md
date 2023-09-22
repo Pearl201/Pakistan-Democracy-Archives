@@ -3966,6 +3966,7 @@ an Ordinance laid before both Houses under sub-paragraph (ii) of paragraph (a) o
 > 
 > any office the holder whereof, by virtue of such office, is liable to be called up for military training or military service under any law providing for the constitution or raising of a Force; or
 > 
+
 >  [149](#149)\[
 > 
 > (p)
@@ -4559,3 +4560,3919 @@ an Ordinance laid before both Houses under sub-paragraph (ii) of paragraph (a) o
 >  
 
 * * *
+  Chapter 3: "The Federal Government" of Part III: "The Federation of Pakistan"  div.references > div:target { background-color: #DEF; <!-- thisPageName = 'part3.ch3'; // [**The Constitution of Pakistan**](/pakistan/constitution/) on [pakistani.org](/)
+
+Go to: \[Select a Part/Chapter/Annex/Schedule ... \] Preamble Part I: Introductory - \[Articles 1-6\] Part II: Fundamental Rights and Principles of Policy - \[Articles 7-40\] \----Part II: Chapter 1: Fundamental Rights - \[Articles 8-28\] \----Part II: Chapter 2: Principles of Policy - \[Articles 29-40\] Part III: The Federation of Pakistan - \[Articles 41-100\] \----Part III: Chapter 1: The President - \[Articles 41-49\] \----Part III: Chapter 2: Majlis-e-Shoora (Parliament) - \[Articles 50-89\] \----Part III: Chapter 3: The Federal Government - \[Articles 90-100\] Part IV: The Provinces - \[Articles 101-140A\] \----Part IV: Chapter 1: The Governors - \[Articles 101-105\] \----Part IV: Chapter 2: Provincial Assemblies - \[Articles 106-128\] \----Part IV: Chapter 3: The Provincial Governments - \[Articles 129-140A\] Part V: Relations between Federation and Provinces - \[Articles 141-159\] \----Part V: Chapter 1: Distribution of Legislative Powers - \[Articles 141-144\] \----Part V: Chapter 2: Administrative Relations between the Federation and Provinces - \[Articles 145-152\] \----Part V: Chapter 3: Special Provisions - \[Articles 153-159\] Part VI: Finance, Property, Contracts and Suits - \[Articles 160-174\] \----Part VI: Chapter 1: Finance - \[Articles 160-165A\] \----Part VI: Chapter 2: Borrowing and Audit - \[Articles 166-171\] \----Part VI: Chapter 3: Property, Contracts, Liabilities and Suits - \[Articles 172-174\] Part VII: The Judicature - \[Articles 175-212B\] \----Part VII: Chapter 1: The Courts - \[Articles 175-175A\] \----Part VII: Chapter 2: The Supreme Court of Pakistan - \[Articles 176-191\] \----Part VII: Chapter 3: The High Courts - \[Articles 192-203\] \----Part VII: Chapter 3A: Federal Shariat Court - \[Articles 203A-203J\] \----Part VII: Chapter 4: General Provisions Relating to the Judicature - \[Articles 204-212B\] Part VIII: Elections - \[Articles 213-226\] \----Part VIII: Chapter 1: Chief Election Commissioner and Elections Commissions - \[Articles 213-221\] \----Part VIII: Chapter 2: Electoral Laws and Conduct of Elections - \[Articles 222-226\] Part IX: Islamic Provisions- \[Articles 227-231\] Part X: Emergency Provisions Part XI: Amendment of Constitution - \[Articles 232-237\] Part XII: Miscellaneous - \[Articles 240-280\] \----Part XII: Chapter 1: Services - \[Articles 240-242\] \----Part XII: Chapter 2: Armed Forces - \[Articles 243-245\] \----Part XII: Chapter 3: Tribal Areas - \[Articles 246-247\] \----Part XII: Chapter 4: General - \[Articles 248-259\] \----Part XII: Chapter 5: Interpretation - \[Articles 260-264\] \----Part XII: Chapter 6: Title, Commencement and Repeal - \[Articles 265-266\] \----Part XII: Chapter 7: Transitional - \[Articles 267-280\] Annex First Schedule: Laws exempted from the operation of Article 8(1) and (2) Second Schedule: Election of President Third Schedule: Oaths of Office Fourth Schedule: Legislative Lists Fifth Schedule: Remuneration and Terms and Conditions of Service of Judges 
+
+* * *
+
+Part III: The Federation of Pakistan
+------------------------------------
+
+Chapter 3: The Federal Government
+---------------------------------
+
+ [212](#212)\[ [213](#213)\[
+
+**90.**
+
+**The Federal Government:**  
+
+(1)
+
+Subject to the Constitution, the executive authority of the Federation shall be exercised in the name of the President by the Federal Government, consisting of the Prime Minister and the Federal Ministers, which shall act through the Prime Minister, who shall be the chief executive of the Federation.
+
+ 
+
+(2)
+
+In the performance of his functions under the Constitution, the Prime Minister may act either directly or through the Federal Ministers."
+
+ 
+
+ 
+
+\] [213](#213)  
+ [216](#216)\[
+
+**91.**
+
+**The Cabinet:**  
+
+(1)
+
+There shall be a Cabinet of Ministers, with the Prime Minister at its head, to aid and advise the President in the exercise of his functions.
+
+ 
+
+(2)
+
+The National Assembly shall meet on the twenty-first day following the day on which a general election to the Assembly is held, unless sooner summoned by the President.
+
+ 
+
+(3)
+
+After the election of the Speaker and the Deputy Speaker, the National Assembly shall, to the exclusion of any other business, proceed to elect without debate one of its Muslim members to be the Prime Minister.
+
+ 
+
+(4)
+
+The Prime Minister shall be elected by the votes of the majority of the total membership of the National Assembly:
+
+> **Provided** that, if no member secures such majority in the first poll, a second poll shall be held between the members who secure the two highest numbers of votes in the first poll and the member who secures a majority of votes of the members present and voting shall be declared to have been elected as Prime Minister:
+
+> **Provided** further that, if the number of votes secured by two or more members securing the highest number of votes is equal, further poll shall be held between them until one of them secures a majority of votes of the members present and voting.
+
+ 
+
+(5)
+
+The member elected under clause (4) shall be called upon by the President to assume the office of Prime Minister and he shall, before entering upon the office, make before the President oath in the form set out in the Third Schedule:
+
+> **Provided** that there shall be no restriction on the number of terms for the office of the Prime Minister.
+
+ 
+
+(6)
+
+The Cabinet, together with the Ministers of State, shall be collectively responsible to the Senate and the National Assembly.
+
+ 
+
+(7)
+
+The Prime Minister shall hold office during the pleasure of the President, but the President shall not exercise his powers under this clause unless he is satisfied that the Prime Minister does not command the confidence of the majority of the members of the National Assembly, in which case he shall summon the National Assembly and require the Prime Minister to obtain a vote of confidence from the Assembly.
+
+ 
+
+(8)
+
+The Prime Minister may, by writing under his hand addressed to the President, resign his office.
+
+ 
+
+(9)
+
+A Minister who for any period of six consecutive months is not a member of the National Assembly shall, at the expiration of that period, cease to be a Minister and shall not before the dissolution of that Assembly be again appointed a Minister unless he is elected a member of that Assembly:
+
+> **Provided** that nothing in this clause shall apply to a Minister who is a member of the Senate.
+
+ 
+
+(10)
+
+Nothing in this Article shall be construed as disqualifying the Prime Minister or any other Minister or a Minister of State for continuing in office during any period during which the National Assembly stands dissolved, or as preventing the appointment of any person as Prime Minister or other Minister or a Minister of State during any such period.
+
+ 
+
+ 
+
+\] [216](#216)
+
+**92**
+
+**Federal Ministers and Ministers of State.**  
+
+(1)
+
+Subject to clauses  [220](#220)\[(9) and (10)\] [220](#220) of Article 91, the President shall appoint Federal Ministers and Ministers of State from amongst the members of Majlis-e-Shoora (Parliament) on the advice of the Prime Minister:
+
+> **Provided** that the number of Federal Ministers and Ministers of State who are members of the Senate shall not at any time exceed one-fourth of the number of Federal Ministers [221](#221)\[:\] [221](#221)
+
+>  [222](#222)\[**Provided** further that the total strength of the Cabinet, including Ministers of State, shall not exceed eleven percent of the total membership of Majlis-e-Shoora (Parliament):
+
+> **Provided** also that the aforesaid amendment shall be effective from the next general election held after the commencement of the Constitution (Eighteenth Amendment) Act, 2010. \] [222](#222)
+
+ 
+
+(2)
+
+Before entering upon office, a Federal Minister or Minister of State shall make before the President oath in the form set out in the Third Schedule.
+
+ 
+
+(3)
+
+A Federal Minister or Minister of State may, by writing under his hand addressed to the President, resign his office or may be removed from office by the President on the advice of the Prime Minister.
+
+ 
+
+ 
+
+**93**
+
+**Advisers.**  
+
+(1)
+
+The President may, on the advice of the Prime Minister, appoint not more than five Advisers, on such terms and conditions as he may determine.
+
+ 
+
+(2)
+
+The provisions of Article 57 shall also apply to an Adviser.
+
+ 
+
+ 
+
+**94**
+
+**Prime Minister continuing in office.**  
+The President may ask the Prime Minister to continue to hold office until his successor enters upon the office of Prime Minister.
+
+ 
+
+**95**
+
+**Vote of no-confidence against Prime Minister.**  
+
+(1)
+
+A resolution for a vote of no-confidence moved by not less than twenty per centum of the total membership of the National Assembly may be passed against the Prime Minister by the National Assembly.
+
+ 
+
+(2)
+
+A resolution referred to in clause (1) shall not be voted upon before the expiration of three days, or later than seven days, from the day on which such resolution is moved in the National Assembly.
+
+ 
+
+(3)
+
+A resolution referred to in clause (1) shall not be moved in the National Assembly while the National Assembly is considering demands for grants submitted to it in the Annual Budget Statement.
+
+ 
+
+(4)
+
+If the resolution referred to in clause (1) is passed by a majority of the total membership of the National Assembly, the Prime Minister shall cease to hold office.
+
+ 
+
+ 
+
+\] [212](#212) [223](#223)\[\] [223](#223)
+
+**97**
+
+**Extent of executive authority of Federation.**  
+Subject to the Constitution, the executive authority of the Federation shall extend to the matters with respect to which  [225](#225)\[Majlis-e-Shoora (Parliament)\] [225](#225) has power to make laws, including exercise of rights, authority and jurisdiction in and in relation to areas outside Pakistan:
+
+> **Provided** that the said authority shall not, save as expressly provided in the Constitution or in any law made by  [226](#226)\[Majlis-e-Shoora (Parliament)\] [226](#226), extend in any Province to a matter with respect to which the Provincial Assembly has also power to make laws.
+
+ 
+
+**98**
+
+**Conferring of functions on subordinate authorities.**  
+On the recommendation of the Federal Government,  [227](#227)\[Majlis-e-Shoora (Parliament)\] [227](#227) may by law confer functions upon officers or authorities subordinate to the Federal Government.
+
+ 
+
+ [228](#228)\[
+
+**99**
+
+**Conduct of business of Federal Government.**  
+
+(1)
+
+All executive actions of the Federal Government shall be expressed to be taken in the name of the President.
+
+ 
+
+(2)
+
+The  [229](#229)\[Federal Government\] [229](#229) shall by rules specify the manner in which orders and other instruments made and executed  [230](#230)\[in the name of the President\] [230](#230) shall be authenticated, and the validity of any order or instrument so authenticated shall not be questioned in any court on the ground that it was not made or executed by the President.
+
+ 
+
+ [231](#231)\[
+
+(3)
+
+The Federal Government shall also make rules for the allocation and transaction of its business.
+
+ 
+
+\] [231](#231)
+
+ 
+
+\] [228](#228)
+
+**100**
+
+**Attorney-General for Pakistan.**  
+
+(1)
+
+The President shall appoint a person, being a person qualified to be appointed a Judge of the Supreme Court, to be the Attorney-General for Pakistan.
+
+ 
+
+(2)
+
+The Attorney-General shall hold office during the pleasure of the President  [232](#232)\[and shall not engage in private practice so long as he holds the office of the Attorney-General\] [232](#232).
+
+ 
+
+(3)
+
+It shall be the duty of the Attorney-General to give advice to the Federal Government upon such legal matters, and to perform such other duties of a legal character as may be referred or assigned to him by the Federal Government, and in the performance of his duties he shall have the right of audience in all courts and tribunals in Pakistan.
+
+ 
+
+(4)
+
+The Attorney-General may, by writing under his hand addressed to the President, resign his office.
+
+ 
+
+ 
+
+* * *
+
+### Notes
+
+[212](#f212)   Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 20 (with effect from March 2, 1985) for :
+
+> **90**
+> 
+> (1)
+> 
+> Subject to the Constitution, the executive authority of the Federation shall be exercised in the name of the President by the Federal Government, consisting of the Prime Minister and the Federal Ministers which shall act through the Prime Minister who shall be the chief executive of the Federation.
+> 
+>  
+> 
+> (2)
+> 
+> In the performance of his functions under the Constitution, the Prime Minister may act either directly or through the Federal Ministers.
+> 
+>  
+> 
+> (3)
+> 
+> The Prime Minister and the Federal Ministers shall be collectively responsible to the National Assembly.
+> 
+>  
+> 
+>  
+> 
+> **91.**
+> 
+> (1)
+> 
+> The National Assembly shall meet on the thirtieth day following the day on which a general election to the Assembly is held, unless sooner summoned by the President.
+> 
+>  
+> 
+> (2)
+> 
+> After the election of the Speaker and the Deputy Speaker, the National Assembly shall, to the exclusion of any other business, proceed to elect without debate one of its Muslim members to be the Prime Minister.
+> 
+>  
+> 
+> (3)
+> 
+> The Prime Minister shall be elected by the votes of the majority of the total membership of the National Assembly:
+> 
+> > **Provided** that, if no member secures such majority in the first poll, a second poll shall be held between the members who secure the two highest numbers of votes in the first poll and the member who secures majority of votes of the members present and voting shall be declared to have been elected as Prime Minister.
+> 
+> > **Provided** further that, if the number of votes secured by two or more members securing the highest number of votes is equal, further poll shall be held between them until one of them secures a majority of votes of the members present and voting.
+> 
+>  
+> 
+> 4
+> 
+> The member elected under clause (3) shall be called upon by the President to assume the office of Prime Minister and he shall, before entering upon the office, make before the President oath in the form set out in the Third Schedule.
+> 
+>  
+> 
+>  
+> 
+> **92**
+> 
+>   
+> 
+> (1)
+> 
+> The Prime Minister shall appoint Federal Ministers and Ministers of State from amongst the members of Parliament:
+> 
+> > **Provided** that the number of Federal Ministers and Ministers of State who are members of the Senate shall not at any time exceed one-fourth of the number of Federal Ministers.
+> 
+>  
+> 
+> (2)
+> 
+> Before entering upon office, a Federal Minister or a Minister of State shall make before the President oath in the form set out in the Third Schedule.
+> 
+>  
+> 
+> (3)
+> 
+> A Federal Minister or a Minister of State may, by writing under his hand addressed to the Prime Minister, resign his office or may by removed from office by the Prime Minister.
+> 
+>  
+> 
+>  
+> 
+> **93.**
+> 
+> (1)
+> 
+> The Prime Minister shall continue to hold office until his successor enters upon the office of Prime Minister.
+> 
+>  
+> 
+> (2)
+> 
+> Nothing in Article 91 or Article 92 shall be construed to disqualify the Prime Minister or a Federal Minister or a Minister of State from continuing in office during the period the National Assembly stands dissolved.
+> 
+>  
+> 
+>  
+> 
+> **94.**
+> 
+> (1)
+> 
+> Subject to clause (2), the Prime Minister may by writing under his hand addressed to the President, resign his office and, when the Prime Minister resigns, the Federal Ministers and Minister of State shall cease to hold office.
+> 
+>  
+> 
+> (2)
+> 
+> The Prime Minister and, at the request of the Prime Minister, a Federal Minister shall continue to perform the functions of the office of Prime Minister or, as the case may be, Federal Minister until a new Prime Minister has been elected and has entered upon his office.
+> 
+>  
+> 
+> (3)
+> 
+> If the National Assembly is in session at the time when the Prime Minister resigns his office, the Assembly shall forthwith proceed to elect a Prime Minister, and if the Assembly is not in session the President shall for that purpose summon it to meet within fourteen days of the resignation.
+> 
+>  
+> 
+>  
+> 
+> **95.**
+> 
+> (1)
+> 
+> In the event of the death of the Prime Minister or the office of Prime Minister becoming vacant by reason of his ceasing to be a member of the National Assembly, the most senior Federal Minister for the time being shall be called upon by the President to perform the functions of that office and the Federal Ministers and Ministers of State shall continue in office until a new Prime Minister has been elected and has entered upon his office.
+> 
+>  
+> 
+> (2)
+> 
+> If the National Assembly is in session at the time when the Prime Minister dies or the office of Prime Minister becomes vacant, the Assembly shall forthwith proceed to elect a Prime Minister, and if the Assembly is not in session the President shall for that purpose summon it to meet within fourteen days of the death of Prime Minister, or, as the case may be, of the office becoming vacant.
+> 
+>  
+> 
+> (3)
+> 
+> When the Prime Minister, by reason of absence from Pakistan or any other cause, is unable to perform his functions, the most senior Federal Minister for the time being shall perform the functions of Prime Minister until the Prime Minister returns to Pakistan or, as the case may be, resumes his functions.
+> 
+>  
+> 
+> (4)
+> 
+> In this Article, "most senior Federal Minister means the Federal Minister for the time being designated as such by the Prime Minister.
+> 
+>  
+> 
+>  
+> 
+> **96.**
+> 
+> (1)
+> 
+> A resolution for a vote of no-confidence may be passed against the Prime Minister by the National Assembly.
+> 
+>  
+> 
+> (2)
+> 
+> A resolution referred to in clause (1) shall not be moved in the National Assembly unless, by the same resolution, the name of another member of the Assembly is put forward as the successor.
+> 
+>  
+> 
+> (3)
+> 
+> A resolution referred to in clause (1) shall not be moved in the National Assembly while the National Assembly is considering demands for grants submitted in the Annual Budget Statement.
+> 
+>  
+> 
+> (4)
+> 
+> A resolution referred to in clause (1) shall not be voted upon before the expiration of three days, or later than seven days, from the day on which such resolution is moved in the National Assembly.
+> 
+>  
+> 
+> (5)
+> 
+> If the resolution referred to in clause (1) is passed by a majority of the total membership of the National Assembly, the President shall call upon the person named in the resolution as the successor to assume office and on his entering upon office his predecessor and the Federal Ministers and Ministers of State appointed by him shall cease to hold office.
+> 
+> > **Provided** that, for a period of ten years from the commencing day or the holding of the second general election to the National Assembly whichever occurs later, the vote of a member, elected to the National Assembly as a candidate or nominee of a political party, cast in support of a resolution for a vote of no-confidence shall be disregarded if the majority of the members of that political party in the National Assembly has cast its votes against the passing of such resolution.
+> 
+>  
+> 
+> (6)
+> 
+> If a resolution referred to in clause (1) is not passed, another such resolution shall not be moved until a period of six months has elapsed.
+> 
+>  
+> 
+>  
+
+[213](#f213)   Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 28 (with effect from April 19, 2010) for :
+
+> **90**
+> 
+> **Exercise of executive authority of the Federation.**  
+> 
+>  [214](#214)\[(1)\] [214](#214)
+> 
+> The executive authority of the Federation shall vest in the President and shall be exercised by him, either directly or through officers subordinate to him, in accordance with the Constitution.
+> 
+>  
+> 
+>  [215](#215)\[
+> 
+> (2)
+> 
+> Nothing contained in clause (1) shall :-
+> 
+> (a)
+> 
+> be deemed to transfer to the President any functions conferred by any existing law on the Government of any Province or other authority; or
+> 
+> (b)
+> 
+> prevent the Majlis-e-Shoora (Parliament) from conferring by law functions on authorities other than the President.
+> 
+>  
+> 
+> \] [215](#215)
+> 
+>  
+
+[214](#f214)   Renumbered by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.html), Section 9 (with effect from November 9, 1985)
+
+[215](#f215)   Inserted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.html), Section 9 (with effect from November 9, 1985).
+
+[216](#f216)   Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 29 (with effect from April 19, 2010) for :
+
+> **91**
+> 
+> **The Cabinet.**  
+> 
+> (1)
+> 
+> There shall be a Cabinet of Ministers, with the Prime Minister at its head, to aid and advise the President in the exercise of his functions.
+> 
+>  
+> 
+> (2)
+> 
+> The President shall in his discretion appoint from amongst the members of the National Assembly a Prime Minister who, in his opinion, is most likely to command the confidence of the majority of the members of the National Assembly.
+> 
+>  
+> 
+>  [217](#217)\[
+> 
+> (2A)
+> 
+> Notwithstanding any-thing contained in clause (2), after the twentieth day of March, one thousand nine hundred and ninety, the President shall invite the member of the National Assembly to be the Prime Minister who commands the confidence of the majority of the members of the National Assembly, as ascertained in a session of the Assembly summoned for the purpose in accordance with the provisions of the Constitution.
+> 
+>  
+> 
+> \] [217](#217)
+> 
+> (3)
+> 
+> The person appointed under clause (2)  [218](#218)\[or as the case may be, invited under clause (2A)\] [218](#218) shall, before entering upon the office, make before the President oath in the form set out in the Third Schedule and shall within a period of sixty days thereof obtain a vote of confidence from the National Assembly.
+> 
+>  
+> 
+> (4)
+> 
+> The Cabinet, together with the Ministers of State, shall be collectively responsible to the National Assembly.
+> 
+>  
+> 
+>  [219](#219)\[
+> 
+> (5)
+> 
+> The Prime Minister shall hold office during the pleasure of the President, but the President shall not exercise his powers under this clause unless he is satisfied that the Prime Minister does not command the confidence of the majority of the members of the National Assembly, in which case he shall summon the National Assembly and require the Prime Minister to obtain a vote of confidence from the Assembly.
+> 
+>  
+> 
+> \] [219](#219)
+> 
+> (6)
+> 
+> The Prime Minister may, by writing under his hand addressed to the President, resign his office.
+> 
+>  
+> 
+> (7)
+> 
+> A Minister who for any period of six consecutive months is not a member of the National Assembly shall, at the expiration of that period, cease to be a Minister and shall not before the dissolution of that Assembly be again appointed a Minister unless he is elected a member of that Assembly:
+> 
+> > **Provided** that nothing contained in this clause shall apply to a Minister who is a member of the Senate.
+> 
+>  
+> 
+> (8)
+> 
+> Nothing contained in this Article shall be construed as disqualifying the Prime Minister or any other Minister or a Minister of State for continuing in office during any period during which the National Assembly stands dissolved, or as preventing the appointment of any person as Prime Minister or other Minister or as Minister of State during any such period.
+> 
+>  
+> 
+>  
+
+[217](#f217)   Inserted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.html), Section 10(a) (with effect from November 9, 1985).
+
+[218](#f218)   Inserted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.html), Section 10(b) (with effect from November 9, 1985).
+
+[219](#f219)   Substituted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.html), Section 10(c) (with effect from November 9, 1985) for :
+
+> (5)
+> 
+> The Prime Minister shall hold office during the pleasure of the President, but the President shall not exercise his powers under this clause unless he is satisfied that the Prime Minister does not command the confidence of the majority of the members of the National Assembly.
+> 
+>  
+
+[220](#f220)   Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 30(i) (with effect from April 19, 2010) for "(7) and (8)".
+
+[221](#f221)   Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 30(ii) (with effect from April 19, 2010) for ".".
+
+[222](#f222)   Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 30(ii) (with effect from April 19, 2010).
+
+[223](#f223)   The following was omitted by [Constitution (Seventh Amendment) Act, 1977 (23 of 1977)](/pakistan/constitution/amendments/7amendment.html), Section 1(3) (with effect from September 13, 1977) : :
+
+>  [224](#224)\[
+> 
+> **96A**
+> 
+> **Referendum as to confidence in Prime Minister**  
+> 
+> (1)
+> 
+> If at any time the Prime Minister considers it necessary to obtain a vote of confidence of the people of Pakistan through a referendum he may advise the President to cause the matter to be referred to referendum in accordance with law made by Parliament.
+> 
+>  
+> 
+> (2)
+> 
+> The law referred to in clause (1) shall provide for the constitution of a Referendum Commission and the manner and mode of holding a referendum.
+> 
+>  
+> 
+> (3)
+> 
+> On receipt of the advice of the Prime Minister under clause (1), the President shall call upon the Referendum Commission to conduct d referendum amongst the persons whose names appear on the electoral rolls for the immediately preceding general elections to the National Assembly as revised up-to-date.
+> 
+>  
+> 
+> (4)
+> 
+> Any dispute arising in connection with the counting of votes at a referendum shall be finally determined by the Referendum Commission or a member thereof authorised by it and, save as aforesaid, no dispute arising in connection with a referendum or the result thereof shall be raised or permitted to be raised before any Court or other authority whatsoever.
+> 
+>  
+> 
+> (5)
+> 
+> If, on the final count of the votes cast at the referendum the Prime Minister fails to secure majority of the total votes cast in the matter of the confidence of the people of Pakistan, he shall be deemed to have tendered his resignation within the meaning of Article 94.
+> 
+>  
+> 
+>  
+> 
+> \] [224](#224)
+
+[224](#f224)   Inserted by [Constitution (Seventh Amendment) Act, 1977 (23 of 1977)](/pakistan/constitution/amendments/7amendment.html), Section 2 (with effect from April 21, 1977).
+
+[225](#f225)   Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+
+[226](#f226)   Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+
+[227](#f227)   Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+
+[228](#f228)  
+
+[229](#f229)   Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 31(i) (with effect from April 19, 2010) for "President".
+
+[230](#f230)   Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 31(i) (with effect from April 19, 2010) for "in his name".
+
+[231](#f231)   Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 31(ii) (with effect from April 19, 2010) for :
+
+> (3)
+> 
+> The President shall also make rules for the allocation and transaction of the business of the Federal Government.
+> 
+>  
+
+[232](#f232)   Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 32 (with effect from April 19, 2010).
+
+* * *
+
+  Chapter 1: "The Governors." of Part IV: "Provinces"  div.references > div:target { background-color: #DEF; <!-- thisPageName = 'part4.ch1'; // [**The Constitution of Pakistan**](/pakistan/constitution/) on [pakistani.org](/)
+
+Go to: \[Select a Part/Chapter/Annex/Schedule ... \] Preamble Part I: Introductory - \[Articles 1-6\] Part II: Fundamental Rights and Principles of Policy - \[Articles 7-40\] \----Part II: Chapter 1: Fundamental Rights - \[Articles 8-28\] \----Part II: Chapter 2: Principles of Policy - \[Articles 29-40\] Part III: The Federation of Pakistan - \[Articles 41-100\] \----Part III: Chapter 1: The President - \[Articles 41-49\] \----Part III: Chapter 2: Majlis-e-Shoora (Parliament) - \[Articles 50-89\] \----Part III: Chapter 3: The Federal Government - \[Articles 90-100\] Part IV: The Provinces - \[Articles 101-140A\] \----Part IV: Chapter 1: The Governors - \[Articles 101-105\] \----Part IV: Chapter 2: Provincial Assemblies - \[Articles 106-128\] \----Part IV: Chapter 3: The Provincial Governments - \[Articles 129-140A\] Part V: Relations between Federation and Provinces - \[Articles 141-159\] \----Part V: Chapter 1: Distribution of Legislative Powers - \[Articles 141-144\] \----Part V: Chapter 2: Administrative Relations between the Federation and Provinces - \[Articles 145-152\] \----Part V: Chapter 3: Special Provisions - \[Articles 153-159\] Part VI: Finance, Property, Contracts and Suits - \[Articles 160-174\] \----Part VI: Chapter 1: Finance - \[Articles 160-165A\] \----Part VI: Chapter 2: Borrowing and Audit - \[Articles 166-171\] \----Part VI: Chapter 3: Property, Contracts, Liabilities and Suits - \[Articles 172-174\] Part VII: The Judicature - \[Articles 175-212B\] \----Part VII: Chapter 1: The Courts - \[Articles 175-175A\] \----Part VII: Chapter 2: The Supreme Court of Pakistan - \[Articles 176-191\] \----Part VII: Chapter 3: The High Courts - \[Articles 192-203\] \----Part VII: Chapter 3A: Federal Shariat Court - \[Articles 203A-203J\] \----Part VII: Chapter 4: General Provisions Relating to the Judicature - \[Articles 204-212B\] Part VIII: Elections - \[Articles 213-226\] \----Part VIII: Chapter 1: Chief Election Commissioner and Elections Commissions - \[Articles 213-221\] \----Part VIII: Chapter 2: Electoral Laws and Conduct of Elections - \[Articles 222-226\] Part IX: Islamic Provisions- \[Articles 227-231\] Part X: Emergency Provisions Part XI: Amendment of Constitution - \[Articles 232-237\] Part XII: Miscellaneous - \[Articles 240-280\] \----Part XII: Chapter 1: Services - \[Articles 240-242\] \----Part XII: Chapter 2: Armed Forces - \[Articles 243-245\] \----Part XII: Chapter 3: Tribal Areas - \[Articles 246-247\] \----Part XII: Chapter 4: General - \[Articles 248-259\] \----Part XII: Chapter 5: Interpretation - \[Articles 260-264\] \----Part XII: Chapter 6: Title, Commencement and Repeal - \[Articles 265-266\] \----Part XII: Chapter 7: Transitional - \[Articles 267-280\] Annex First Schedule: Laws exempted from the operation of Article 8(1) and (2) Second Schedule: Election of President Third Schedule: Oaths of Office Fourth Schedule: Legislative Lists Fifth Schedule: Remuneration and Terms and Conditions of Service of Judges 
+
+* * *
+
+Part IV: Provinces
+------------------
+
+Chapter 1: The Governors.
+-------------------------
+
+**101**
+
+**Appointment of Governor.**  
+ [233](#233)\[
+
+(1)
+
+There shall be a Governor for each Province, who shall be appointed by the President on the advice of the Prime Minister.
+
+ 
+
+\] [233](#233)
+
+(2)
+
+A person shall not be appointed a Governor unless he is qualified to be elected as member of the National Assembly and is not less that thirty-five years of age  [238](#238)\[and is a registered voter and resident of the Province concerned\] [238](#238) [239](#239)\[:\] [239](#239) [240](#240)\[\] [240](#240)
+
+ 
+
+ [242](#242)\[\] [242](#242)
+
+(3)
+
+The Governor shall hold office during the pleasure of the President  [245](#245)\[and shall be entitled to such salary, allowances and privileges as the President may determine\] [245](#245).
+
+ 
+
+(4)
+
+The Governor may, by writing under his hand addressed to the President, resign his office.
+
+ 
+
+ [246](#246)\[
+
+(5)
+
+The President may make such provision as he things fit for the discharge of the functions of a Governor  [247](#247)\[in any contingency not provided for in this Part.\] [247](#247)
+
+ 
+
+\] [246](#246)
+
+ 
+
+**102**
+
+**Oath of office.**  
+Before entering upon office, the Governor shall make before the Chief Justice of the High Court oath in the form set out in the Third Schedule.
+
+ 
+
+**103**
+
+**Conditions of Governor's office.**  
+
+(1)
+
+The Governor shall not hold any office of profit in the service of Pakistan of occupy any other position carrying the right to remuneration for the rendering of services.
+
+ 
+
+(2)
+
+The Governor shall not be a candidate for election as a member of  [248](#248)\[Majlis-e-Shoora (Parliament)\] [248](#248) or a Provincial Assembly and, if a member of  [249](#249)\[Majlis-e-Shoora (Parliament)\] [249](#249) or a Provincial Assembly is appointed as Governor, his seat in  [250](#250)\[Majlis-e-Shoora (Parliament)\] [250](#250) or, as the case may be, the Provincial Assembly shall become vacant on the day he enters upon his office.
+
+ 
+
+ 
+
+ [251](#251)\[
+
+**104.**
+
+**Speaker Provincial Assembly to act as, or perform functions of Governor in his absence:**  
+When the Governor, by reason of absence from Pakistan or for any other cause, is unable to perform his functions, the Speaker of the Provincial Assembly and in his absence any other person as the President may nominate shall perform the functions of Governor until the Governor returns to Pakistan or, as the case may be, resumes his functions.
+
+ 
+
+\] [251](#251)  
+ [252](#252)\[
+
+**105**
+
+**Governor to act on advice, etc.**  
+
+(1)
+
+Subject to the Constitution, in the performance of his functions, the Governor shall act  [253](#253)\[on and\] [253](#253) in accordance with the advice of the Cabinet,  [254](#254)\[or the Chief Minister\] [254](#254).
+
+>  [255](#255)\[**Provided** that  [256](#256)\[within fifteen days\] [256](#256) the Governor may require the Cabinet or, as the case may be, the Chief Minister to reconsider such advice, whether generally or otherwise, and the Governor shall  [257](#257)\[, within ten days,\] [257](#257) act in accordance with the advice tendered after such reconsideration.\] [255](#255)
+
+ [258](#258)\[\] [258](#258)
+
+ 
+
+(2)
+
+The question whether any, and if so what, advice was tendered to the Governor by the Chief Minister  [259](#259)\[or the Cabinet\] [259](#259) shall not be inquired into in, or by, any court, tribunal or other authority.
+
+ 
+
+ [260](#260)\[
+
+(3)
+
+Where the Governor dissolves the Provincial Assembly, notwithstanding anything contained in clause (1), he shall,-
+
+(a)
+
+appoint a date, not later than ninety days from the date of dissolution, for the holding of a general election to the Assembly; and
+
+(b)
+
+appoint a care-taker Cabinet.
+
+ 
+
+\] [260](#260) [261](#261)\[\] [261](#261)
+
+(5)
+
+The provisions of clause  [262](#262)\[(2)\] [262](#262) of Article 48 shall have effect in relation to a Governor as if reference therein to "President" were reference to "Governor".
+
+ 
+
+ 
+
+\] [252](#252)
+
+* * *
+
+### Notes
+
+[233](#f233)   Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 33(i) (with effect from April 19, 2010) for :
+
+> (1)
+> 
+> There shall be a Governor for each Province, who shall be appointed by the President  [234](#234)\[in his discretion\] [234](#234) [235](#235)\[ [236](#236)\[after consultation with\] [236](#236) the Prime Minister\] [235](#235).
+> 
+>  
+
+[234](#f234)   Inserted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 22(1) (with effect from March 2, 1985).
+
+[235](#f235)   Inserted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.html), Section 11(1) (with effect from November 9, 1985).
+
+[236](#f236)   Substituted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.html), Article 3(1), Sch. item 13 (with effect from August 21, 2002) for " [237](#237)\[on the advice of\] [237](#237)".
+
+[237](#f237)   Substituted by [Constitution (Thirteenth Amendment) Act, 1997 (1 of 1997)](/pakistan/constitution/amendments/13amendment.html), Section 3 (with effect from April 3, 1997) for "after consultation with".
+
+[238](#f238)   Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 33(ii) (with effect from April 19, 2010).
+
+[239](#f239)   Substituted by [Constitution (Fifth Amendment) Act, 1976 (62 of 1976)](/pakistan/constitution/amendments/5amendment.html), Section 2 (with effect from September 16, 1976) for ".".
+
+[240](#f240)   The following was omitted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.html), Section 11(aa) (with effect from November 9, 1985) : :
+
+> >  [241](#241)\[**Provided** that, after the holding of the first general election to the National Assembly, a person shall not be appointed to be the Governor of the Province of which he is a permanent resident.\] [241](#241)
+
+[241](#f241)   Inserted by [Constitution (Fifth Amendment) Act, 1976 (62 of 1976)](/pakistan/constitution/amendments/5amendment.html), Section 2 (with effect from September 16, 1976).
+
+[242](#f242)   The following was omitted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.html), Section 11(b) (with effect from November 9, 1985) : :
+
+>  [243](#243)\[
+> 
+> (2A)
+> 
+> Nothing contained in the proviso to clause (2) shall apply during the period that  [244](#244)\[a Proclamation under article 232 or\] [244](#244) Article 234 is in force.
+> 
+>  
+> 
+> \] [243](#243)
+
+[243](#f243)   Inserted by [Constitution (Fifth Amendment) Act, 1976 (62 of 1976)](/pakistan/constitution/amendments/5amendment.html), Section 2 (with effect from September 16, 1976).
+
+[244](#f244)   Substituted by [Constitution (Seventh Amendment) Act, 1977 (23 of 1977)](/pakistan/constitution/amendments/7amendment.html), Section 3 (with effect from April 21, 1977) for "an Order under paragraph (c) of clause (2) of Article 232 or a Proclamation under".
+
+[245](#f245)   Inserted by [Constitution (First Amendment) Act, 1974 (33 of 1974)](/pakistan/constitution/amendments/1amendment.html), Section 6 (with effect from May 4, 1974).
+
+[246](#f246)   Inserted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 22 (with effect from March 2, 1985).
+
+[247](#f247)   Inserted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.html), Section 11(c) (with effect from November 9, 1985).
+
+[248](#f248)   Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+
+[249](#f249)   Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+
+[250](#f250)   Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+
+[251](#f251)   Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 34 (with effect from April 19, 2010) for :
+
+> **104**
+> 
+> **Acting Governor.**  
+> When the governor is absent from Pakistan or is unable to perform the functions of his office due to any cause, such other person as the President may direct shall act as Governor.
+> 
+>  
+
+[252](#f252)   Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 23 (with effect from March 2, 1985) for :
+
+> **105**
+> 
+>   
+> 
+> (1)
+> 
+> Subject to the Constitution, in the performance of his functions, the Governor shall act on and in accordance with the advice of the Chief Minister and such advice of the Chief Minister and such advice shall be binding on him.
+> 
+>  
+> 
+> (2)
+> 
+> The question whether any, and if so what, was tendered to the Governor by the Chief Minister shall not be inquired into in any court.
+> 
+>  
+> 
+>  
+
+[253](#f253)   Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 35(i) (with effect from April 19, 2010).
+
+[254](#f254)   Substituted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.html), Section 12(a)(i) (with effect from November 9, 1985) for "Chief Minister or appropriate Minister".
+
+[255](#f255)   Substituted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.html), Section 12(a)(ii) (with effect from November 9, 1985) for :
+
+> > **Provided** that the Governor may require the Cabinet to reconsider such advice, whether generally or otherwise, and the Governor shall act in accordance with the advice tendered after such reconsideration.
+
+[256](#f256)   Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 35(i) (with effect from April 19, 2010).
+
+[257](#f257)   Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 35(i) (with effect from April 19, 2010).
+
+[258](#f258)   The following was omitted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.html), Section 12(a)(iii) (with effect from November 9, 1985) : :
+
+> > **Provided** further that, in respect of the following matters, the Governor shall, subject to the previous approval of the President, act in his discretion, namely :-
+> > 
+> > (a)
+> > 
+> > appointment of the Chief Minister;
+> > 
+> > (b)
+> > 
+> > dismissal of a Cabinet which has lost the confidence of the Provincial Assembly; and
+> > 
+> > (c)
+> > 
+> > dissolution of the Provincial Assembly, when an appeal to the electorate is necessary.
+
+[259](#f259)   Substituted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.html), Section 12(b) (with effect from November 9, 1985) for "the Cabinet or a Minister".
+
+[260](#f260)   Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 35(ii) (with effect from April 19, 2010) for :
+
+> (3)
+> 
+> Where the Governor dissolves the Provincial Assembly, he shall appoint, in his discretion, but with the previous approval of the President, a care-taker Cabinet.
+> 
+>  
+
+[261](#f261)   The following was omitted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 35(iii) (with effect from April 19, 2010) : :
+
+> (4)
+> 
+> The powers conferred by the Article on the President shall be exercised by him in his discretion.
+> 
+>  
+
+[262](#f262)   Substituted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.html), Section 12(c) (with effect from November 9, 1985) for "(3)".
+
+* * *
+
+  Chapter 2: "Provincial Assemblies" of Part IV: "Provinces"  div.references > div:target { background-color: #DEF; <!-- thisPageName = 'part4.ch2'; // [**The Constitution of Pakistan**](/pakistan/constitution/) on [pakistani.org](/)
+
+Go to: \[Select a Part/Chapter/Annex/Schedule ... \] Preamble Part I: Introductory - \[Articles 1-6\] Part II: Fundamental Rights and Principles of Policy - \[Articles 7-40\] \----Part II: Chapter 1: Fundamental Rights - \[Articles 8-28\] \----Part II: Chapter 2: Principles of Policy - \[Articles 29-40\] Part III: The Federation of Pakistan - \[Articles 41-100\] \----Part III: Chapter 1: The President - \[Articles 41-49\] \----Part III: Chapter 2: Majlis-e-Shoora (Parliament) - \[Articles 50-89\] \----Part III: Chapter 3: The Federal Government - \[Articles 90-100\] Part IV: The Provinces - \[Articles 101-140A\] \----Part IV: Chapter 1: The Governors - \[Articles 101-105\] \----Part IV: Chapter 2: Provincial Assemblies - \[Articles 106-128\] \----Part IV: Chapter 3: The Provincial Governments - \[Articles 129-140A\] Part V: Relations between Federation and Provinces - \[Articles 141-159\] \----Part V: Chapter 1: Distribution of Legislative Powers - \[Articles 141-144\] \----Part V: Chapter 2: Administrative Relations between the Federation and Provinces - \[Articles 145-152\] \----Part V: Chapter 3: Special Provisions - \[Articles 153-159\] Part VI: Finance, Property, Contracts and Suits - \[Articles 160-174\] \----Part VI: Chapter 1: Finance - \[Articles 160-165A\] \----Part VI: Chapter 2: Borrowing and Audit - \[Articles 166-171\] \----Part VI: Chapter 3: Property, Contracts, Liabilities and Suits - \[Articles 172-174\] Part VII: The Judicature - \[Articles 175-212B\] \----Part VII: Chapter 1: The Courts - \[Articles 175-175A\] \----Part VII: Chapter 2: The Supreme Court of Pakistan - \[Articles 176-191\] \----Part VII: Chapter 3: The High Courts - \[Articles 192-203\] \----Part VII: Chapter 3A: Federal Shariat Court - \[Articles 203A-203J\] \----Part VII: Chapter 4: General Provisions Relating to the Judicature - \[Articles 204-212B\] Part VIII: Elections - \[Articles 213-226\] \----Part VIII: Chapter 1: Chief Election Commissioner and Elections Commissions - \[Articles 213-221\] \----Part VIII: Chapter 2: Electoral Laws and Conduct of Elections - \[Articles 222-226\] Part IX: Islamic Provisions- \[Articles 227-231\] Part X: Emergency Provisions Part XI: Amendment of Constitution - \[Articles 232-237\] Part XII: Miscellaneous - \[Articles 240-280\] \----Part XII: Chapter 1: Services - \[Articles 240-242\] \----Part XII: Chapter 2: Armed Forces - \[Articles 243-245\] \----Part XII: Chapter 3: Tribal Areas - \[Articles 246-247\] \----Part XII: Chapter 4: General - \[Articles 248-259\] \----Part XII: Chapter 5: Interpretation - \[Articles 260-264\] \----Part XII: Chapter 6: Title, Commencement and Repeal - \[Articles 265-266\] \----Part XII: Chapter 7: Transitional - \[Articles 267-280\] Annex First Schedule: Laws exempted from the operation of Article 8(1) and (2) Second Schedule: Election of President Third Schedule: Oaths of Office Fourth Schedule: Legislative Lists Fifth Schedule: Remuneration and Terms and Conditions of Service of Judges 
+
+* * *
+
+Part IV: Provinces
+------------------
+
+Chapter 2: Provincial Assemblies
+--------------------------------
+
+ [263](#263)\[
+
+**106.**
+
+**Constitution of Provincial Assemblies:**  
+
+(1)
+
+Each Provincial Assembly shall consist of general seats and seats reserved for women and non-Muslims as specified herein below:-
+
+General seats
+
+Women
+
+Non-Muslims
+
+Total
+
+Balochistan
+
+51
+
+11
+
+3
+
+65
+
+Khyber Pakhtunkhwa
+
+115
+
+26
+
+4
+
+145
+
+Punjab
+
+297
+
+66
+
+8
+
+371
+
+Sindh
+
+130
+
+29
+
+9
+
+168
+
+ 
+
+ [265](#265)\[
+
+(1A)
+
+The seats for the Province of Khyber Pakhtunkhwa, referred to in clause (1), include sixteen general seats, four seats for women and one seat for non-Muslims in respect of the Federally Administered Tribal Areas: Provided that elections to the aforesaid seats shall be held within one year after the general elections, 2018.
+
+ 
+
+(1B)
+
+After elections to seats referred to in clause (1A), both clause (1A) and this clause shall stand omitted.
+
+ 
+
+\] [265](#265)
+
+(2)
+
+A person shall be entitled to vote if-
+
+(a)
+
+he is a citizen of Pakistan;
+
+(b)
+
+he is not less than eighteen years of age;
+
+(c)
+
+his name appears on the electoral roll; and
+
+(d)
+
+he is not declared by a competent court to be of unsound mind.
+
+ 
+
+(3)
+
+For the purpose of election to the Provincial Assembly,-
+
+(a)
+
+the constituencies for the general seats shall be single member territorial constituencies and the members to fill such seats shall be elected by direct and free vote;
+
+(b)
+
+each Province shall be a single constituency for all seats reserved for women and non-Muslims allocated to the respective Provinces under clause (3);
+
+(c)
+
+the members to fill seats reserved for women and non-Muslims allocated to a Province under clause (1) shall be elected in accordance with law through proportional representation system of political parties' lists of candidates on the basis of total number of general seats secured by each political party in the Provincial Assembly:
+
+> **Provided** that for the purpose of this sub-clause the total number of general seats won by a political party shall include the independent returned candidate or candidates who may duly join such political party within three days of the publication in the official Gazette of the names of the returned candidates.
+
+ 
+
+ 
+
+\] [263](#263)
+
+**107**
+
+**Duration of Provincial Assembly.**  
+A Provincial Assembly shall, unless sooner dissolved, continue for a term of five years from the day of its first meeting and shall stand dissolved at the expiration of its term.
+
+ 
+
+**108**
+
+**Speaker and Deputy Speaker.**  
+After a general election, a Provincial Assembly shall, at its first meeting and to the exclusion of any other business, elect from amongst its members a Speaker and a Deputy Speaker and, so often as the office of Speaker or Deputy Speaker becomes vacant, the Assembly shall elect another member as Speaker or, as the case may be, Deputy Speaker.
+
+ 
+
+**109**
+
+**Summoning and prorogation of Provincial Assembly.**  
+The Governor may from time to time-
+
+(a)
+
+summon the Provincial Assembly to meet at such time and place as he thinks fit; and
+
+(b)
+
+prorogue the Provincial Assembly.
+
+ 
+
+**110**
+
+**Right of Governor to address Provincial Assembly.**  
+The Governor may address the Provincial Assembly and may for that purpose require the attendance of the members.
+
+ 
+
+**111**
+
+**Right to speak in Provincial Assembly.**  
+The Advocate-General shall have the right to speak and otherwise take part in the proceedings of the Provincial Assembly or any committee thereof of which he may be named a member, but shall not by virtue of this Article be entitled to vote.
+
+ 
+
+ [281](#281)\[
+
+**112.**
+
+**Dissolution of Provincial Assembly:**  
+
+(1)
+
+The Governor shall dissolve the Provincial Assembly if so advised by the Chief Minister; and the Provincial Assembly shall, unless sooner dissolved, stand dissolved at the expiration of forty-eight hours after the Chief Minister has so advised.
+
+> **Explanation:** Reference in this Article to 'Chief Minister' shall not be construed to include reference to a Chief Minister against whom a notice of a resolution for a vote of no-confidence has been given in the Provincial Assembly but has not been voted upon or against whom a resolution for a vote of no-confidence has been passed.
+
+ 
+
+(2)
+
+The Governor may also dissolve the Provincial Assembly in his discretion, but subject to previous approval by the President, where a vote of no-confidence having been passed against the Chief Minister, no other member of the Provincial Assembly commands the confidence of the majority of the members of the Provincial Assembly in accordance with the provisions of the Constitution, as ascertained in a session of the Provincial Assembly summoned for the purpose.
+
+ 
+
+ 
+
+\] [281](#281)  
+ [288](#288)\[
+
+**113**
+
+**Qualifications and disqualifications for membership of Provincial Assembly.**  
+The qualifications and disqualifications for membership of the National Assembly set out in Articles 62 and 63 shall also apply for membership of a Provincial Assembly as if reference therein to "National Assembly" were a reference to "Provincial Assembly".
+
+ 
+
+\] [288](#288)
+
+**114**
+
+**Restriction on discussion in Provincial Assembly.**  
+No discussion shall take place in a Provincial Assembly with respect to the conduct of any Judge of the Supreme Court or of a High Court in the discharge of his duties.
+
+ 
+
+**115**
+
+**Provincial Government's consent required for financial measures.**  
+
+(1)
+
+A Money Bill, or a Bill or amendment which if enacted and brought into operation would involve expenditure from the Provincial Consolidated Fund or withdrawal from the Public Account of the Province shall not be introduced or moved in the Provincial Assembly except by or with the consent of the Provincial Government.
+
+ 
+
+(2)
+
+For the purpose of this Article, a Bill or amendment shall be deemed to be a Money Bill if it contains provisions dealing with all or any of the following matters, namely:
+
+(a)
+
+the imposition, abolition, remission, alteration or regulation of any tax;
+
+(b)
+
+the borrowing of money, or the giving of any guarantee, by the Provincial Government or the amendment of the law relating to the financial obligations of that Government;
+
+(c)
+
+the custody of the Provincial Consolidated Fund, the payment of moneys into, or issue of moneys from, that Fund;
+
+(d)
+
+the imposition of a charge upon the Provincial Consolidated Fund, or the abolition or alteration of any such charge;
+
+(e)
+
+the receipt of moneys on account of the Public Account of the Province, the custody or issue of such moneys; and
+
+(f)
+
+any matter incidental to any of the matters specified in the preceding paragraphs.
+
+ 
+
+(3)
+
+A Bill shall not be deemed to be a Money Bill by reason only that it provides-
+
+(a)
+
+for the imposition or alteration of any fine or other pecuniary penalty or for the demand or payment of a licence fee or a fee or charge for any service rendered; or
+
+(b)
+
+for the imposition, abolition, remission, alteration or regulation of any tax by any local authority or body for local purposes.
+
+ 
+
+(4)
+
+If any question arises whether a Bill is a Money Bill or not, the decision of the Speaker of the Provincial Assembly thereon shall be final.
+
+ 
+
+(5)
+
+Every Money Bill presented to the Governor for assent shall bear a certificate under the hand of the Speaker of the Provincial Assembly that it is a Money Bill and such certificate shall be conclusive for all purposes and shall not be called in question.
+
+ 
+
+ 
+
+ [289](#289)\[
+
+**116**
+
+**Governor's assent to Bills.**  
+
+(1)
+
+When a Bill has been passed by the Provincial Assembly, it shall be presented to the Governor for assent.
+
+ 
+
+(2)
+
+When a Bill is presented to the Governor for assent, the Governor shall, within  [290](#290)\[ten\] [290](#290) days,
+
+(a)
+
+assent to the Bill; or
+
+(b)
+
+in the case of a Bill other than a Money Bill, return the Bill to the Provincial Assembly with a message requesting that the Bill, or any specified provision thereof, be reconsidered and that any amendment specified in the message be considered.
+
+ 
+
+ [292](#292)\[
+
+(3)
+
+When the Governor has returned a Bill to the Provincial Assembly it shall be reconsidered by the Provincial Assembly and, if it is again passed, with or without amendment, by the Provincial Assembly, by the votes of the majority of the members of the Provincial Assembly present and voting, it shall be again presented to the Governor and the Governor shall  [293](#293)\[give his assent within ten days, failing with such assent shall be deemed to have been given\] [293](#293).
+
+ 
+
+\] [292](#292)
+
+(4)
+
+When the Governor has assented  [294](#294)\[or is deemed to have assented\] [294](#294)to a Bill, it shall become law and be called an Act of Provincial Assembly.
+
+ 
+
+(5)
+
+No Act of a Provincial Assembly, and no provision in any such Act, shall be invalid by reason only that some recommendation, previous sanction or consent required by the Constitution was not given if that Act was assented to accordance with the Constitution.
+
+ 
+
+ 
+
+\] [289](#289)
+
+**117**
+
+**Bill not to lapse on prorogation, etc.**  
+
+(1)
+
+A Bill pending in a Provincial Assembly shall not lapse by reason of the prorogation of the Assembly.
+
+ 
+
+(2)
+
+A Bill pending in a Provincial Assembly shall lapse on the dissolution of the Assembly.
+
+ 
+
+ 
+
+**118**
+
+**Provincial Consolidated Fund and Public Account.**  
+
+(1)
+
+All revenues received by the Provincial Government, all loans raised by that Government, and all moneys received by it in repayment of any loan, shall form part of a consolidated fund, to be known as the Provincial Consolidated Fund.
+
+ 
+
+(2)
+
+All other moneys
+
+(a)
+
+received by or on behalf of the Provincial Government; or
+
+(b)
+
+received by or deposited with the High Court or any other court established under the authority of the Province;
+
+shall be credited to the Public Account of the Province.
+
+ 
+
+ 
+
+**119**
+
+**Custody, etc., of Provincial Consolidated Fund and Public Account.**  
+The custody of the Provincial Consolidated Fund, the payment of moneys into that Fund, the withdrawal of moneys therefrom, the custody of other moneys received by or on behalf of the Provincial Government, their payment into, and withdrawal from, the Public Account of the Province, and all matters connected with or ancillary to the matters aforesaid, shall be regulated by Act of the Provincial Assembly or, until provision in that behalf is so made, by rules made by the Governor.
+
+ 
+
+**120**
+
+**Annual Budget Statement.**  
+
+(1)
+
+The Provincial Government shall, in respect of every financial year, cause to be laid before the Provincial Assembly a statement of the estimated receipts and expenditure of the Provincial Government for that year, in this Chapter referred to as the Annual Budget Statement.
+
+ 
+
+(2)
+
+The Annual Budget Statement shall show separately :-
+
+(a)
+
+the sums required to meet expenditure described by the Constitution as expenditure charged upon the Provincial Consolidated Fund; and
+
+(b)
+
+the sums required to meet other expenditure proposed to be made from the Provincial Consolidated Fund;
+
+and shall distinguish expenditure on revenue account from other expenditure.
+
+ 
+
+ 
+
+**121**
+
+**Expenditure charged upon Provincial Consolidated Fund.**  
+The following expenditure shall be expenditure charged upon the Provincial Consolidated Fund:
+
+(a)
+
+the remuneration payable to the Governor and other expenditure relating to his office, and the remuneration payable to :-
+
+(i)
+
+the Judges of the High Court; and
+
+(ii)
+
+the Speaker and Deputy Speaker of the Provincial Assembly;
+
+ 
+
+(b)
+
+the administrative expenses, including the remuneration payable to officers and servants, of the High Court and the Secretariat of the Provincial Assembly;
+
+ 
+
+(c)
+
+all debt charges for which the Provincial Government is liable, including interest, sinking fund charges, the repayment or amortisation of capital, and other expenditure in connection with the raising of loans, and the service and redemption of debt on the security of the Provincial Consolidation Fund;
+
+ 
+
+(d)
+
+any sums required to satisfy any judgment, decree or award against the Province by any Court or tribunal; and
+
+ 
+
+(e)
+
+any other sums declared by the Constitution or by Act of the Provincial Assembly to be so charged.
+
+ 
+
+ 
+
+**122**
+
+**Procedure relating to Annual Budget Statement.**  
+
+(1)
+
+So much of the Annual Budget Statement as relates to expenditure charged upon the Provincial Consolidated Fund may be discussed in, but shall not be submitted to the vote of, the Provincial Assembly.
+
+ 
+
+(2)
+
+So much of the Annual Budget Statement as relates to other expenditure shall be submitted to the Provincial Assembly in the form of demands for grants, and that Assembly shall have power to assent to, or to refuse to assent to, any demand, or to assent to any demand subject to a reduction of the amount specified therein:  [295](#295)\[\] [295](#295)
+
+ 
+
+(3)
+
+No demand for a grant shall be made except on the recommendation of the Provincial Government.
+
+ 
+
+ 
+
+**123**
+
+**Authentication of schedule of authorised expenditure.**  
+
+(1)
+
+The Chief Minister shall authenticate by his signature a schedule specifying :-
+
+(a)
+
+the grants made or deemed to have been made by the Provincial Assembly under Article 122 and
+
+(b)
+
+the several sums required to meet the expenditure charged upon the Provincial Consolidated Fund but not exceeding, in the case of any sum, the sum shown in the statement previously laid before the Assembly.
+
+ 
+
+(2)
+
+The schedule so authenticated shall be laid before the Provincial Assembly, but shall not be open to discussion or vote thereon.
+
+ 
+
+(3)
+
+Subject to the Constitution, no expenditure from the Provincial Consolidated Fund shall be deemed to be duly authorized unless it is specified in the schedule so authenticated and such schedule is laid before the Provincial Assembly as required by clause (2).
+
+ 
+
+ 
+
+**124**
+
+**Supplementary and excess grant.**  
+If in respect of any financial year it is found
+
+(a)
+
+that the amount authorized to be expended for a particular service for the current financial year is insufficient, or that a need has arisen for expenditure upon some new service not included in the Annual Budget Statement for that year; or
+
+ 
+
+(b)
+
+that any money has been spent on any service during a financial year in excess of the amount granted for that service for that year;
+
+ 
+
+the Provincial Government shall have power to authorize expenditure from the Provincial Consolidated Fund, whether the expenditure is charged by the Constitution upon that Fund or not, and shall cause to be laid before the Provincial Assembly a Supplementary Budget Statement or, as the case may be, an Excess Budget Statement, setting out the amount of that expenditure, and the provisions of Article 120 to 123 shall apply to those statements as they apply to the Annual Budget Statement.
+
+ 
+
+**125**
+
+**Votes of account.**  
+Notwithstanding anything contained in the foregoing provisions relating to financial matters, the Provincial Assembly shall have power to make any grant in advance in respect of the estimated expenditure for a part of any financial year, not exceeding three months, pending completion of the procedure prescribed in Article 122 for the voting of such grant and the authentication of the schedule of expenditure in accordance with the provisions of Article 123 in relation to the expenditure.
+
+ 
+
+**126**
+
+**Power to authorise expenditure when Assembly stands dissolved.**  
+Notwithstanding anything contained in the foregoing provisions relating to financial matters, at any time when the Provincial Assembly stands dissolved, the Provincial Government may authorize expenditure from the Provincial Consolidated Fund in respect of the estimated expenditure for a period not exceeding four months in any financial year, pending completion of the procedure prescribed in Article 122 for the voting of grants and the authentication of the schedule of authorized expenditure in accordance with the provisions of Article 123 in relation to the expenditure.
+
+ 
+
+**127**
+
+**Provisions relating to National Assembly, etc., to apply to Provincial Assembly, etc.**  
+Subject to the Constitution, the provisions of clauses (2) to (8) of Article 53, clauses (2) and (3) of Article 54, Article 55, Articles 63 to 67, Article 69, Article 77, Article 87 and Article 88 shall apply to and in relation to a Provincial Assembly or a committee or members thereof or the Provincial Government, but so that
+
+(a)
+
+any reference in those provisions to  [296](#296)\[Majlis-e-Shoora (Parliament)\] [296](#296), a House or the National Assembly shall be read as a reference to the Provincial Assembly;
+
+(b)
+
+any reference in those provisions to the President shall be read as a reference to the Governor of the Province;
+
+(c)
+
+any reference in those provisions to the Federal Government shall be, read as a reference to the Provincial Government;
+
+(d)
+
+any reference in those provisions to the Prime Minister shall be read as a reference to the Chief Minister;
+
+(e)
+
+any reference in those provisions to a Federal Minister shall be read as a reference to a Provincial Minister;  [297](#297)\[\] [297](#297)
+
+(f)
+
+any reference in those provisions to the National Assembly of Pakistan shall be read as a reference to the Provincial Assembly in existence immediately before the commencing day [298](#298)\[; and\] [298](#298)
+
+ [299](#299)\[
+
+(g)
+
+the said clause (2) of Article 54 shall have effect as if, in the proviso thereto, for the words "one hundred and thirty" the word " [300](#300)\[one hundred\] [300](#300)" were substituted.
+
+\] [299](#299)
+
+ 
+
+**128**
+
+**Power of Governor to promulgate Ordinances.**  
+
+(1)
+
+The Governor may, except when the Provincial Assembly is in session, if satisfied that circumstances exist which render it necessary to take immediate action, make and promulgate an Ordinance as the circumstances may require.
+
+ 
+
+(2)
+
+An Ordinance promulgated under this Article shall have the same force and effect as an Act of the Provincial Assembly and shall be subject to like restrictions as the power of the Provincial Assembly to make laws, but every such Ordinance:
+
+(a)
+
+shall be laid before the Provincial Assembly and shall stand repealed at the expiration of  [301](#301)\[ninety days\] [301](#301) from its promulgation or, if before the expiration of that period a resolution disapproving it is passed by the Assembly, upon the passing of that resolution [302](#302)\[:\] [302](#302)
+
+>  [303](#303)\[**Provided** that the Provincial Assembly may by a resolution extend the Ordinance for a further period of one hundred and twenty days and it shall stand repealed at the expiration of the extended period, or if before the expiration of that period a resolution disapproving it is passed by the Assembly, upon the passing of that resolution:
+
+> **Provided** further that extension for further period may be made only once.\] [303](#303)
+
+(b)
+
+may be withdrawn at any time by the Governor.
+
+ 
+
+(3)
+
+Without prejudice to the provisions of clause (2), an Ordinance laid before the Provincial Assembly shall be deemed to be a Bill introduced in the Provincial Assembly.
+
+ 
+
+ 
+
+* * *
+
+### Notes
+
+[263](#f263)   Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 36 (with effect from August 21, 2002) for :
+
+> **106**
+> 
+> **Constitution of Provincial Assemblies.**  
+>  [266](#266)\[
+> 
+> (1)
+> 
+> Each Provincial Assembly shall consist of general seats and seats reserved for women and non-Muslims as specified herein below.
+> 
+> General seats
+> 
+> Women
+> 
+> Non-Muslims
+> 
+> Total
+> 
+> Baluchistan
+> 
+> 51
+> 
+> 11
+> 
+> 3
+> 
+> 65
+> 
+> The North-West Frontier Province
+> 
+> 99
+> 
+> 22
+> 
+> 3
+> 
+> 124
+> 
+> The Punjab
+> 
+> 297
+> 
+> 66
+> 
+> 8
+> 
+> 371
+> 
+> Sind
+> 
+> 130
+> 
+> 29
+> 
+> 9
+> 
+> 168
+> 
+>  
+> 
+> \] [266](#266)
+> 
+> (2)
+> 
+> A person shall be entitled to vote if-
+> 
+> (a)
+> 
+> he is a citizen of Pakistan;
+> 
+> (b)
+> 
+> he is not less than  [267](#267)\[eighteen\] [267](#267) years of age;
+> 
+> (c)
+> 
+> his name appears on the electoral roll for any area in the Province; and
+> 
+> (d)
+> 
+> he is not declared by a competent court to be of unsound mind  [269](#269)\[.\] [269](#269)
+> 
+>  [270](#270)\[\] [270](#270)
+> 
+>  
+> 
+>  [271](#271)\[
+> 
+> (3)
+> 
+> For the purpose of election to a Provincial Assembly -
+> 
+> (a)
+> 
+> the constituencies for the general seats shall be single member territorial constituencies and the members to fill such seats shall be elected by direct and free vote.
+> 
+> (b)
+> 
+> each Province shall be a single constituency for all seats reserved for women and non-Muslims allocated to the respective Provinces under clause (1);
+> 
+> (c)
+> 
+> the members to fill seats reserved for women and non-Muslims allocated to a Province under clause (1) shall be elected in accordance with law through proportional representation system of political parties' lists of candidates on the basis of the total number of general seats secured by each political party in the Provincial Assembly:
+> 
+> >  [276](#276)\[**Provided** that for the purpose of this sub-clause, the total number of general seats won by a political party shall include the independent returned candidate or candidates who may duly join such political party within three days of the publication in the official Gazette of the names of the returned candidates.\] [276](#276)
+> 
+>  
+> 
+> \] [271](#271) [277](#277)\[\] [277](#277)
+> 
+>  
+
+[264](#f264)   Substituted by Constitution (Twenty-fifth Amendment) Act, 2017 (37 of 2018), Sect. 6(I) (with effect from May 31, 2018) for :
+
+> Khyber Pakhtunkhwa 99 22 3 124
+
+[265](#f265)   Inserted by Constitution (Twenty-fifth Amendment) Act, 2017 (37 of 2018), Sect. 6(II) (with effect from May 31, 2018).
+
+[266](#f266)   Substituted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.html), Article 3(1), Sch. item 14(1) (with effect from August 21, 2002) for :
+
+> (1)
+> 
+> There shall be a Provincial Assembly for each Province consisting of the number of members hereinafter specified to be elected by direct and free vote in accordance with law.
+> 
+> Baluchistan
+> 
+> 40
+> 
+> North-West Frontier Province
+> 
+> 80
+> 
+> The Punjab
+> 
+> 240
+> 
+> Sind
+> 
+> 100
+> 
+>  
+
+[267](#f267)   Substituted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.html), Article 3(1), Sch. item 14(2) (with effect from August 21, 2002) for " [268](#268)\[twenty-one\] [268](#268)".
+
+[268](#f268)   Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Sch. item 24 (with effect from March 2, 1985) for "eighteen".
+
+[269](#f269)   Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Sch. item 24 (with effect from March 2, 1985) for ":".
+
+[270](#f270)   The following was omitted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Sch. item 24 (with effect from March 2, 1985) : :
+
+> > **Provided** that, for the purpose of the first general election to the Provincial Assembly or an election to a seat falling vacant before the holding of the second general election to the Assembly, paragraph (b) shall have effect as if for the word "eighteen" the word "twenty-one" were substituted.
+
+[271](#f271)   Substituted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.html), Article 3(1), Sch. item 14(3) (with effect from August 21, 2002) for :
+
+>  [272](#272)\[
+> 
+> (3)
+> 
+> In addition to the seats in the Provincial Assemblies for the Provinces of Baluchistan, the Punjab, the North-West Frontier and Sind specified in clause (1), there shall be in those assemblies the number of seats hereinafter specified for non-Muslims.
+> 
+> Province
+> 
+> Christians
+> 
+> Hindus and persons belonging to the scheduled castes
+> 
+> Sikh, Buddhist and Parsi communities and other non-Muslims
+> 
+> Persons belonging to the Quadiani group of the Lahori group (who call themselves Ahmadis)
+> 
+> Baluchistan
+> 
+> 1
+> 
+> 1
+> 
+> 1
+> 
+> \-
+> 
+> The North-West Frontier Province
+> 
+> 1
+> 
+> \-
+> 
+> 1
+> 
+> 1
+> 
+> The Punjab
+> 
+> 5
+> 
+> 1
+> 
+> 1
+> 
+> 1
+> 
+> Sindh
+> 
+> 2
+> 
+> 5
+> 
+> 1
+> 
+> 1
+> 
+> > Explanation.- Where no independent seat is allocated to a minority in a Province for being very small in number, the seat allocated jointly to all other non-Muslims in that Province shall be deemed to include that minority.
+> 
+>  
+> 
+> \] [272](#272)
+
+[272](#f272)   Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Sch. item 24 (with effect from March 2, 1985) for :
+
+> (3)
+> 
+> In addition to the seats in the Provincial Assemblies for the Provinces of Baluchistan, the Punjab, the North-West Frontier and Sind specified in clause (1), there shall be in those Assemblies the number of additional seats hereinafter specified reserved for persons belonging to the Christian, Hindu, Sikh, Buddhist and Paris communities  [273](#273)\[and persons of the Quadiani group or the Lahori group who call themselves 'Ahmadis')\] [273](#273) [274](#274)\[and other non-Muslims and persons belonging to\] [274](#274) the scheduled castes :-
+> 
+> Baluchistan
+> 
+> 1
+> 
+> The North-West Frontier Province
+> 
+> 1
+> 
+> The Punjab
+> 
+>  [275](#275)\[5\] [275](#275)
+> 
+> Sind
+> 
+> 2
+> 
+>  
+
+[273](#f273)   Inserted by [Constitution (Second Amendment) Act, 1974 (49 of 1974)](/pakistan/constitution/amendments/2amendment.html), Section 2 (with effect from September 17, 1974).
+
+[274](#f274)   Substituted by [Constitution (Fourth Amendment) Act, 1975 (71 of 1975)](/pakistan/constitution/amendments/4amendment.html), Article 7 (with effect from November 21, 1975) for "or".
+
+[275](#f275)   Substituted by [Constitution (Fourth Amendment) Act, 1975 (71 of 1975)](/pakistan/constitution/amendments/4amendment.html), Article 7 (with effect from November 21, 1975) for "3".
+
+[276](#f276)   Substituted by [Legal Framework (Amendment) Order, 2002 (Chief Executive's Order No. 29 of 2002)](/pakistan/constitution/musharraf_const_revival/ce29_2002.html), Article 2(2) (with effect from October 9, 2002) for :
+
+> > **Provided** that a political party securing less than five per centum of the total number of seats in the Provincial Assembly shall not be entitled to any seat reserved for women and non-Muslims.
+
+[277](#f277)   The following was omitted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.html), Article 3(1), Sch. item 14(4) (with effect from August 21, 2002) : :
+
+> (4)
+> 
+> Until the expiration of a period of ten years from the commencing day or the holding of the  [278](#278)\[third\] [278](#278) general election to the Assembly of a Province, whichever occurs later, there shall be in the Assembly a number of additional seats reserved for women equal to five per centum of the number of members of that Assembly specified in clause (1).
+> 
+>  
+> 
+>  [279](#279)\[
+> 
+> (5)
+> 
+> The members to fill the seats referred to in clause (3) shall be elected, simultaneously with the members to fill the seats referred to in clause (1), on the basis of separate electorates by direct and free vote in accordance with law.
+> 
+>  
+> 
+> \] [279](#279) [280](#280)\[
+> 
+> (6)
+> 
+> As soon as practicable after the general election to a Provincial Assembly, the members to fill seats in that Assembly reserved for women shall be elected in accordance with law on the basis of a system of proportional representation by means of a single transferable vote by the electoral college consisting of the persons elected to that Assembly.
+> 
+>  
+> 
+> \] [280](#280)
+
+[278](#f278)   Substituted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.html), Section 13 (with effect from November 9, 1985) for "second".
+
+[279](#f279)   Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Sch. item 24 (with effect from March 2, 1985) for :
+
+> (5)
+> 
+> As soon as practicable after the general election to a Provincial Assembly, the members to fill seats reserved in the Assembly for the persons referred to in clause (3) of for women shall be elected in accordance with law by the members of that Assembly referred to in clause (1).
+> 
+>  
+
+[280](#f280)   Inserted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Sch. item 24 (with effect from March 2, 1985).
+
+[281](#f281)   Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 37 (with effect from April 19, 2010) for :
+
+> **112**
+> 
+> **Dissolution of Provincial Assembly.**  
+> 
+>  [282](#282)\[(1)\] [282](#282)
+> 
+> The Governor shall dissolve the Provincial Assembly if so advised by the Chief Minister; and the Provincial Assembly shall, unless sooner dissolved, stand dissolved at the expiration of forty-eight hours after the Chief Minister has so advised.
+> 
+> > Explanation.- Reference in this Article to "Chief Minister" shall not be construed to include reference to a Chief Minister against whom  [283](#283)\[notice or a resolution for a vote of no-confidence has been given\] [283](#283) in the Provincial Assembly but has not been voted upon or against whom a resolution for a vote of no-confidence has been passed or who is continuing in office by virtue of clause (2) of Article 134 or a Provincial Minister performing the functions of the Chief Minister under clause (1) or clause (3) of Article 135.
+> 
+>  
+> 
+>  [284](#284)\[
+> 
+> (2)
+> 
+> The Governor may also dissolve the Provincial Assembly in his discretion, but subject to the previous approval of the President, where, in his opinion:-
+> 
+> (a)
+> 
+> a vote of no-confidence having been passed against the Chief Minister, no other member of the Provincial Assemble is likely to command the confidence of the majority of the members of the Provincial Assembly in accordance with the provisions of the Constitution, as ascertained in a session of the Provincial Assembly summoned for the purpose; or
+> 
+>  [285](#285)\[\] [285](#285) [286](#286)\[
+> 
+> (b)
+> 
+> a situation has arisen in which the Government of the Province cannot be carried on in accordance with the provisions of the Constitution and an appeal to the electorate is necessary.
+> 
+> \] [286](#286)
+> 
+>  
+> 
+> \] [284](#284) [287](#287)\[
+> 
+> (3)
+> 
+> The Governor in case of dissolution of the Provisional Assembly under paragraph (b) of clause (2) shall within fifteen days of the dissolution refer the matter to the Supreme Court with the previous approval of the President and the Supreme Court shall decide the reference within thirty days whose decision shall be final.
+> 
+>  
+> 
+> \] [287](#287)
+> 
+>  
+
+[282](#f282)   Renumbered by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.html), Section 14 (with effect from November 9, 1985)
+
+[283](#f283)   Substituted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.html), Section 14(a) (with effect from November 9, 1985) for "resolution for a vote of no-confidence has been moved".
+
+[284](#f284)   Inserted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.html), Section 14(b) (with effect from November 9, 1985).
+
+[285](#f285)   The following was omitted by [Constitution (Thirteenth Amendment) Act, 1997 (1 of 1997)](/pakistan/constitution/amendments/13amendment.html), Section 2 (with effect from April 3, 1997) : :
+
+> (b)
+> 
+> a situation has arisen in which the Government of the Province cannot be carried on in accordance with the provisions of the Constitution and an appeal to the electorate is necessary.
+
+[286](#f286)   Inserted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.html), Article 3(1), Sch. item 15 (with effect from August 21, 2002).
+
+[287](#f287)   Inserted by [Constitution (Seventeenth Amendment) Act, 2003 (3 of 2003)](/pakistan/constitution/amendments/17amendment.html), Article 4 (with effect from December 31, 2003).
+
+[288](#f288)   Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Sch. item 25 (with effect from March 2, 1985) for :
+
+> **113**
+> 
+> A person shall not be qualified to be elected member of a Provincial Assembly unless :-
+> 
+> (a)
+> 
+> he is a citizen of Pakistan;
+> 
+> (b)
+> 
+> he is not less than twenty-five years of age;
+> 
+> (c)
+> 
+> he is enrolled as a voter in any electoral roll for election to the Assembly; and
+> 
+> (d)
+> 
+> he possesses such other qualifications as may be prescribed by Act of Parliament.
+> 
+>  
+
+[289](#f289)   Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Sch. item 26 (with effect from March 2, 1985) for :
+
+> **116**
+> 
+> (1)
+> 
+> When a Bill has been passed by the Provincial Assembly, it shall be presented to the Governor for assent.
+> 
+>  
+> 
+> (2)
+> 
+> The Governor shall assent to a Bill within seven days after it has been presented to him for assent, and if the Governor fails to do so he shall be deemed to have assented to the Bill at the expiration of the said period.
+> 
+>  
+> 
+> (3)
+> 
+> When the Governor has assented or is deemed to have assented to a Bill, it shall become law and be called an Act of the Provincial Assembly.
+> 
+>  
+> 
+> (4)
+> 
+> No Act of a Provincial Assembly, and no provision in any such Act, shall be invalid by reason only that some recommendation, previous sanction or consent required by the Constitution was not given if that Act was assented to or deemed to have been assented to in accordance with the Constitution.
+> 
+>  
+> 
+>  
+
+[290](#f290)   Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 38(i) (with effect from April 19, 2010) for " [291](#291)\[thirty\] [291](#291)".
+
+[291](#f291)   Substituted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.html), Section 15(a) (with effect from November 9, 1985) for "forty-five>".
+
+[292](#f292)   Substituted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.html), Section 15(b) (with effect from November 9, 1985) for :
+
+> (3)
+> 
+> When the Governor has returned a Bill to the Provincial Assembly, if it is again passed with or without amendment, by the Provincial Assembly, by the votes of the majority of the total membership of the Provincial Assembly, it shall be again presented to the Governor and the Governor shall assent thereto.
+> 
+>  
+
+[293](#f293)   Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 38(ii) (with effect from April 19, 2010) for "not withhold assent therefrom".
+
+[294](#f294)   Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 38(iii) (with effect from April 19, 2010).
+
+[295](#f295)   The following was omitted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 39 (with effect from April 19, 2010) : :
+
+> > **Provided** that, for a period of ten years from the commencing day or the holding of the second general election to the Provincial Assembly, whichever occurs later, a demand shall be deemed to have been assented to unless, by the votes of a majority of the total membership of the Assembly, it is refused or assented to subject to a reduction of the amount specified therein.
+
+[296](#f296)   Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+
+[297](#f297)   The following was omitted by [Constitution (First Amendment) Act, 1974 (33 of 1974)](/pakistan/constitution/amendments/1amendment.html), Article 7(a) (with effect from May 4, 1974) : "and".
+
+[298](#f298)   Substituted by [Constitution (First Amendment) Act, 1974 (33 of 1974)](/pakistan/constitution/amendments/1amendment.html), Article 7(b) (with effect from May 4, 1974) for ".".
+
+[299](#f299)   Inserted by [Constitution (First Amendment) Act, 1974 (33 of 1974)](/pakistan/constitution/amendments/1amendment.html), Article 7(c) (with effect from May 4, 1974).
+
+[300](#f300)   Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 40 (with effect from April 19, 2010) for "seventy".
+
+[301](#f301)   Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 41 (with effect from April 19, 2010) for "three months".
+
+[302](#f302)   Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 41 (with effect from April 19, 2010) for "; and".
+
+[303](#f303)   Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 41 (with effect from April 19, 2010).
+
+* * *
+
+  Chapter 3: "The Provincial Governments" of Part IV: "Provinces"  div.references > div:target { background-color: #DEF; <!-- thisPageName = 'part4.ch3'; // [**The Constitution of Pakistan**](/pakistan/constitution/) on [pakistani.org](/)
+
+Go to: \[Select a Part/Chapter/Annex/Schedule ... \] Preamble Part I: Introductory - \[Articles 1-6\] Part II: Fundamental Rights and Principles of Policy - \[Articles 7-40\] \----Part II: Chapter 1: Fundamental Rights - \[Articles 8-28\] \----Part II: Chapter 2: Principles of Policy - \[Articles 29-40\] Part III: The Federation of Pakistan - \[Articles 41-100\] \----Part III: Chapter 1: The President - \[Articles 41-49\] \----Part III: Chapter 2: Majlis-e-Shoora (Parliament) - \[Articles 50-89\] \----Part III: Chapter 3: The Federal Government - \[Articles 90-100\] Part IV: The Provinces - \[Articles 101-140A\] \----Part IV: Chapter 1: The Governors - \[Articles 101-105\] \----Part IV: Chapter 2: Provincial Assemblies - \[Articles 106-128\] \----Part IV: Chapter 3: The Provincial Governments - \[Articles 129-140A\] Part V: Relations between Federation and Provinces - \[Articles 141-159\] \----Part V: Chapter 1: Distribution of Legislative Powers - \[Articles 141-144\] \----Part V: Chapter 2: Administrative Relations between the Federation and Provinces - \[Articles 145-152\] \----Part V: Chapter 3: Special Provisions - \[Articles 153-159\] Part VI: Finance, Property, Contracts and Suits - \[Articles 160-174\] \----Part VI: Chapter 1: Finance - \[Articles 160-165A\] \----Part VI: Chapter 2: Borrowing and Audit - \[Articles 166-171\] \----Part VI: Chapter 3: Property, Contracts, Liabilities and Suits - \[Articles 172-174\] Part VII: The Judicature - \[Articles 175-212B\] \----Part VII: Chapter 1: The Courts - \[Articles 175-175A\] \----Part VII: Chapter 2: The Supreme Court of Pakistan - \[Articles 176-191\] \----Part VII: Chapter 3: The High Courts - \[Articles 192-203\] \----Part VII: Chapter 3A: Federal Shariat Court - \[Articles 203A-203J\] \----Part VII: Chapter 4: General Provisions Relating to the Judicature - \[Articles 204-212B\] Part VIII: Elections - \[Articles 213-226\] \----Part VIII: Chapter 1: Chief Election Commissioner and Elections Commissions - \[Articles 213-221\] \----Part VIII: Chapter 2: Electoral Laws and Conduct of Elections - \[Articles 222-226\] Part IX: Islamic Provisions- \[Articles 227-231\] Part X: Emergency Provisions Part XI: Amendment of Constitution - \[Articles 232-237\] Part XII: Miscellaneous - \[Articles 240-280\] \----Part XII: Chapter 1: Services - \[Articles 240-242\] \----Part XII: Chapter 2: Armed Forces - \[Articles 243-245\] \----Part XII: Chapter 3: Tribal Areas - \[Articles 246-247\] \----Part XII: Chapter 4: General - \[Articles 248-259\] \----Part XII: Chapter 5: Interpretation - \[Articles 260-264\] \----Part XII: Chapter 6: Title, Commencement and Repeal - \[Articles 265-266\] \----Part XII: Chapter 7: Transitional - \[Articles 267-280\] Annex First Schedule: Laws exempted from the operation of Article 8(1) and (2) Second Schedule: Election of President Third Schedule: Oaths of Office Fourth Schedule: Legislative Lists Fifth Schedule: Remuneration and Terms and Conditions of Service of Judges 
+
+* * *
+
+Part IV: Provinces
+------------------
+
+Chapter 3: The Provincial Governments
+-------------------------------------
+
+ [304](#304)\[ [305](#305)\[
+
+**129.**
+
+**The Provincial Government:**  
+
+(1)
+
+Subject to the Constitution, the executive authority of the Province shall be exercised in the name of the Governor by the Provincial Government, consisting of the Chief Minister and Provincial Ministers, which shall act through the Chief Minister.
+
+ 
+
+(2)
+
+In the performance of his functions under the Constitution, the Chief Minister may act either directly or through the Provincial Ministers.
+
+ 
+
+ 
+
+\] [305](#305)  
+ [306](#306)\[
+
+**130.**
+
+**The Cabinet:**  
+
+(1)
+
+There shall be a Cabinet of Ministers, with the Chief Minister at its head, to aid and advise the Governor in the exercise of his functions.
+
+ 
+
+(2)
+
+The Provincial Assembly shall meet on the twenty-first day following the day on which a general election to the Assembly is held, unless sooner summoned by the Governor.
+
+ 
+
+(3)
+
+After the election of the Speaker and the Deputy Speaker, the Provincial Assembly shall, to the exclusion of any other business, proceed to elect without debate one of its members to be the Chief Minister.
+
+ 
+
+(4)
+
+The Chief Minister shall be elected by the votes of the majority of the total membership of the Provincial Assembly:
+
+> **Provided** that, if no member secures such majority in the first poll, a second poll shall be held between the members who secure the two highest numbers of votes in the first poll and the member who secures a majority of votes of the members present and voting shall be declared to have been elected as Chief Minister:
+
+> **Provided** further that, if the number of votes secured by two or more members securing the highest number of votes is equal, further polls shall be held between them until one of them secures a majority of votes of the members present and voting.
+
+ 
+
+(5)
+
+The member elected under clause (4) shall be called upon by the Governor to assume the office of Chief Minister and he shall, before entering upon the office, make before the President oath in the form set out in the Third Schedule:
+
+> **Provided** that there shall be no restriction on the number of terms for the office of the Chief Minister.
+
+ 
+
+(6)
+
+The Cabinet shall be collectively responsible to the Provincial Assembly and the total strength of the Cabinet shall not exceed fifteen members or eleven percent of the total membership of a Provincial Assembly, whichever is higher:
+
+> **Provided** that the aforesaid limit shall be effective from the next general elections after the commencement of the Constitution (Eighteenth Amendment) Act, 2010.
+
+ 
+
+(7)
+
+The Chief Minister shall hold office during the pleasure of the Governor, but the Governor shall not exercise his powers under this clause unless he is satisfied that the Chief Minister does not command the confidence of the majority of the members of the Provincial Assembly, in which case he shall summon the Provincial Assembly and require the Chief Minister to obtain a vote of confidence from the Assembly.
+
+ 
+
+(8)
+
+The Chief Minister may, by writing under his hand addressed to the President, resign his office.
+
+ 
+
+(9)
+
+A Minister who for any period of six consecutive months is not a member of the Provincial Assembly shall, at the expiration of that period, cease to be a Minister and shall not before the dissolution of that Assembly be again appointed a Minister unless he is elected a member of that Assembly.
+
+ 
+
+(10)
+
+Nothing in this Article shall be construed as disqualifying the Chief Minister or any other Minister for continuing in office during any period during which the Provincial Assembly stands dissolved, or as preventing the appointment of any person as Chief Minister or other Minister during any such period.
+
+ 
+
+(11)
+
+The Chief Minister shall not appoint more than five Advisers.
+
+ 
+
+ 
+
+\] [306](#306)  
+ [310](#310)\[
+
+**131.**
+
+**Governor to be kept informed:**  
+The Chief Minister shall keep the Governor informed on matters relating to Provincial administration and on all legislative proposals the Provincial Government intends to bring before the Provincial Assembly.
+
+ 
+
+\] [310](#310)\] [304](#304)
+
+**132**
+
+**Provincial Minister.**  
+
+(1)
+
+Subject to clauses  [311](#311)\[(9) and (10)\] [311](#311) of Article 130, the Governor shall appoint Provincial Ministers from amongst members of the Provincial Assembly on the advice of the Chief Minister.
+
+ 
+
+(2)
+
+Before entering upon office, a Provincial Minister shall make before the Governor oath in the form set out in the Third Schedule.
+
+ 
+
+(3)
+
+A Provincial Minister may, by writing under his hand addressed to the Governor, resign his office or may be removed from office by the Governor on the advice of the Chief Minister.
+
+ 
+
+ 
+
+**133**
+
+**Chief Minister continuing in office.**  
+The Governor may ask the Chief Minister to continue to hold office until his successor enters upon the office of Chief Minister.
+
+ 
+
+ [312](#312)\[\] [312](#312)  
+ [313](#313)\[\] [313](#313)  
+ [314](#314)\[
+
+**136**
+
+**Vote of no-confidence against Chief Minister.**  
+
+(1)
+
+A resolution for a vote of no-confidence moved by not less than twenty per centum of the total membership of the Provincial Assembly may be passed against the Chief Minister by the Provincial Assembly.
+
+ 
+
+(2)
+
+A resolution referred to in clause (1) shall not be voted upon before the expiration of three days, or later than seven days, from the day on which such resolution is moved in the Provincial Assembly.
+
+ 
+
+(3)
+
+If the resolution referred to in clause (1) is passed by a majority of the total membership of the Provincial Assembly, the Chief Minister shall cease to hold office.
+
+ 
+
+ 
+
+\] [314](#314)
+
+**137**
+
+**Extent of executive authority of Province.**  
+Subject to the Constitution, the executive authority of the Province shall extend to the matters with respect to which the Provincial Assembly has power to make laws:
+
+> **Provided** that, in any matter with respect to which both  [315](#315)\[Majlis-e-Shoora (Parliament)\] [315](#315) and the Provincial Assembly of a Province have power to make laws, the executive authority of the Province shall be subject to, and limited by, the executive authority expressly conferred by the Constitution or by law made by  [316](#316)\[Majlis-e-Shoora (Parliament)\] [316](#316) upon the Federal Government or authorities thereof.
+
+ 
+
+**138**
+
+**Conferring of functions on subordinate authorities.**  
+On the recommendation of the Provincial Government, the Provincial Assembly may by law confer functions upon officers or authorities subordinate to the Provincial Government.
+
+ 
+
+ [317](#317)\[
+
+**139**
+
+**Conduct of business of Provincial Government.**  
+
+(1)
+
+All executive actions of the Provincial Government shall be expressed to be taken in the name of the Governor.
+
+ 
+
+(2)
+
+The  [318](#318)\[Provincial Government\] [318](#318) shall by rules specify the manner in which orders and other instruments made and executed in his name shall be authenticated, and the validity of any order or instrument so authenticated shall not be questioned in any court on the ground that it was not made or executed by the Governor.
+
+ 
+
+ [319](#319)\[
+
+(3)
+
+The Provincial Government shall also make rules for the allocation and transaction of its business.
+
+ 
+
+\] [319](#319)
+
+ 
+
+\] [317](#317)
+
+**140**
+
+**Advocate-General for a Province.**  
+
+(1)
+
+The Governor of each Province shall appoint a person, being a person qualified to be appointed a Judge of the High Court, to be the Advocate-General for the Province.
+
+ 
+
+(2)
+
+It shall be the duty of the Advocate-General to give advice to the Provincial Government upon such legal matters, and to perform such other duties of a legal character, as may be referred or assigned to him by the Provincial government.
+
+ 
+
+(3)
+
+The Advocate-General shall hold office during the pleasure of the Governor  [320](#320)\[and shall not engage in private practice so long as he holds the office of the Advocate-General.\] [320](#320)
+
+ 
+
+(4)
+
+The Advocate-General may, by writing under his hand addressed to the Governor, resign his office.
+
+ 
+
+ 
+
+ [321](#321)\[
+
+**140A.**
+
+**Local Government:**  
+
+(1)
+
+Each Province shall, by law, establish a local government system and devolve political, administrative and financial responsibility and authority to the elected representatitves of the local governments.
+
+ 
+
+(2)
+
+Elections to the local governments shall be held by the Election Commission of Pakistan.
+
+ 
+
+ 
+
+\] [321](#321)
+
+* * *
+
+### Notes
+
+[304](#f304)   Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 27 (with effect from March 2, 1985) for :
+
+> **129**
+> 
+>   
+> 
+> (1)
+> 
+> Subject to the Constitution, the executive authority of the province shall be exercised in the name of the Governor by the Provincial Government, consisting of the Chief Minister and Provincial Ministers, which shall act through the Chief Minister.
+> 
+>  
+> 
+> (2)
+> 
+> In the performance of his functions under the Constitution, the Chief minister may act either directly or through the Provincial Ministers.
+> 
+>  
+> 
+> (3)
+> 
+> The Chief Minister and the Provincial Ministers shall be collectively responsible to the Provincial Assembly.
+> 
+>  
+> 
+>  
+> 
+> **130**
+> 
+>   
+> The Chief Minister shall keep the Governor informed on matters relating to Provincial administration and on all legislative proposals the Provincial Government intends to bring before the Provincial Assembly.
+> 
+>  
+> 
+> **131**
+> 
+> (1)
+> 
+> The Provincial Assembly shall meet on the thirtieth day following the day on which a general election to the Assembly is held, unless sooner summoned by the Governor.
+> 
+>  
+> 
+> (2)
+> 
+> After the election of the Speaker and the Deputy Speaker, the Provincial Assembly shall, to the exclusion of any other business, proceed to elect without debate one of its members to be the Chief Minister.
+> 
+>  
+> 
+> (3)
+> 
+> The Chief Minister shall be elected by the votes of the majority of the total membership of the Provincial Assembly.
+> 
+> > **Provided** that, if no member secures such majority in the first poll, a second poll shall be held between the members who secure the two highest numbers of votes in the first poll and the member who secures a majority of votes of the members present and voting shall be declared to have been elected as Chief Minister;
+> 
+> > **Provided** further that, if the number of votes secured by two or more members securing the highest number of votes is equal, further polls shall be held between them until one of them secures a majority of votes of the members present and voting.
+> 
+>  
+> 
+> (4)
+> 
+> The member elected under clause (3) shall be called upon by the Governor to assume the office of Chief Minister and he shall before entering upon the office make before the Governor oath in the form set out in the Third Schedule.
+> 
+>  
+> 
+>  
+
+[305](#f305)   Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 42 (with effect from April 19, 2010) for :
+
+> **129**
+> 
+> **Exercise of executive authority of Province.**  
+> The executive authority of the Province shall vest in the Governor and shall be exercised by him, either directly or though officers subordinate to him, in accordance with the Constitution.
+> 
+>  
+
+[306](#f306)   Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 43 (with effect from April 19, 2010) for :
+
+> **130**
+> 
+> **The Cabinet.**  
+> 
+> (1)
+> 
+> There shall be a Cabinet of Ministers, with the Chief Minister at its head, to aid and advise the Governor in the exercise of his functions.
+> 
+>  
+> 
+> (2)
+> 
+> The Governor shall appoint from amongst the members of the Provincial Assembly a Chief Minister who, in his opinion, is likely to command the confidence of the majority of the members of the provincial Assembly.
+> 
+>  
+> 
+>  [307](#307)\[
+> 
+> (2A)
+> 
+> Notwithstanding anything contained in clause (2) after the twentieth day of March, one thousand nine-hundred and eighty-eight, the Governor shall invite the member of the Provincial Assembly to be the Chief Minister who commands the confidence of the members of the Provincial Assembly, as ascertained in session of the Assembly summoned for the purpose in accordance with the provisions of the Constitution:
+> 
+> > **Provided** that nothing contained in this clause shall apply to a Chief Minister holding office on the twentieth day of March, one thousand nine hundred and eighty eight, in accordance with provisions of the Constitution.
+> 
+>  
+> 
+> \] [307](#307)
+> 
+> (3)
+> 
+> The person appointed under clause (2)  [308](#308)\[or, as the case may be, invited under clause(2A)\] [308](#308) shall, before entering upon the office, make before the Governor oath in the form set out in the Third Schedule and shall within a period of sixty days thereof obtain a vote of confidence from the Provincial Assembly.
+> 
+>  
+> 
+> (4)
+> 
+> The Cabinet shall be collectively responsible to the Provincial Assembly.
+> 
+>  
+> 
+>  [309](#309)\[
+> 
+> (5)
+> 
+> The Chief Minister shall hold office during the pleasure of the Governor, but the Governor shall not exercise his powers under this clause unless he is satisfied that the Chief Minister does not command the confidence of the majority of the members of the Provincial Assembly, in which case he shall summon the Provincial Assembly and require the Chief Minister to obtain a vote of confidence from the Assembly.
+> 
+>  
+> 
+> \] [309](#309)
+> 
+> (6)
+> 
+> The Chief Minister may, by writing under his hand addressed to the Governor, resign his office.
+> 
+>  
+> 
+> (7)
+> 
+> A Minister who for any period of six consecutive months is not a member of the Provincial Assembly shall, at the expiration of that period, cease to be a Minister, and shall not before the dissolution of that Assembly be again appointed a Minister unless he is elected a member of that Assembly.
+> 
+>  
+> 
+> (8)
+> 
+> Nothing contained in this Article shall be construed as disqualifying the Chief Minister or any other Minister for continuing in office during any period during which the Provincial Assembly stands dissolved, or as preventing the appointment of any person as Chief Minister or other Minister during any such period.
+> 
+>  
+> 
+>  
+
+[307](#f307)   Inserted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.html), Section 16(a) (with effect from November 9, 1985).
+
+[308](#f308)   Inserted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.html), Section 16(b) (with effect from November 9, 1985).
+
+[309](#f309)   Substituted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.html), Section 16(c) (with effect from November 9, 1985) for :
+
+> (5)
+> 
+> The Chief Minister shall hold office during the pleasure of the Governor, but the Governor shall not exercise his powers under this clause unless he is satisfied that the Chief Minister does not command the confidence of the majority of the members of the Provincial Assembly.
+> 
+>  
+
+[310](#f310)   Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 44 (with effect from April 19, 2010) for :
+
+> **131**
+> 
+> **Duties of Chief Minister in relation to Governor.**  
+> It shall be the duty of the Chief Minister-
+> 
+> (a)
+> 
+> to communicate to the Governor all decisions of the Cabinet relating to the administration of the affairs of the Province and proposals for legislation;
+> 
+> (b)
+> 
+> to furnish such information relating to the administration of the affairs of the Province and proposals for legislation as the Governor may call for; and
+> 
+> (c)
+> 
+> if the Governor so requires, to submit for consideration of the Cabinet any matter on which a decision has been taken by the Chief Minister or a Minister but which has not been considered by the Cabinet.
+> 
+>  
+
+[311](#f311)   Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 45 (with effect from April 19, 2010) for "(7) and (8)".
+
+[312](#f312)   The following was omitted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Sch. item 29 (with effect from March 2, 1985) : :
+
+> **134**
+> 
+> **Resignation by Chief Minister.**  
+> 
+> (1)
+> 
+> Subject to clause (2), the Chief Minister may by writing under his hand addressed to the Governor, resign his office and, when the Chief Minister resigns, the Provincial Ministers shall cease to hold office.
+> 
+>  
+> 
+> (2)
+> 
+> The Chief Minister and, at the request of the Chief Minister, a Provincial Minister, shall continue to perform the functions of the office of Chief Minister or, as the case may be, Provincial Minister until a new Chief Minister has been elected and has entered upon his office.
+> 
+>  
+> 
+> (3)
+> 
+> If the Provincial Assembly is in session at the time when the Chief Minister resigns his office, the Assembly shall forthwith proceed to elect a Chief Minister, and if the Assembly is not in session the Governor shall for that purpose summon it to meet within fourteen days of the resignation.
+> 
+>  
+> 
+>  
+
+[313](#f313)   The following was omitted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Sch. item 29 (with effect from March 2, 1985) : :
+
+> **135**
+> 
+> **Provincial Minister performing functions of Chief Minister.**  
+> 
+> (1)
+> 
+> In the event of the death of the Chief Minister or of the office of Chief Minister becoming vacant by reason of his ceasing to be a member of the Provincial Assembly, the most senior Provincial Minister for the time being shall be called upon by the Governor to perform the functions of that office and the Provincial Ministers shall continue in office until a new Chief Minister has been elected and has entered upon his office.
+> 
+>  
+> 
+> (2)
+> 
+> If the Provincial Assembly is in session at the time when the Chief Minister dies or the office of Chief Minister becomes vacant, the Assembly shall forthwith proceed to elect a Chief Minister, and if the Assembly is not in session the Governor shall for that purpose summon it to meet within fourteen days of the death of the Chief Minister or, as the case may be, of the office becoming vacant.
+> 
+>  
+> 
+> (3)
+> 
+> When the Chief Minister, by reason of absence from Pakistan or any other cause, is unable to perform his functions, the most senior Provincial Minister for the time being shall perform the functions of Chief Minister until the Chief Minister returns to Pakistan or, as the case may be, resumes his functions.
+> 
+>  
+> 
+> (4)
+> 
+> In this Article, "most senior Provincial Minister" means the Provincial Minister for the time being designated as such by the Chief Minister.
+> 
+>  
+> 
+>  
+
+[314](#f314)   Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Sch. item 30 (with effect from March 2, 1985) for :
+
+> **136.**
+> 
+> (1)
+> 
+> A resolution for a vote of no-confidence may be passed against the Chief Minister by the Provincial Assembly.
+> 
+>  
+> 
+> (2)
+> 
+> A resolution referred to in clause (1) shall not be moved in the Provincial Assembly unless, by the same resolution, the name of another member of the Assembly is put forward as the successor.
+> 
+>  
+> 
+> (3)
+> 
+> A resolution referred to in clause (1) shall not be moved in the Provincial Assembly while the Provincial Assembly is considering demands for grants submitted to it in the Annual Budget Statement.
+> 
+>  
+> 
+> (4)
+> 
+> A resolution referred to in clause (1) shall not be voted upon before the expiration of three days, or later than seven days, from the day on which such resolution is moved in the Provincial Assembly.
+> 
+>  
+> 
+> (5)
+> 
+> If the resolution referred to in clause (1) is passed by a majority of the total membership of the Provincial Assembly, the Governor shall call upon the person named in the resolution as the successor to assume office and on his entering upon office his predecessor and the Provincial Minister appointed by him shall cease to hold office.
+> 
+> > **Provided** that, for a period of ten years from the commencing day or the holding of the second general election to the Provincial Assembly, whichever occurs later, the vote of a member, elected to the Provincial Assembly as a candidate or nominee of a political party, cast in support of a resolution for a vote of no-confidence shall be disregarded if the majority of the members of that political party in the Provincial Assembly has cast its votes against the passing of such resolution.
+> 
+>  
+> 
+> (6)
+> 
+> If a resolution referred to in clause (1) is not passed, another such resolution shall not be moved until a period of six months has elapsed.
+> 
+>  
+> 
+>  
+
+[315](#f315)   Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+
+[316](#f316)   Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+
+[317](#f317)   Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Sch. item 31 (with effect from March 2, 1985) for :
+
+> **139.**
+> 
+>   
+> 
+> (1)
+> 
+> Orders, and other instruments made and executed in the name of the Governor shall be authenticated in such manner as may be specified in rules to be made by the Provincial Government, and the validity of an order or instrument which is so authenticated shall not be called in question on the ground that it is not an order or instrument made or executed by the Governor.
+> 
+>  
+> 
+> (2)
+> 
+> The Provincial Government may regulate the allocation and transaction of its business and may for the convenient transaction of that business delegate any of its functions to officers or authorities subordinate to it.
+> 
+>  
+> 
+>  
+
+[318](#f318)   Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 46(i) (with effect from April 19, 2010) for "Governor".
+
+[319](#f319)   Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 46(iii) (with effect from April 19, 2010) for :
+
+> (3)
+> 
+> The Governor shall also make rules for the allocation and transaction of the business of the Provincial Government.
+> 
+>  
+
+[320](#f320)   Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 47 (with effect from April 19, 2010).
+
+[321](#f321)   Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 48 (with effect from April 19, 2010) for :
+
+>  [322](#322)\[
+> 
+> **140A**
+> 
+> **Local Government**  
+> Each Province shall, by law, establish a local government system and devolve political, administrative and financial responsibility and authority to the elected representatives of the local governments.
+> 
+>  
+> 
+> \] [322](#322)
+
+[322](#f322)   Inserted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.html), Article 3(1), Sch. item 16 (with effect from August 21, 2002).
+
+* * *
+
+  Chapter 1: "Distribution of Legislative Powers" of Part V: "Relations between Federation and Provinces"  div.references > div:target { background-color: #DEF; <!-- thisPageName = 'part5.ch1'; // [**The Constitution of Pakistan**](/pakistan/constitution/) on [pakistani.org](/)
+
+Go to: \[Select a Part/Chapter/Annex/Schedule ... \] Preamble Part I: Introductory - \[Articles 1-6\] Part II: Fundamental Rights and Principles of Policy - \[Articles 7-40\] \----Part II: Chapter 1: Fundamental Rights - \[Articles 8-28\] \----Part II: Chapter 2: Principles of Policy - \[Articles 29-40\] Part III: The Federation of Pakistan - \[Articles 41-100\] \----Part III: Chapter 1: The President - \[Articles 41-49\] \----Part III: Chapter 2: Majlis-e-Shoora (Parliament) - \[Articles 50-89\] \----Part III: Chapter 3: The Federal Government - \[Articles 90-100\] Part IV: The Provinces - \[Articles 101-140A\] \----Part IV: Chapter 1: The Governors - \[Articles 101-105\] \----Part IV: Chapter 2: Provincial Assemblies - \[Articles 106-128\] \----Part IV: Chapter 3: The Provincial Governments - \[Articles 129-140A\] Part V: Relations between Federation and Provinces - \[Articles 141-159\] \----Part V: Chapter 1: Distribution of Legislative Powers - \[Articles 141-144\] \----Part V: Chapter 2: Administrative Relations between the Federation and Provinces - \[Articles 145-152\] \----Part V: Chapter 3: Special Provisions - \[Articles 153-159\] Part VI: Finance, Property, Contracts and Suits - \[Articles 160-174\] \----Part VI: Chapter 1: Finance - \[Articles 160-165A\] \----Part VI: Chapter 2: Borrowing and Audit - \[Articles 166-171\] \----Part VI: Chapter 3: Property, Contracts, Liabilities and Suits - \[Articles 172-174\] Part VII: The Judicature - \[Articles 175-212B\] \----Part VII: Chapter 1: The Courts - \[Articles 175-175A\] \----Part VII: Chapter 2: The Supreme Court of Pakistan - \[Articles 176-191\] \----Part VII: Chapter 3: The High Courts - \[Articles 192-203\] \----Part VII: Chapter 3A: Federal Shariat Court - \[Articles 203A-203J\] \----Part VII: Chapter 4: General Provisions Relating to the Judicature - \[Articles 204-212B\] Part VIII: Elections - \[Articles 213-226\] \----Part VIII: Chapter 1: Chief Election Commissioner and Elections Commissions - \[Articles 213-221\] \----Part VIII: Chapter 2: Electoral Laws and Conduct of Elections - \[Articles 222-226\] Part IX: Islamic Provisions- \[Articles 227-231\] Part X: Emergency Provisions Part XI: Amendment of Constitution - \[Articles 232-237\] Part XII: Miscellaneous - \[Articles 240-280\] \----Part XII: Chapter 1: Services - \[Articles 240-242\] \----Part XII: Chapter 2: Armed Forces - \[Articles 243-245\] \----Part XII: Chapter 3: Tribal Areas - \[Articles 246-247\] \----Part XII: Chapter 4: General - \[Articles 248-259\] \----Part XII: Chapter 5: Interpretation - \[Articles 260-264\] \----Part XII: Chapter 6: Title, Commencement and Repeal - \[Articles 265-266\] \----Part XII: Chapter 7: Transitional - \[Articles 267-280\] Annex First Schedule: Laws exempted from the operation of Article 8(1) and (2) Second Schedule: Election of President Third Schedule: Oaths of Office Fourth Schedule: Legislative Lists Fifth Schedule: Remuneration and Terms and Conditions of Service of Judges 
+
+* * *
+
+Part V: Relations between Federation and Provinces
+--------------------------------------------------
+
+Chapter 1: Distribution of Legislative Powers
+---------------------------------------------
+
+**141**
+
+**Extent of Federal and Provincial laws.**  
+Subject to the Constitution,  [323](#323)\[Majlis-e-Shoora (Parliament)\] [323](#323) may make laws (including laws having extra-territorial operation) for the whole or any part of Pakistan, and a Provincial Assembly may make laws for the Province or any part thereof.
+
+ 
+
+**142**
+
+**Subject-matter of Federal and Provincial laws.**  
+Subject to the Constitution-
+
+(a)
+
+ [324](#324)\[Majlis-e-Shoora (Parliament)\] [324](#324) shall have exclusive power to make laws with respect to any matter in the Federal Legislative List;
+
+ [325](#325)\[
+
+(b)
+
+Majlis-e-Shoora (Parliament) and a Provincial Assembly shall have power to make laws with respect to criminal law, criminal procedure and evidence.
+
+\] [325](#325) [327](#327)\[
+
+(c)
+
+Subject to paragraph (b), a Provincial Assembly shall, and Majlis-e-Shoora (Parliament) shall not, have power to make laws with respect to any mattter not enumerated in the Federal Legislative List.
+
+\] [327](#327) [329](#329)\[
+
+(d)
+
+Majlis-e-Shoora (Parliament) shall have exclusive power to make laws with respect to all matters pertaining to such areas in the Federation as are not included in any Province.
+
+\] [329](#329)
+
+ 
+
+ [331](#331)\[
+
+**143.**
+
+**Inconsistency between Federal and Provincial Law:**  
+If any provision of an Act of a Provincial Assembly is repugnant to any provision of an Act of Majlis-e-Shoora (Parliament) which Majlis-e-Shoora (Parliament) is competent to enact, then the Act of Majlis-e-Shoora (Parliament), whether passed before or after the Act of the Provincial Assembly, shall prevail and the Act of the Provincial Assembly shall, to the extent of the repugnancy, be void.
+
+ 
+
+\] [331](#331)
+
+**144**
+
+**Power of  [335](#335)\[Majlis-e-Shoora (Parliament)\] [335](#335) to legislate for  [336](#336)\[one\] [336](#336) or more Provinces by consent.**  
+
+(1)
+
+If  [337](#337)\[one\] [337](#337) or more Provincial Assemblies pass resolutions to the effect that  [338](#338)\[Majlis-e-Shoora (Parliament)\] [338](#338) may by law regulate any matter not enumerated  [339](#339)\[the Federal Legislative List\] [339](#339) in the Fourth Schedule, it shall be lawful for  [340](#340)\[Majlis-e-Shoora (Parliament)\] [340](#340) to pass an Act for regulating that matter accordingly, but any act so passed may, as respects any Province to which it applies, be amended or repealed by Act of the Assembly of that Province.
+
+ 
+
+ [341](#341)\[\] [341](#341)
+
+ 
+
+* * *
+
+### Notes
+
+[323](#f323)   Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+
+[324](#f324)   Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+
+[325](#f325)   Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 49(i) (with effect from April 19, 2010) for :
+
+> (b)
+> 
+>  [326](#326)\[Majlis-e-Shoora (Parliament)\] [326](#326), and a Provincial Assembly also, shall have power to make laws with respect to any matter in the Concurrent Legislative List;
+
+[326](#f326)   Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+
+[327](#f327)   Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 49(ii) (with effect from April 19, 2010) for :
+
+> (c)
+> 
+> A Provincial Assembly shall, and  [328](#328)\[Majlis-e-Shoora (Parliament)\] [328](#328) shall not, have power to make laws with respect to any matter not enumerated in either the Federal Legislative List or the Concurrent Legislative List; and
+
+[328](#f328)   Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+
+[329](#f329)   Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 49(iii) (with effect from April 19, 2010) for :
+
+> (d)
+> 
+>  [330](#330)\[Majlis-e-Shoora (Parliament)\] [330](#330) shall have exclusive power to make laws with respect to matters not enumerated in either of the Lists for such areas in the Federation as are not included in any Province.
+
+[330](#f330)   Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+
+[331](#f331)   Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 50 (with effect from April 19, 2010) for :
+
+> **143**
+> 
+> **Inconsistency between Federal and Provincial laws.**  
+> If any provision of an Act of a Provincial Assembly is repugnant to any provision of an Act of  [332](#332)\[Majlis-e-Shoora (Parliament)\] [332](#332) which  [333](#333)\[Majlis-e-Shoora (Parliament)\] [333](#333) is competent to enact, or to any provision of any existing law with respect to any of the matters enumerated in the Concurrent Legislative List, then the Act of  [334](#334)\[Majlis-e-Shoora (Parliament)\] [334](#334), whether passed before or after the Act of the Provincial Assembly, or, as the case may be, the existing law, shall prevail and the Act of the Provincial Assembly shall, to the extent of the repugnancy, be void.
+> 
+>  
+
+[332](#f332)   Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+
+[333](#f333)   Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+
+[334](#f334)   Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+
+[335](#f335)   Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+
+[336](#f336)   Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 51(i) (with effect from April 19, 2010) for "two".
+
+[337](#f337)   Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 51(i) (with effect from April 19, 2010) for "two".
+
+[338](#f338)   Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+
+[339](#f339)   Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 51(ii) (with effect from April 19, 2010) for "in either List".
+
+[340](#f340)   Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+
+[341](#f341)   The following was omitted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.html), Section 17 (with effect from November 9, 1985) : :
+
+> (2)
+> 
+> The provisions of Article 71 shall apply to a Bill with respect to a matter which may be regulated by Act of  [342](#342)\[Majlis-e-Shoora (Parliament)\] [342](#342) under clause (1).
+> 
+>  
+
+[342](#f342)   Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+
+* * *
+
+  Chapter 2: "Administrative Relations between the Federation and Provinces" of Part V: "Relations between Federation and Provinces"  div.references > div:target { background-color: #DEF; <!-- thisPageName = 'part5.ch2'; // [**The Constitution of Pakistan**](/pakistan/constitution/) on [pakistani.org](/)
+
+Go to: \[Select a Part/Chapter/Annex/Schedule ... \] Preamble Part I: Introductory - \[Articles 1-6\] Part II: Fundamental Rights and Principles of Policy - \[Articles 7-40\] \----Part II: Chapter 1: Fundamental Rights - \[Articles 8-28\] \----Part II: Chapter 2: Principles of Policy - \[Articles 29-40\] Part III: The Federation of Pakistan - \[Articles 41-100\] \----Part III: Chapter 1: The President - \[Articles 41-49\] \----Part III: Chapter 2: Majlis-e-Shoora (Parliament) - \[Articles 50-89\] \----Part III: Chapter 3: The Federal Government - \[Articles 90-100\] Part IV: The Provinces - \[Articles 101-140A\] \----Part IV: Chapter 1: The Governors - \[Articles 101-105\] \----Part IV: Chapter 2: Provincial Assemblies - \[Articles 106-128\] \----Part IV: Chapter 3: The Provincial Governments - \[Articles 129-140A\] Part V: Relations between Federation and Provinces - \[Articles 141-159\] \----Part V: Chapter 1: Distribution of Legislative Powers - \[Articles 141-144\] \----Part V: Chapter 2: Administrative Relations between the Federation and Provinces - \[Articles 145-152\] \----Part V: Chapter 3: Special Provisions - \[Articles 153-159\] Part VI: Finance, Property, Contracts and Suits - \[Articles 160-174\] \----Part VI: Chapter 1: Finance - \[Articles 160-165A\] \----Part VI: Chapter 2: Borrowing and Audit - \[Articles 166-171\] \----Part VI: Chapter 3: Property, Contracts, Liabilities and Suits - \[Articles 172-174\] Part VII: The Judicature - \[Articles 175-212B\] \----Part VII: Chapter 1: The Courts - \[Articles 175-175A\] \----Part VII: Chapter 2: The Supreme Court of Pakistan - \[Articles 176-191\] \----Part VII: Chapter 3: The High Courts - \[Articles 192-203\] \----Part VII: Chapter 3A: Federal Shariat Court - \[Articles 203A-203J\] \----Part VII: Chapter 4: General Provisions Relating to the Judicature - \[Articles 204-212B\] Part VIII: Elections - \[Articles 213-226\] \----Part VIII: Chapter 1: Chief Election Commissioner and Elections Commissions - \[Articles 213-221\] \----Part VIII: Chapter 2: Electoral Laws and Conduct of Elections - \[Articles 222-226\] Part IX: Islamic Provisions- \[Articles 227-231\] Part X: Emergency Provisions Part XI: Amendment of Constitution - \[Articles 232-237\] Part XII: Miscellaneous - \[Articles 240-280\] \----Part XII: Chapter 1: Services - \[Articles 240-242\] \----Part XII: Chapter 2: Armed Forces - \[Articles 243-245\] \----Part XII: Chapter 3: Tribal Areas - \[Articles 246-247\] \----Part XII: Chapter 4: General - \[Articles 248-259\] \----Part XII: Chapter 5: Interpretation - \[Articles 260-264\] \----Part XII: Chapter 6: Title, Commencement and Repeal - \[Articles 265-266\] \----Part XII: Chapter 7: Transitional - \[Articles 267-280\] Annex First Schedule: Laws exempted from the operation of Article 8(1) and (2) Second Schedule: Election of President Third Schedule: Oaths of Office Fourth Schedule: Legislative Lists Fifth Schedule: Remuneration and Terms and Conditions of Service of Judges 
+
+* * *
+
+Part V: Relations between Federation and Provinces
+--------------------------------------------------
+
+Chapter 2: Administrative Relations between the Federation and Provinces
+------------------------------------------------------------------------
+
+**145**
+
+**Power of President to direct Governor to discharge certain functions as his Agent.**  
+
+(1)
+
+The President may direct the Governor of any Province to discharge as his Agent, either generally or in any particular matter, such functions relating to such areas in the Federation which are not included in any Province as may be specified in the direction.
+
+ 
+
+(2)
+
+The provisions of Article 105 shall not apply to the discharge by the Governor of his functions under clause (1).
+
+ 
+
+ 
+
+**146**
+
+**Power of Federation to confer powers, etc., on Provinces, in certain cases.**  
+
+(1)
+
+Notwithstanding anything contained in the Constitution, the Federal Government may, with the consent of the Government of a Province, entrust either conditionally or unconditionally to that Government, or to its officers, functions in relation to any matter to which the executive authority of the Federation extends.
+
+ 
+
+(2)
+
+An Act of  [343](#343)\[Majlis-e-Shoora (Parliament)\] [343](#343) may, notwithstanding that it relates to a matter with respect to which a Provincial Assembly has no power to make laws, confer powers and impose duties upon a province or officers and authorities thereof.
+
+ 
+
+(3)
+
+Where by virtue of this Article powers and duties have been conferred or imposed upon a Province or officers or authorities thereof, there shall be paid by the Federation to the Province such sum as may be agreed or, in default of agreement, as may be determined by an arbitrator appointed by the Chief Justice of Pakistan, in respect of any extra costs of administration incurred by the Province in connection with the exercise of those powers or the discharge of those duties.
+
+ 
+
+ 
+
+**147**
+
+**Power of the Provinces to entrust functions to the Federation.**  
+Notwithstanding anything contained in the Constitution, the Government of a Province may, with the consent of the Federal Government, entrust, either conditionally or unconditionally, to the Federal Government, or to its officers, functions in relation to any matter to which the executive authority of the Province extends  [344](#344)\[:\] [344](#344)
+
+>  [345](#345)\[**Provided** that the Provincial Government shall get the functions so entrusted ratified by the Provincial Assembly within sixty days. \] [345](#345)
+
+ 
+
+**148**
+
+**Obligation of Provinces and Federation.**  
+
+(1)
+
+The executive authority of every Province shall be so exercised as to secure compliance with Federal laws which apply in that Province.
+
+ 
+
+(2)
+
+Without prejudice to any other provision of this Chapter, in the exercise of the executive authority of the Federation in any Province regard shall be had to the interests of that Province.
+
+ 
+
+(3)
+
+It shall be the duty of the Federation to protect every Province against external aggression and internal disturbances and to ensure that the Government of every Province is carried on in accordance with the provisions of the Constitution.
+
+ 
+
+ 
+
+**149**
+
+**Directions to Provinces in certain cases.**  
+
+(1)
+
+The executive authority of every Province shall be so exercised as not to impede or prejudice the exercise of the executive authority of the Federation, and the executive authority of the Federation shall extend to the giving of such directions to a Province as may appear to the Federal Government to be necessary for that purpose.
+
+ 
+
+ [346](#346)\[\] [346](#346)
+
+(3)
+
+The executive authority of the Federation shall also extend to the giving of directions to a Province as to the construction and maintenance of means of communication declared in the direction to be of national or strategic importance.
+
+ 
+
+(4)
+
+The executive authority of the Federation shall also extend to the giving of directions to a Province as to the manner in which the executive authority thereof is to be exercised for the purpose of preventing any grave menace to the peace or tranquility or economic life of Pakistan or any part thereof.
+
+ 
+
+ 
+
+**150**
+
+**Full faith and credit for public acts, etc.**  
+Full faith and credit shall be given throughout Pakistan to public acts and records, and judicial proceedings of every Province.
+
+ 
+
+**151**
+
+**Inter-Provincial trade**  
+
+(1)
+
+Subject to clause (2), trade, commerce and intercourse throughout Pakistan shall be free.
+
+ 
+
+(2)
+
+ [347](#347)\[Majlis-e-Shoora (Parliament)\] [347](#347) may by law impose such restrictions on the freedom of trade, commerce or intercourse between one Province and another or within any part of Pakistan as may be required in the public interest.
+
+ 
+
+(3)
+
+A Provincial Assembly or a Provincial Government shall not have power to-
+
+(a)
+
+make any law, or take any executive action, prohibiting or restricting the entry into, or the export from, the Province of goods of any class or description, or
+
+(b)
+
+impose a tax which, as between goods manufactured or produced in the Province and similar goods not so manufactured or produced, discriminates in favour of the former goods or which, in the case of goods manufactured or produced outside the Province discriminates between goods manufactured or produced in any area in Pakistan and similar goods manufactured or produced in any other area in Pakistan.
+
+ 
+
+(4)
+
+An Act of a Provincial Assembly which imposes any reasonable restriction in the interest of public health, public order or morality, or for the purpose of protecting animals or plants from disease or preventing or alleviating any serious shortage in the Province of an essential commodity shall not, if it was made with the consent of the President, be invalid.
+
+ 
+
+ 
+
+**152**
+
+**Acquisition of land for Federal purposes.**  
+The Federation may, if it deems necessary to acquire any land situate in a Province for any purpose connected with a matter with respect to which  [348](#348)\[Majlis-e-Shoora (Parliament)\] [348](#348) has power to make laws, require the Province to acquire the land on behalf, and at the expense, of the Federation or, if the land belongs to the Province, to transfer it to the Federation on such terms as may be agreed or, in default of agreement, as may be determined by an arbitrator appointed by the Chief Justice of Pakistan.
+
+ 
+
+* * *
+
+### Notes
+
+[343](#f343)   Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+
+[344](#f344)   Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 52 (with effect from April 19, 2010) for ".".
+
+[345](#f345)   Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), 52 (with effect from April 19, 2010).
+
+[346](#f346)   The following was omitted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 53 (with effect from April 19, 2010) : :
+
+> (2)
+> 
+> The executive authority of the Federation shall also extend to the giving of directions to a Province as to the carrying into execution therein of any Federal law which relates to a matter specified in the Concurrent Legislative List and authorises the giving of such directions.
+> 
+>  
+
+[347](#f347)   Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+
+[348](#f348)   Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+
+* * *
+
+  Chapter 3: "Special Provisions" of Part V: "Relations between Federation and Provinces"  div.references > div:target { background-color: #DEF; <!-- thisPageName = 'part5.ch3'; // [**The Constitution of Pakistan**](/pakistan/constitution/) on [pakistani.org](/)
+
+Go to: \[Select a Part/Chapter/Annex/Schedule ... \] Preamble Part I: Introductory - \[Articles 1-6\] Part II: Fundamental Rights and Principles of Policy - \[Articles 7-40\] \----Part II: Chapter 1: Fundamental Rights - \[Articles 8-28\] \----Part II: Chapter 2: Principles of Policy - \[Articles 29-40\] Part III: The Federation of Pakistan - \[Articles 41-100\] \----Part III: Chapter 1: The President - \[Articles 41-49\] \----Part III: Chapter 2: Majlis-e-Shoora (Parliament) - \[Articles 50-89\] \----Part III: Chapter 3: The Federal Government - \[Articles 90-100\] Part IV: The Provinces - \[Articles 101-140A\] \----Part IV: Chapter 1: The Governors - \[Articles 101-105\] \----Part IV: Chapter 2: Provincial Assemblies - \[Articles 106-128\] \----Part IV: Chapter 3: The Provincial Governments - \[Articles 129-140A\] Part V: Relations between Federation and Provinces - \[Articles 141-159\] \----Part V: Chapter 1: Distribution of Legislative Powers - \[Articles 141-144\] \----Part V: Chapter 2: Administrative Relations between the Federation and Provinces - \[Articles 145-152\] \----Part V: Chapter 3: Special Provisions - \[Articles 153-159\] Part VI: Finance, Property, Contracts and Suits - \[Articles 160-174\] \----Part VI: Chapter 1: Finance - \[Articles 160-165A\] \----Part VI: Chapter 2: Borrowing and Audit - \[Articles 166-171\] \----Part VI: Chapter 3: Property, Contracts, Liabilities and Suits - \[Articles 172-174\] Part VII: The Judicature - \[Articles 175-212B\] \----Part VII: Chapter 1: The Courts - \[Articles 175-175A\] \----Part VII: Chapter 2: The Supreme Court of Pakistan - \[Articles 176-191\] \----Part VII: Chapter 3: The High Courts - \[Articles 192-203\] \----Part VII: Chapter 3A: Federal Shariat Court - \[Articles 203A-203J\] \----Part VII: Chapter 4: General Provisions Relating to the Judicature - \[Articles 204-212B\] Part VIII: Elections - \[Articles 213-226\] \----Part VIII: Chapter 1: Chief Election Commissioner and Elections Commissions - \[Articles 213-221\] \----Part VIII: Chapter 2: Electoral Laws and Conduct of Elections - \[Articles 222-226\] Part IX: Islamic Provisions- \[Articles 227-231\] Part X: Emergency Provisions Part XI: Amendment of Constitution - \[Articles 232-237\] Part XII: Miscellaneous - \[Articles 240-280\] \----Part XII: Chapter 1: Services - \[Articles 240-242\] \----Part XII: Chapter 2: Armed Forces - \[Articles 243-245\] \----Part XII: Chapter 3: Tribal Areas - \[Articles 246-247\] \----Part XII: Chapter 4: General - \[Articles 248-259\] \----Part XII: Chapter 5: Interpretation - \[Articles 260-264\] \----Part XII: Chapter 6: Title, Commencement and Repeal - \[Articles 265-266\] \----Part XII: Chapter 7: Transitional - \[Articles 267-280\] Annex First Schedule: Laws exempted from the operation of Article 8(1) and (2) Second Schedule: Election of President Third Schedule: Oaths of Office Fourth Schedule: Legislative Lists Fifth Schedule: Remuneration and Terms and Conditions of Service of Judges 
+
+* * *
+
+Part V: Relations between Federation and Provinces
+--------------------------------------------------
+
+Chapter 3: Special Provisions
+-----------------------------
+
+ [349](#349)\[\] [349](#349) [352](#352)\[\] [352](#352)
+
+**153**
+
+**Council of Common Interests.**  
+
+(1)
+
+There shall be a Council of Common Interests, in this Chapter referred to as the Council, to be appointed by the President.
+
+ 
+
+ [354](#354)\[
+
+(2)
+
+The Council shall consist of-
+
+(a)
+
+the Prime Minister who shall be the Chairman of the Council;
+
+(b)
+
+the Chief Ministers of the Provinces;
+
+(c)
+
+three members from the Federal Government to be nominated by the Prime Minister from time to time.
+
+ 
+
+\] [354](#354) [355](#355)\[\] [355](#355)
+
+(4)
+
+The Council shall be responsible to  [356](#356)\[Majlis-e-Shoora (Parliament) \] [356](#356) [357](#357)\[and shall submit an Annual Report to both Houses of Majlis-e-Shoora (Parliament)\] [357](#357).
+
+ 
+
+ 
+
+**154**
+
+**Functions and rules of procedure.**  
+ [358](#358)\[
+
+(1)
+
+The Council shall formulate and regulate policies in relation to matters in Part II of the Federal Legislative List and shall exercise supervision and control over related institutions.
+
+ 
+
+\] [358](#358) [359](#359)\[
+
+(2)
+
+The Council shall be constituted within thirty days of the Prime Minister taking oath of office.
+
+ 
+
+(3)
+
+The Council shall have a permanent Secretariat and shall meet at least once in ninety days:
+
+> **Provided** that the Prime Minister may convene a meeting on the request of a Province on an urgent matter.
+
+ 
+
+\] [359](#359)
+
+ [360](#360)\[(4)\] [360](#360)
+
+The decisions of the Council shall be expressed in terms of the opinion of the majority.
+
+ 
+
+ [361](#361)\[(5)\] [361](#361)
+
+Until  [362](#362)\[Majlis-e-Shoora (Parliament)\] [362](#362) makes provision by law in this behalf, the Council may make its rules of procedure.
+
+ 
+
+ [363](#363)\[(6)\] [363](#363)
+
+ [364](#364)\[Majlis-e-Shoora (Parliament)\] [364](#364) in joint sitting may from time to time by resolution issue directions through the Federal Government to the Council generally or in a particular matter to take action as  [365](#365)\[Majlis-e-Shoora (Parliament)\] [365](#365) may deem just and proper and such directions shall be binding on the Council.
+
+ 
+
+ [366](#366)\[(7)\] [366](#366)
+
+If the Federal Government or a Provincial Government is dissatisfied with a decision of the council, it may refer the matter to  [367](#367)\[Majlis-e-Shoora (Parliament)\] [367](#367) in a joint sitting whose decision in this behalf shall be final.
+
+ 
+
+ 
+
+**155**
+
+**Complaints as to interference with water supplies.**  
+
+(1)
+
+If the interests of a Province, the Federal Capital  [368](#368)\[\] [368](#368), or any of the inhabitants thereof, in water from any natural source of supply  [369](#369)\[or reservoir\] [369](#369) have been or are likely to be affected prejudicially by-
+
+(a)
+
+any executive act or legislation taken or passed or proposed to be taken or passed, or
+
+(b)
+
+the failure of any authority to exercise any of its powers with respect to the use and distribution or control of water from that source,
+
+the Federal Government or the Provincial Government concerned may make a complaint in writing to the Council.
+
+ 
+
+(2)
+
+Upon receiving such complaint, the Council shall, after having considered the matter, either give its decision or request the President to appoint a commission consisting of such persons having special knowledge and experience in irrigation, engineering, administration, finance or law as he may think fit, hereinafter referred to as the Commission.
+
+ 
+
+(3)
+
+Until  [370](#370)\[Majlis-e-Shoora (Parliament)\] [370](#370) makes provision by law in this behalf, the provisions of the Pakistan Commissions of Inquiry Act, 1956, as in force immediately before the commencing day shall apply to the Council or the Commission as if the Council or the Commission were a commission appointed under that Act to which all the provisions of section 5 thereof applied and upon which the power contemplated by section 10A thereof had been conferred.
+
+ 
+
+(4)
+
+After considering the report and supplementary report, if any, of the Commission, the Council shall record its decision on all matters referred to the Commission.
+
+ 
+
+(5)
+
+Notwithstanding any law to the contrary, but subject to the provisions of clause (5) of Article 154, it shall be the duty of the Federal Government and the Provincial Government concerned in the matter in issue to give effect to the decision of the Council faithfully according to its terms and tenor.
+
+ 
+
+(6)
+
+No proceeding shall lie before any court at the instance of any party to a matter which is or has been in issue before the Council. or of any person whatsoever, in respect of a matter which is actually or has been or might or ought to have been a proper subject of complaint to the Council under this Article.
+
+ 
+
+ 
+
+ [371](#371)\[
+
+**156.**
+
+**National Economic Council**  
+
+(1)
+
+The President shall constituted a National Economic Council which shall consist of-
+
+(a)
+
+the Prime Minister, who shall be the Chairman of the Council;
+
+(b)
+
+the Chief Ministers and one member from each Province to be nominated by the Chief Minister; and
+
+(c)
+
+four other members as the Prime Minister may nominate from time to time.
+
+ 
+
+(2)
+
+The National Economic Council shall review the overall condition of the country and shall, for advising the Federal Government and the Provincial Governments, forumulate plans in respect of financial, commercial, social and economic policies; and in formulating such plans it shall, amongst other factors, ensure balanced development and regional equity and shall also be guided by the Principles of Policty set out in Chapter 2 of Part-II.
+
+ 
+
+(3)
+
+The meetings of the Council shall be summoned by the Chairman or on a requisition made by one-half of the members of the Council.
+
+ 
+
+(4)
+
+The Coucil shall meet at least twice in a year and the quorum for a meeting of the Council shall be one-half of its total membership.
+
+ 
+
+(5)
+
+The Council shall be responsible to the Majlis-e-Shoora (Parliament) and shall submit an Annual Report to each House of Majlis-e-Shoora (Parliament).
+
+ 
+
+ 
+
+\] [371](#371)
+
+**157**
+
+**Electricity.**  
+
+(1)
+
+The Federal Government may in any Province construct or cause to be constructed hydro-electric or thermal power installations or grid stations for the generation of electricity and lay or cause to be laid inter-Provincial transmission lines  [372](#372)\[:\] [372](#372)
+
+>  [373](#373)\[**Provided** that the Federal Government shall, prior to taking a decision to construct or cause to be constructed, hydro-electric power stations in any Province, shall consult the Provincial Government concerned. \] [373](#373)
+
+ 
+
+(2)
+
+The Government of a Province may-
+
+(a)
+
+to the extent electricity is supplied to that Province from the national grid, require supply to be made in bulk for transmission and distribution within the Province:
+
+(b)
+
+levy tax on consumption of electricity within the Province;
+
+(c)
+
+construct power houses and grid stations and lay transmission lines for use within the Province; and
+
+(d)
+
+determine the tariff for distribution of electricity within the Province.
+
+ 
+
+ [374](#374)\[
+
+(3)
+
+In case of any dispute between the Federal Government and a Provincial Government in respect of any matter under this Article, any of the said Governments may move the Council of Common Interests for resolution of the dispute.
+
+ 
+
+\] [374](#374)
+
+ 
+
+**158**
+
+**Priority of requirements of natural gas.**  
+The Province in which a well-head of natural gas is situated shall have precedence over other parts of Pakistan in meeting the requirements from the well-head, subject to the commitments and obligations as on the commencing day.
+
+ 
+
+**159**
+
+**Broadcasting and telecasting.**  
+
+(1)
+
+The Federal Government shall not unreasonably refuse to entrust to a Provincial Government such functions with respect to broadcasting and telecasting as may be necessary to enable that Government-
+
+(a)
+
+to construct and use transmitters in the Province; and
+
+(b)
+
+to regulate and impose fees in respect of, the construction and use of transmitters and the use of receiving apparatus in the Province:
+
+> **Provided** that nothing in this clause shall be construed as requiring the Federal Government to entrust to any Provincial Government any control over the use of transmitters constructed or maintained by the Federal Government or by persons authorised by the Federal Government, or over the use of receiving apparatus by person so authorised.
+
+ 
+
+(2)
+
+Any functions so entrusted to a Provincial Government shall be exercised subject to such conditions as may be imposed by the Federal Government, including, notwithstanding anything contained in the Constitution, any conditions with respect to finance, but it shall not be lawful for the Federal Government so to impose any conditions regulating the matter broadcast or telecast by, or by authority of, the Provincial Government.
+
+ 
+
+(3)
+
+Any Federal law with respect to broadcasting and telecasting shall be such as to secure that effect can be given to the foregoing provisions of this Article.
+
+ 
+
+(4)
+
+If any question arises whether any conditions imposed on any Provincial Government are lawfully imposed, or whether any refusal by the Federal Government to entrust functions is unreasonable, the question shall be determined by an arbitrator appointed by the Chief Justice of Pakistan.
+
+ 
+
+(5)
+
+Nothing in this article shall be construed as restricting the powers of the Federal Government under the Constitution for the prevention of any grave menace to the peace or tranquility of Pakistan or any part thereof.
+
+ 
+
+ 
+
+* * *
+
+### Notes
+
+[349](#f349)   The following was omitted by [Constitution (Seventeenth Amendment) Act, 2003 (3 of 2003)](/pakistan/constitution/amendments/17amendment.html), Article 5 (with effect from December 31, 2003) : :
+
+>  [350](#350)\[
+> 
+> **152A**
+> 
+> **National Security Council.**  
+> 
+> (1)
+> 
+> There shall be a National Security Council to serve as a forum for consultation on strategic matters pertaining to the sovereignty, integrity and security of the State; and the matters relating to democracy, governance and inter-provincial harmony.
+> 
+>  
+> 
+> (2)
+> 
+> The President shall be the Chairman of the National Security Council and its other members shall be the Prime Minister, the Chairman of the Senate, the Speaker of the National Assembly, the Leader of the Opposition in the National Assembly, the Chief Ministers of the Provinces, the Chairman Joint Chiefs of Staff Committee, and the Chiefs of Staff of the Pakistan Army, Pakistan Navy and Pakistan Air Force.
+> 
+>  
+> 
+> (3)
+> 
+> Meetings of the National Security Council may be convened by the President either in his discretion, or on the advice of the Prime Minister, or when requested by any other of its members,  [351](#351)\[regularly\] [351](#351).
+> 
+>  
+> 
+>  
+> 
+> \] [350](#350)
+
+[350](#f350)   Inserted by [Legal Framework Order, 2002 (Chief Executive's Order No. 24 of 2002)](/pakistan/constitution/musharraf_const_revival/lfo.html), Article 3(1), Sch. item 17 (with effect from August 21, 2002).
+
+[351](#f351)   Substituted by Legal Framework (Second Amendment) Order, 2002 (Chief Executive's Order No. 32 of 2002) (with effect from ) for "within the time frame indicated by him".
+
+[352](#f352)   The following was omitted by [Constitution (Eighth Amendment) Act, 1985 (18 of 1985)](/pakistan/constitution/amendments/8amendment.html), Section 18 (with effect from November 9, 1985) : :
+
+>  [353](#353)\[
+> 
+> **152A**
+> 
+> **National Security Council.**  
+> 
+> (1)
+> 
+> There shall be a National Security Council to make recommendations relating to the issue of a Proclamation of Emergency under Article 232, security of Pakistan and any other matter of national importance that may be referred to it by the President in consultation with the Prime Minister.
+> 
+>  
+> 
+> (2)
+> 
+> The National Security Council shall consist of the President, the Prime Minister, the Chairman of the Senate, the Chairman, Joint Chiefs of Staff Committee, the Chiefs of Staff of the Pakistan Army, the Pakistan Navy and the Pakistan Air Force, and the Chief Ministers of the Provinces.
+> 
+>  
+> 
+>  
+> 
+> \] [353](#353)
+
+[353](#f353)   Inserted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 32 (with effect from March 2, 1985).
+
+[354](#f354)   Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 54(i) (with effect from April 19, 2010) for :
+
+> (2)
+> 
+> The members of the Council shall be-
+> 
+> (a)
+> 
+> the Chief Ministers of the Provinces, and
+> 
+> (b)
+> 
+> an equal number of members from the Federal Government to be nominated by the Prime Minister from time to time.
+> 
+>  
+
+[355](#f355)   The following was omitted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 54(ii) (with effect from April 19, 2010) : :
+
+> (3)
+> 
+> The Prime Minister, if he is a member of the Council, shall be the Chairman of the Council but, if at any time he is not a member, the President may nominate a Federal Minister who is a member of the Council to be its Chairman.
+> 
+>  
+
+[356](#f356)   Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+
+[357](#f357)   Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 54(iii) (with effect from April 19, 2010).
+
+[358](#f358)   Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 55(i) (with effect from April 19, 2010) for :
+
+> (1)
+> 
+> The Council shall formulate and regulate policies in relation to matters in Part II of the Federal Legislative List and, in so far as it is in relation to the affairs of the Federation, the matter in entry 34 (electricity) in the Concurrent Legislative List, and shall exercise supervision and control over related institutions.
+> 
+>  
+
+[359](#f359)   Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 55(ii) (with effect from April 19, 2010).
+
+[360](#f360)   Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 55(ii) (with effect from April 19, 2010) for "(2)".
+
+[361](#f361)   Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 55(ii) (with effect from April 19, 2010) for "(3)".
+
+[362](#f362)   Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+
+[363](#f363)   Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 55(ii) (with effect from April 19, 2010) for "(4)".
+
+[364](#f364)   Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+
+[365](#f365)   Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+
+[366](#f366)   Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 55(ii) (with effect from April 19, 2010) for "(5)".
+
+[367](#f367)   Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+
+[368](#f368)   The following was omitted by Constitution (Twenty-fifth Amendment) Act, 2017 (37 of 2018), Sect. 7 (with effect from May 31, 2018) : "or the Federally Administered Tribal Areas".
+
+[369](#f369)   Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 56 (with effect from April 19, 2010).
+
+[370](#f370)   Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+
+[371](#f371)   Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 57 (with effect from April 19, 2010) for :
+
+> **156**
+> 
+> **National Economic Council.**  
+> 
+> (1)
+> 
+> The President shall constitute a National Economic Council consisting of the Prime Minister, who shall be its Chairman, and such other members as the President may determine:
+> 
+> > **Provided** that the President shall nominate one member from each Province on the recommendation of the Government of that Province.
+> 
+>  
+> 
+> (2)
+> 
+> The National Economic Council shall review the overall economic condition of the country and shall, for advising the Federal Government and the Provincial Governments, formulate plans in respect of financial, commercial, social and economic policies; and in formulating such plans, it shall be guided by the, Principles of Policy set out in Chapter 2 of Part II.
+> 
+>  
+> 
+>  
+
+[372](#f372)   Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 58(i) (with effect from April 19, 2010) for ".".
+
+[373](#f373)   Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 58(i) (with effect from April 19, 2010).
+
+[374](#f374)   Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 58(ii) (with effect from April 19, 2010).
+
+* * *
+
+  Chapter 1: "Finance." of Part VI: "Finance, Property, Contracts and Suits"  div.references > div:target { background-color: #DEF; <!-- thisPageName = 'part6.ch1'; // [**The Constitution of Pakistan**](/pakistan/constitution/) on [pakistani.org](/)
+
+Go to: \[Select a Part/Chapter/Annex/Schedule ... \] Preamble Part I: Introductory - \[Articles 1-6\] Part II: Fundamental Rights and Principles of Policy - \[Articles 7-40\] \----Part II: Chapter 1: Fundamental Rights - \[Articles 8-28\] \----Part II: Chapter 2: Principles of Policy - \[Articles 29-40\] Part III: The Federation of Pakistan - \[Articles 41-100\] \----Part III: Chapter 1: The President - \[Articles 41-49\] \----Part III: Chapter 2: Majlis-e-Shoora (Parliament) - \[Articles 50-89\] \----Part III: Chapter 3: The Federal Government - \[Articles 90-100\] Part IV: The Provinces - \[Articles 101-140A\] \----Part IV: Chapter 1: The Governors - \[Articles 101-105\] \----Part IV: Chapter 2: Provincial Assemblies - \[Articles 106-128\] \----Part IV: Chapter 3: The Provincial Governments - \[Articles 129-140A\] Part V: Relations between Federation and Provinces - \[Articles 141-159\] \----Part V: Chapter 1: Distribution of Legislative Powers - \[Articles 141-144\] \----Part V: Chapter 2: Administrative Relations between the Federation and Provinces - \[Articles 145-152\] \----Part V: Chapter 3: Special Provisions - \[Articles 153-159\] Part VI: Finance, Property, Contracts and Suits - \[Articles 160-174\] \----Part VI: Chapter 1: Finance - \[Articles 160-165A\] \----Part VI: Chapter 2: Borrowing and Audit - \[Articles 166-171\] \----Part VI: Chapter 3: Property, Contracts, Liabilities and Suits - \[Articles 172-174\] Part VII: The Judicature - \[Articles 175-212B\] \----Part VII: Chapter 1: The Courts - \[Articles 175-175A\] \----Part VII: Chapter 2: The Supreme Court of Pakistan - \[Articles 176-191\] \----Part VII: Chapter 3: The High Courts - \[Articles 192-203\] \----Part VII: Chapter 3A: Federal Shariat Court - \[Articles 203A-203J\] \----Part VII: Chapter 4: General Provisions Relating to the Judicature - \[Articles 204-212B\] Part VIII: Elections - \[Articles 213-226\] \----Part VIII: Chapter 1: Chief Election Commissioner and Elections Commissions - \[Articles 213-221\] \----Part VIII: Chapter 2: Electoral Laws and Conduct of Elections - \[Articles 222-226\] Part IX: Islamic Provisions- \[Articles 227-231\] Part X: Emergency Provisions Part XI: Amendment of Constitution - \[Articles 232-237\] Part XII: Miscellaneous - \[Articles 240-280\] \----Part XII: Chapter 1: Services - \[Articles 240-242\] \----Part XII: Chapter 2: Armed Forces - \[Articles 243-245\] \----Part XII: Chapter 3: Tribal Areas - \[Articles 246-247\] \----Part XII: Chapter 4: General - \[Articles 248-259\] \----Part XII: Chapter 5: Interpretation - \[Articles 260-264\] \----Part XII: Chapter 6: Title, Commencement and Repeal - \[Articles 265-266\] \----Part XII: Chapter 7: Transitional - \[Articles 267-280\] Annex First Schedule: Laws exempted from the operation of Article 8(1) and (2) Second Schedule: Election of President Third Schedule: Oaths of Office Fourth Schedule: Legislative Lists Fifth Schedule: Remuneration and Terms and Conditions of Service of Judges 
+
+* * *
+
+Part VI: Finance, Property, Contracts and Suits
+-----------------------------------------------
+
+Chapter 1: Finance.
+-------------------
+
+**160**
+
+**National Finance Commission.**  
+
+(1)
+
+Within six months of the commencing day and thereafter at intervals not exceeding five years, the President shall  [375](#375) constitute a National Finance Commission consisting of the Minister of Finance of the Federal Government, the Ministers of Finance of the Provincial Governments, and such other persons as may be appointed by the President after consultation with the Governors of the Provinces.
+
+ 
+
+(2)
+
+It shall be the duty of the National Finance Commission to make recommendations to the President as to-
+
+(a)
+
+the distribution between the.Federation and the Provinces of the net proceeds of the taxes mentioned in clause (3);
+
+(b)
+
+the making of grants-in-aid by the Federal Government to the Provincial Governments;
+
+(c)
+
+the exercise by the Federal Government and the Provincial Governments of the borrowing powers conferred by the Constitution; and
+
+(d)
+
+any other matter relating to finance referred to the Commission by the President.
+
+ 
+
+(3)
+
+The taxes refer red to in paragraph (a) of clause (2) are the following taxes raised under the authority of  [376](#376)\[Majlis-e-Shoora (Parliament)\] [376](#376), namely: -
+
+(i)
+
+taxes on income, including corporation tax, but not including taxes on income consisting of remuneration paid out of the Federal Consolidated Fund;
+
+ [377](#377)\[
+
+(ii)
+
+taxes on the sales and purchases of goods imported, exported, produced, manufactured or consumed;
+
+\] [377](#377)
+
+(iii)
+
+export duties on cotton, and such other export duties as may be specified by the President;
+
+(iv)
+
+such duties of exercise as may be specified by the President; and
+
+(v)
+
+such other taxes as may be specified by the President.
+
+ 
+
+ [378](#378)\[
+
+(3A)
+
+The share of the Provinces in each Award of National Finance Commission shall not be less than the share given to the Provinces in the previous Award.
+
+ 
+
+(3B)
+
+The Federal Finance Minister and Provincial Finance Ministers shall monitor the implementation of the Award biannaully and lay their reports before both Houses of Majlis-e-Shoora (Parliament) and Provincial Assemblies.
+
+ 
+
+\] [378](#378)
+
+(4)
+
+As soon as may be after receiving the recommendation, of the National Finance Commission, the President shall, by  [379](#379) Order, specify, in accordance with the recommendations of the Commission under paragraph (a) of clause (2), the share of the net proceeds of the taxes mentioned in clause (3) which is to be allocated to each Province, and that share shall be paid to the Government of the Province concerned, and, notwithstanding the provision of Article 78 shall not form part of the Federal Consolidated Fund.
+
+ 
+
+(5)
+
+The recommendations of the National Finance Commission, together with an explanatory memorandum as to the action taken thereon, shall be laid before both Houses and the Provincial Assemblies.
+
+ 
+
+(6)
+
+At any time before an Order under clause (4) is made, the President may, by Order, make such amendments or modifications in the law relating to the distribution of revenues between the Federal Government and the Provincial Governments as he may deem necessary or expedient.
+
+ 
+
+(7)
+
+The President may, by Order, make grants-in-aid of the revenues of the Provinces in need of assistance and such grants shall be charged upon the Federal Consolidated Fund.
+
+ 
+
+ 
+
+**161**
+
+**Natural gas and hydro-electric power.**  
+ [380](#380)\[
+
+(1)
+
+Notwithstanding the provisions of Article 78,-
+
+(a)
+
+the net proceeds of the Federal duty of excise on natural gas levied at well-head and collected by the Federal Government and of the royalty collected by the Federal Government, shall not form part of the Federal Consolidated Fund and shall be paid to the Province in which the well-head of natural gas is situated;
+
+(b)
+
+the net proceeds of the Federal duty of excise on oil levied at well-head and collected by the Federal Government, shall not form part of the Federal Consolidated Fund and shall be paid to the Province in which the well-head of oil is situated.
+
+ 
+
+\] [380](#380)
+
+(2)
+
+The net profits earned by the Federal Government, or any undertaking established or administered by the Federal Government from the bulk generation of power at a hydro-electric station shall be paid to the Province in which the hydro-electric station is situated.Explanation -For the purposes of this clause "net profits" shall be computed by deducting from the revenues accruing from the bulk supply of power from the bus-bars of a hydro-electric station at a rate to be determined by the Council of Common Interests, the operating expenses of the station, which shall include any sums payable as taxes, duties, interest or return on investment, and depreciations and element of obsolescence, and over-heads, and provision for reserves.
+
+ 
+
+ 
+
+**162**
+
+**Prior sanction of President to Bills affecting taxation in which Provinces are interested.**  
+No Bill or amendment which imposes or varies a tax or duty the whole or part of the net proceeds whereof is assigned to any Province, or which varies the meaning of the expression "agricultural income" as defined for the purpose of the enactments relating to income-tax, or which affects the principles on which under any of the foregoing provisions of this Chapter moneys are or may be distributable to Provinces, shall be introduced or moved in the National Assembly except with the previous sanction of the President.
+
+ 
+
+**163**
+
+**Provincial taxes in respect of professions, etc.**  
+A Provincial Assembly may by Act impose taxes, not exceeding such limits as may from time to time be fixed by Act of  [381](#381)\[Majlis-e-Shoora (Parliament)\] [381](#381), on persons engaged in professions, trades, callings or employments, and no such Act of the Assembly shall be regarded as imposing a tax on income. Miscellaneous Financial Provisions
+
+ 
+
+**164**
+
+**Grants out of Consolidated Fund.**  
+The Federation or a Province may make grants for any purpose, notwithstanding that the purpose is not one with respect to which  [382](#382)\[Majlis-e-Shoora (Parliament)\] [382](#382) or, as the case may be, a Provincial Assembly may make laws.
+
+ 
+
+**165**
+
+**Exemption of certain public property from taxation.**  
+
+(1)
+
+The Federal Government shall not, in respect of its property or income, be liable to taxation under any Act of Provincial Assembly and, subject to clause (2), a Provincial Government shall not, in respect of its property or income, be liable to taxation under Act of  [383](#383)\[Majlis-e-Shoora (Parliament)\] [383](#383) or under Act of the Provincial Assembly of any other Province.
+
+ 
+
+(2)
+
+If a trade or business of any kind is carried on by or on behalf of the Government of a Province outside that Province, that Government may, in respect of any property used in connection with that trade or business or any income arising from that trade or business, be taxed under Act of  [384](#384)\[Majlis-e-Shoora (Parliament)\] [384](#384) or under Act of the Provincial Assembly of the Province in which that trade or business is carried on.
+
+ 
+
+(3)
+
+Nothing in this Article shall prevent the imposition of fees for services rendered.
+
+ 
+
+ 
+
+ [385](#385)\[
+
+**165A**
+
+**Power of Majlis-e-Shoora (Parliament) to impose tax on the income of certain corporations, etc.**  
+
+(1)
+
+ [386](#386)\[Majlis-e-Shoora (Parliament)\] [386](#386) has, and shall be deemed always to have had, the power to make a law to provide for the levy and recovery of a tax on the income of a corporation, company or other body or institution established by or under a Federal law or a Provincial law or an existing law or a corporation, company or other body or institution owned or controlled, either directly or indirectly, by the Federal Government or a Provincial Government, regardless of the ultimate destination of such income.
+
+ 
+
+(2)
+
+All orders made, proceedings taken and acts done by any authority or person, which were made, taken or done, or purported to have been made, taken or done, before the commencement of the Constitution (Amendment) Order 1985, in exercise of the powers derived from any law referred to in clause (1), or in execution of any orders made by any authority in the exercise or purported exercise of powers as aforesaid, shall, notwithstanding any judgment of any court or tribunal,including the Supreme Court and a High Court, be deemed to be and always to have been validly made, taken or done and-shall not be called in question in any court, including the Supreme Court and a High Court, on any ground whatsoever.
+
+ 
+
+(3)
+
+Every judgment or order of any court or tribunal, including the Supreme Court and a High Court, which is repugnant to the provisions of clause (1) or clause (2) shall be, and shall be deemed always to have been, void and of no effect whatsoever.
+
+ 
+
+ 
+
+\] [385](#385)
+
+* * *
+
+### Notes
+
+[375](#f375)   For the notification constituting the National Finance Commission, see Gazette of Pakistan, 1974, Extraordinary, Part II, pages 191-192.  
+
+[376](#f376)   Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+
+[377](#f377)   Substituted by [Constitution (Fifth Amendment) Act, 1976 (62 of 1976)](/pakistan/constitution/amendments/5amendment.html), Section 3 (with effect from September 16, 1976) for :
+
+> (ii)
+> 
+> taxes on sales and purchase;
+
+[378](#f378)   Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 59 (with effect from April 19, 2010).
+
+[379](#f379)   For such Order, see the Distribution of Revenues and Grants-in-Aid Order, 1975 (President's Order No.2 of 1975).  
+
+[380](#f380)   Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 60 (with effect from April 19, 2010) for :
+
+> (1)
+> 
+> Notwithstanding the provisions of Article 78 the net proceeds of the Federal duty of excise on natural gas levied at well-head and collected by the Federal Government, and of the royalty collected by the Federal Government, shall not form part of the Federal Consolidated Fund and shall be paid to the Province in which the well-head of natural gas is situated.
+> 
+>  
+
+[381](#f381)   Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+
+[382](#f382)   Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+
+[383](#f383)   Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+
+[384](#f384)   Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+
+[385](#f385)   Inserted by [Constitution (Amendment) Order, 1985 (President's Order No. 11 of 1985)](/pakistan/constitution/orders/po11_1985.html), Art 2 (with effect from February 24, 1985).
+
+[386](#f386)   Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+
+* * *
+
+  Chapter 2: "Borrowing and Audit" of Part VI: "Finance, Property, Contracts and Suits"  div.references > div:target { background-color: #DEF; <!-- thisPageName = 'part6.ch2'; // [**The Constitution of Pakistan**](/pakistan/constitution/) on [pakistani.org](/)
+
+Go to: \[Select a Part/Chapter/Annex/Schedule ... \] Preamble Part I: Introductory - \[Articles 1-6\] Part II: Fundamental Rights and Principles of Policy - \[Articles 7-40\] \----Part II: Chapter 1: Fundamental Rights - \[Articles 8-28\] \----Part II: Chapter 2: Principles of Policy - \[Articles 29-40\] Part III: The Federation of Pakistan - \[Articles 41-100\] \----Part III: Chapter 1: The President - \[Articles 41-49\] \----Part III: Chapter 2: Majlis-e-Shoora (Parliament) - \[Articles 50-89\] \----Part III: Chapter 3: The Federal Government - \[Articles 90-100\] Part IV: The Provinces - \[Articles 101-140A\] \----Part IV: Chapter 1: The Governors - \[Articles 101-105\] \----Part IV: Chapter 2: Provincial Assemblies - \[Articles 106-128\] \----Part IV: Chapter 3: The Provincial Governments - \[Articles 129-140A\] Part V: Relations between Federation and Provinces - \[Articles 141-159\] \----Part V: Chapter 1: Distribution of Legislative Powers - \[Articles 141-144\] \----Part V: Chapter 2: Administrative Relations between the Federation and Provinces - \[Articles 145-152\] \----Part V: Chapter 3: Special Provisions - \[Articles 153-159\] Part VI: Finance, Property, Contracts and Suits - \[Articles 160-174\] \----Part VI: Chapter 1: Finance - \[Articles 160-165A\] \----Part VI: Chapter 2: Borrowing and Audit - \[Articles 166-171\] \----Part VI: Chapter 3: Property, Contracts, Liabilities and Suits - \[Articles 172-174\] Part VII: The Judicature - \[Articles 175-212B\] \----Part VII: Chapter 1: The Courts - \[Articles 175-175A\] \----Part VII: Chapter 2: The Supreme Court of Pakistan - \[Articles 176-191\] \----Part VII: Chapter 3: The High Courts - \[Articles 192-203\] \----Part VII: Chapter 3A: Federal Shariat Court - \[Articles 203A-203J\] \----Part VII: Chapter 4: General Provisions Relating to the Judicature - \[Articles 204-212B\] Part VIII: Elections - \[Articles 213-226\] \----Part VIII: Chapter 1: Chief Election Commissioner and Elections Commissions - \[Articles 213-221\] \----Part VIII: Chapter 2: Electoral Laws and Conduct of Elections - \[Articles 222-226\] Part IX: Islamic Provisions- \[Articles 227-231\] Part X: Emergency Provisions Part XI: Amendment of Constitution - \[Articles 232-237\] Part XII: Miscellaneous - \[Articles 240-280\] \----Part XII: Chapter 1: Services - \[Articles 240-242\] \----Part XII: Chapter 2: Armed Forces - \[Articles 243-245\] \----Part XII: Chapter 3: Tribal Areas - \[Articles 246-247\] \----Part XII: Chapter 4: General - \[Articles 248-259\] \----Part XII: Chapter 5: Interpretation - \[Articles 260-264\] \----Part XII: Chapter 6: Title, Commencement and Repeal - \[Articles 265-266\] \----Part XII: Chapter 7: Transitional - \[Articles 267-280\] Annex First Schedule: Laws exempted from the operation of Article 8(1) and (2) Second Schedule: Election of President Third Schedule: Oaths of Office Fourth Schedule: Legislative Lists Fifth Schedule: Remuneration and Terms and Conditions of Service of Judges 
+
+* * *
+
+Part VI: Finance, Property, Contracts and Suits
+-----------------------------------------------
+
+Chapter 2: Borrowing and Audit
+------------------------------
+
+**166**
+
+**Borrowing by Federal Government.**  
+The executive authority of the Federation extends to borrowing upon the security of the Federal Consolidated Fun d within such limits, if any, as may from time to time be fixed by Act of  [387](#387)\[Majlis-e-Shoora (Parliament)\] [387](#387), and to the giving of guarantees within such limits, if any, as may be so fixed.
+
+ 
+
+**167**
+
+**Borrowing by Provincial Government.**  
+
+(1)
+
+Subject to the provisions of this Article, the executive authority of a Province extends to borrowing upon the security of the Provincial Consolidated Fund within such limits, if any, as may from time to time be fixed by Act of the Provincial Assembly, and to the giving of guarantees within such limits, if any, as may be so fixed.
+
+ 
+
+(2)
+
+The Federal Government may, subject to such conditions, if any, as it may think fit to impose, make loans to, or so long as any limits fixed under Article 166 are not exceeded give guarantees in respect of loans raised by, any Province, and any sums required for the purpose of making loans to a Province shall be charged upon the Federal Consolidated Fund.
+
+ 
+
+(3)
+
+A Province may not, without the consent of the Federal Government, raise any loan if there is still outstanding any part of a loan made to the Province by the Federal Government, or in respect of which guarantee has been given by the Federal Government; and consent under this clause may be granted subject to such conditions, if any, as the Federal Government may think fit to impose.
+
+ 
+
+ [388](#388)\[
+
+(4)
+
+A Province may raise domestic or international loan, or give guarantees on the security of the Provincial Consolidated Fund within such limits and subject to such conditions as may be specified by the National Economic Council.
+
+ 
+
+\] [388](#388)
+
+ 
+
+### Audit and Accounts
+
+**168**
+
+**Auditor-General of Pakistan.**  
+
+(1)
+
+There shall be an Auditor-General of Pakistan, who shall be appointed by the President.
+
+ 
+
+(2)
+
+Before entering upon office, the Auditor-General shall make before the Chief Justice of Pakistan oath in the form set out in the Third Schedule.
+
+ 
+
+ [389](#389)\[
+
+(3)
+
+The Auditor-General shall, unless he sooner resigns or is removed from office in accordance with clause (5), hold office for a term of four years from the date on which he assumes such office or attains the age of sixty-five years, whichever is earlier.
+
+ 
+
+\] [389](#389) [392](#392)\[
+
+(3A)
+
+The other terms and conditions of service of the Auditor-General shall be determined, by Act of Majlis-e-Shoora (Parliament); and, until so determined, by Order of the President.
+
+ 
+
+\] [392](#392)
+
+(4)
+
+A person who has held office as Auditor-General shall not be eligible for further appointment in the service of Pakistan before the expiration of two years after he has ceased to hold that office.
+
+ 
+
+(5)
+
+The Auditor-General shall not be removed from office except in the like manner and on the like grounds as a Judge of the Supreme Court.
+
+ 
+
+(6)
+
+At any time when the office of the Auditor-General is vacant or the Auditor-General is absent or is unable to perform the functions of his office due to any cause,  [393](#393)\[the President may appoint the most senior officer in the Office of the Auditor-General to\] [393](#393) act as Auditor-General and perform the functions of that office.
+
+ 
+
+ 
+
+**169**
+
+**Functions and powers of Auditor-General.**  
+The Auditor-General shall, in relation to-
+
+(a)
+
+the accounts of the Federation and of the Provinces; and
+
+(b)
+
+the accounts of any authority or body established by the Federation or a Province, perform such functions and exercise such powers as may be determined by or under Act of'  [394](#394)\[Majlis-e-Shoora (Parliament)\] [394](#394) and, until so determined, by Order of the President.
+
+ 
+
+**170**
+
+**Power of Auditor-General to give directions as to accounts.**  
+
+ [395](#395)\[(1)\] [395](#395)
+
+The accounts of the Federation and of the Provinces shall be kept in such form and in accordance with such principles and methods as the Auditor-General may, with the approval of the President, prescribe.
+
+ 
+
+ [396](#396)\[
+
+(2)
+
+The audit of the accounts of the Federal and of the Provincial Governments and the accounts of any authority or body established by, or under the control of, the Federal or a Provincial Government shall be conducted by the Audior-General, who shall determine the extent and nature of such audit.
+
+ 
+
+\] [396](#396)
+
+ 
+
+**171**
+
+**Reports of Auditor-General.**  
+The reports of the Auditor-General relating to the accounts of the Federation shall be submitted to the President, who shall cause them to be laid before the  [397](#397)\[both Houses of Majlis-e-Shoora (Parliament)\] [397](#397) and the reports of the Auditor-General relating to the accounts of a Province shall be submitted to the Governor of the Province, who shall cause them to be laid before the Provincial Assembly.
+
+ 
+
+* * *
+
+### Notes
+
+[387](#f387)   Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+
+[388](#f388)   Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 61 (with effect from April 19, 2010).
+
+[389](#f389)   Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 62(i) (with effect from April 19, 2010) for :
+
+> (3)
+> 
+> The terms and conditions of service, including the term of office, of the Auditor-General shall be determined by Act of  [390](#390)\[Majlis-e-Shoora (Parliament)\] [390](#390) and, until so determined, by  [391](#391) Order of the President.
+> 
+>  
+
+[390](#f390)   Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+
+[391](#f391)   For such Order, see the Pakistan (Audit and Accounts) Order, 1973 (President's Order No. 21 of 1973).  
+
+[392](#f392)   Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 62(ii) (with effect from April 19, 2010).
+
+[393](#f393)   Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 62(iii) (with effect from April 19, 2010) for "such other person as the President may direct shall".
+
+[394](#f394)   Substituted by [Revival of Constitution of 1973 Order, 1985 (President's Order No. 14 of 1985)](/pakistan/constitution/orders/po14_1985.html), Art 2, Sch. item 1 (with effect from March 2, 1985) for "Parliament".
+
+[395](#f395)   Renumbered by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 63 (with effect from April 19, 2010)
+
+[396](#f396)   Inserted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 63 (with effect from April 19, 2010).
+
+[397](#f397)   Substituted by [Constitution (Eighteenth Amendment) Act, 2010](/pakistan/constitution/amendments/18amendment.html), Section 64 (with effect from April 19, 2010) for "National Assembly".
+
+* * *
+
+# CHAPTER 3 - PROPERTY, CONTRACTS, LIABILITIES, AND SUITS
+
+## 172. Ownerless property
+
+(1) Any property which has no rightful owner shall, if located in a Province, vest in the Government of that Province, and in every other case, in the Federal Government.
+
+(2) All lands, minerals, and other things of value within the continental shelf or underlying the ocean beyond the territorial waters of Pakistan shall vest in the Federal Government.
+
+(3) Subject to the existing commitments and obligations, mineral oil and natural gas within the Province or the territorial water adjacent thereto shall vest jointly and equally in that Province and the Federal Government.
+
+## 173. Power to acquire property and to make contracts, etc.
+
+(1) The executive authority of the Federation and of a Province shall extend, subject to any Act of the appropriate Legislature, to the grant, sale, disposition, or mortgage of any property vested in, and to the purchase or acquisition of property on behalf of, the Federal Government or, as the case may be, the Provincial Government, and to the making of contracts.
+
+(2) All property acquired for the purposes of the Federation or of a Province shall vest in the Federal Government or, as the case may be, in the Provincial Government.
+
+(3) All contracts made in the exercise of the executive authority of the Federation or of a Province shall be expressed to be made in the name of the President or, as the case may be, the Governor of the Province, and all such contracts and all assurances of property made in the exercise of that authority shall be executed on behalf of the President or Governor by such persons and in such manner as he may direct or authorize.
+
+(4) Neither the President, nor the Governor of a Province, shall be personally liable in respect of any contract or assurance made or executed in the exercise of the executive authority of the Federation or, as
+the  case  may  be,  the  Province,  nor  shall  any  person  making  or  executing any  such  contract  or  assurance  on  behalf  of  any  of  them  be  personally liable in respect thereof.(5)Transfer of land by the Federal Government or a Provincial Government shall be regulated by law.
+## 174.Suits and proceedings
+174.The Federation may sue or be sued by the name of Pakistan and a Province may sue or be sued by the name of the Province.
