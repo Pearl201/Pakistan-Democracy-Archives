@@ -49,7 +49,7 @@ Do  hereby,  through  our  representatives  in  the  National  Assembly, adopt, 
 
 # PART I: Introductory
 
-1. ##The Republic and its territories
+1. ## The Republic and its territories
 
    (1) Pakistan shall be a Federal Republic known as the Islamic Republic of Pakistan, hereinafter referred to as Pakistan.
 
@@ -61,20 +61,20 @@ Do  hereby,  through  our  representatives  in  the  National  Assembly, adopt, 
    
    (3) Majlis-e-Shoora (Parliament) may, by law, admit new States or areas into the Federation on such terms and conditions as it thinks fit.
 
-2. ##Islam to be State religion
+2. ## Islam to be State religion
 
    Islam shall be the State religion of Pakistan.
 
-2A. ##The Objectives Resolution to form part of substantive provisions
+2A. ## The Objectives Resolution to form part of substantive provisions
 
    The principles and provisions set out in the Objectives Resolution reproduced in the Annex are hereby made a substantive part of the Constitution and shall have effect accordingly.
 
-  ##3 Elimination of exploitation  
+  ## 3 Elimination of exploitation  
 The State shall ensure the elimination of all forms of exploitation and the gradual fulfillment of the fundamental principle, from each according to his ability to each according to his work.
 
  
 
-##4
+## 4
 
 Right of individuals to be dealt with in accordance with law, etc.  
 
@@ -104,7 +104,7 @@ no person shall be compelled to do that which the law does not require him to do
 
  
 
-##5 Loyalty to State and obedience to Constitution and law.  
+## 5 Loyalty to State and obedience to Constitution and law.  
 
 (1)
 
@@ -120,7 +120,7 @@ Obedience to the Constitution and law is the  [10](#10)\[inviolable\] [10](#10
 
  
 
-##6
+## 6
 
 High treason  
  [11](#11)\[
@@ -242,7 +242,7 @@ An act of high treason mentioned in clause (1) or clause (2) shall not be valida
 Part II: Fundamental Rights and Principles of Policy
 ----------------------------------------------------
 
-##7
+## 7
 
 Definition of the State  
 In this Part, unless the context otherwise requires, "the State" means the Federal Government,  [15](#15)\[Majlis-e-Shoora (Parliament)\] [15](#15), a Provincial Government, a Provincial Assembly, and such local or other authorities in Pakistan as are by law empowered to impose any tax or cess.
@@ -252,7 +252,7 @@ In this Part, unless the context otherwise requires, "the State" means the Feder
 Chapter 1: Fundamental Rights
 -----------------------------
 
-##8
+## 8
 
 Laws inconsistent with or in derogation of fundamental rights to be void.  
 
@@ -312,14 +312,12 @@ The rights conferred by this Chapter shall not be suspended except as expressly 
 
  
 
-##9 Security of person.  
+## 9 Security of person.  
 No person shall be deprived of life or liberty save in accordance with law.
 
  
 
-##10##
-
-##Safeguards as to arrest and detention##  
+## 10 Safeguards as to arrest and detention
 
 (1)
 
@@ -395,18 +393,14 @@ Nothing in this Article shall apply to any person who for the time being is an e
 
  [24](#24)\[
 
-##10A.##
-
-##Right to fair trial:##  
+## 10A. Right to fair trial:
 For the determination of his civil rights and obligations or in any criminal charge against him a person shall be entitled to a fair trial and due process.
 
  
 
 \] [24](#24)
 
-##11##
-
-##Slavery, forced labour, etc. prohibited##  
+##11 Slavery, forced labour, etc. prohibited  
 
 (1)
 
@@ -442,9 +436,7 @@ required by any law for public purpose provided that no compulsory service shall
 
  
 
-##12##
-
-##Protection against retrospective punishment##  
+##12 Protection against retrospective punishment 
 
 (1)
 
@@ -468,9 +460,7 @@ Nothing in clause (1) or in Article 270 shall apply to any law making acts of ab
 
  
 
-##13##
-
-##Protection against double punishment and self incrimination.##  
+## 13 Protection against double punishment and self incrimination.##  
 No person:-
 
 (a)
