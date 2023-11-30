@@ -4,29 +4,61 @@ Below is a detailed plan for Semester 1, focusing on the courses of Introduction
 
 #### Week 1-2:
 - **Introduction to Legal Systems and Methods:**
-  - Overview of legal systems worldwide.
-  - Reading: Introduction to Legal Systems textbook.
-  - Quiz on different legal traditions.
+
+- **Overview of Legal Systems Worldwide**
+  - Common law, civil law, religious law, customary law, mixed legal systems.
+  - 
+- **Reading Assignment**
+  - "Comparative Legal Traditions in a Nutshell by MA Glendon" textbook.
+  - Focus on sources of law, role of precedent, legislative processes, and the judiciary.
+
+- **Quiz Preparation - Different Legal Traditions**
+  - Common Law Systems
+    - Role of judicial decisions.
+    - Stare decisis and its significance.
+    - Landmark common law cases.
+  - Civil Law Systems
+    - Codification of laws and its impact on legal reasoning.
+
+- **Quiz on Different Legal Traditions**
+  - Evaluate comprehension on common law and civil law systems.
 
 - **Legal Writing and Research:**
   - Introduction to legal research methodologies.
   - Research assignment on a basic legal issue.
   - Submission of a short legal research memo.
 
+**Week 2: Contract Law Fundamentals**
+
 - **Contract Law:**
   - Introduction to the elements of a contract.
-  - Reading: Chapters 1-3 of "Contract Law: Principles and Cases."
-  - Quiz on basic contract law concepts.
+  
+- **Reading Assignment**
+  - Chapters 1-3 of "Contract Law: An Introduction to the English Law of Contract for the Civil Lawyer 2nd Edition
+by John Cartwright.
+  - Focus on foundational principles and case studies.
+
+- **Quiz Preparation - Basic Contract Law Concepts**
+  - Elements of a contract.
+  - Key concepts from Chapters 1-3.
+  - Application of contract law in hypothetical scenarios.
+
+- **Quiz on Basic Contract Law Concepts**
+  - Assess understanding of fundamental contract law principles.
+
+- **Review and Discussion**
+  - Analyze quiz results and address any misconceptions.
+  - Provide insights into upcoming contract law topics.
 
 - **Legal Ethics and Professional Responsibility:**
   - Introduction to legal ethics and the role of a lawyer.
-  - Reading: Model Rules of Professional Conduct.
+  - Reading: Model Rules of Professional Conduct by American Bar Association.
   - Group discussion on ethical scenarios.
 
 #### Week 3-4:
 - **Introduction to Legal Systems and Methods:**
   - Comparative analysis of legal systems.
-  - Reading: Case studies on legal systems in different countries.
+  - Reading: Major Legal Systems in the World Today: An Introduction to the Comparative Study of Law By René David, John E. C. Brierley.
   - Group presentation on a specific legal system.
 
 - **Legal Writing and Research:**
