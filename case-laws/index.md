@@ -9,7 +9,7 @@
 
 2. **Usif Patel Case**  
    - *Citation*: PLD 1955 Federal Court 387 (Appellate Jurisdiction)
-   - *Summary*: Established that the Governor General had no authority to dismiss the Constituent Assembly.
+   - *Summary*: The decision in the case of PLD 1955 Federal Court 3871 does not deal with the dissolution of assembly by the Governor-General. The case was a constitutional criminal appeal that was decided on April 12, 1955, by a bench consisting of five judges. The case involved Usif Patel and two others as appellants and the Crown as the respondent1. The crux of the case is that an ordinance made under section 42 of the Government of India Act, 1935, has the like force of law as an Act passed by the Federal Legislature, but the power of making ordinances under this section is subject to, the like restrictions as the power of the Federal Legislature to make laws. The Emergency Powers Ordinance (IX of 1955), in so far as it validated certain laws of a constitutional nature which had become invalid by reason of want of assent by the Governor-General, was therefore itself invalid.
 
 3. **State v. Dosso**  
    - *Citation*: PLD 1958 SC 533
