@@ -2,6 +2,9 @@
 1. **Maulvi Tamizuddin Khan Case**  
    - *Citation*: PLD 1955 Federal Court 240
    - *Summary*: Dealt with the Governor General's powers and the dismissal of the Constituent Assembly.
+1.1 **Maulvi Tamizuddin Khan Case at Sindh Chief Court**  
+   - *Citation*: PLD 1955 Sindh Chief Court 96
+   - *Summary*: Dealt with the Governor General's powers and the dismissal of the Constituent Assembly.
 
 2. **Usif Patel Case**  
    - *Citation*: PLD 1955 Federal Court 387 (Appellate Jurisdiction)
